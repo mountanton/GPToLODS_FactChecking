@@ -1,0 +1,1999 @@
+ID: #1  
+Manual Label: Correct
+<http://dbpedia.org/resource/Knossos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ArchaeologicalSite> .
+
+ID: #2  
+Manual Label: Correct
+<http://dbpedia.org/resource/Knossos> <http://dbpedia.org/ontology/architecturalStyle> <http://dbpedia.org/resource/Minoan_architecture> .
+
+ID: #3 
+Manual Label: Correct
+<http://dbpedia.org/resource/Knossos> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #4
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Knossos> <http://dbpedia.org/ontology/elevation> "80"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+ID: #5  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Knossos> <http://dbpedia.org/ontology/foundedBy> <http://dbpedia.org/resource/King_Min> .
+
+ID: #6  
+Manual Label: Correct
+<http://dbpedia.org/resource/Knossos> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Heraklion_(regional_unit)> .
+
+ID: #7  
+Manual Label: Correct
+<http://dbpedia.org/resource/Knossos> <http://dbpedia.org/ontology/numberOfRooms> "1300"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #8  
+Manual Label: Correct
+<http://dbpedia.org/resource/Parthenon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Building> .
+
+ID: #9  
+Manual Label: Correct
+<http://dbpedia.org/resource/Parthenon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Museum> .
+
+ID: #10  
+Manual Label: Correct
+<http://dbpedia.org/resource/Parthenon> <http://dbpedia.org/ontology/architecturalStyle> <http://dbpedia.org/resource/Ancient_Greek_architecture> .
+
+ID: #11  
+Manual Label: Correct
+<http://dbpedia.org/resource/Parthenon> <http://dbpedia.org/ontology/architecturalStyle> <http://dbpedia.org/resource/Classical_architecture> .
+
+ID: #12  
+Manual Label: Correct
+<http://dbpedia.org/resource/Parthenon> <http://dbpedia.org/ontology/architect> <http://dbpedia.org/resource/Ictinus> .
+
+ID: #13  
+Manual Label: Correct
+<http://dbpedia.org/resource/Parthenon> <http://dbpedia.org/ontology/architect> <http://dbpedia.org/resource/Callicrates> .
+
+ID: #14  
+Manual Label: Correct
+<http://dbpedia.org/resource/Parthenon> <http://dbpedia.org/ontology/architect> <http://dbpedia.org/resource/Phidias> .
+
+ID: #15  
+Manual Label: Correct
+<http://dbpedia.org/resource/Parthenon> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Acropolis_of_Athens> .
+
+ID: #16 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Parthenon> <http://dbpedia.org/ontology/openingDate> "438 BC"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #17  
+Manual Label: Correct
+<http://dbpedia.org/resource/Temple_of_Poseidon,_Sounion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Temple> .
+
+ID: #18  
+Manual Label: Correct
+<http://dbpedia.org/resource/Temple_of_Poseidon,_Sounion> <http://dbpedia.org/ontology/architecturalStyle> <http://dbpedia.org/resource/Ancient_Greek_architecture> .
+
+ID: #19  
+Manual Label: Correct
+<http://dbpedia.org/resource/Temple_of_Poseidon,_Sounion> <http://dbpedia.org/ontology/architecturalStyle> <http://dbpedia.org/resource/Doric_order> . .
+
+ID: #20 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Temple_of_Poseidon,_Sounion> <http://dbpedia.org/ontology/architect> <http://dbpedia.org/resource/Ictinus> .
+
+ID: #21 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Temple_of_Poseidon,_Sounion> <http://dbpedia.org/ontology/builder> <http://dbpedia.org/resource/Pericles> .
+
+ID: #22  
+Manual Label: Correct
+<http://dbpedia.org/resource/Temple_of_Poseidon,_Sounion> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #23  
+Manual Label: Correct
+<http://dbpedia.org/resource/Temple_of_Poseidon,_Sounion> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Sounion> . 
+
+ID: #24  
+Manual Label: Correct
+<http://dbpedia.org/resource/Temple_of_Poseidon,_Sounion> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Attica> .
+
+ID: #25
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Temple_of_Poseidon,_Sounion> <http://dbpedia.org/ontology/height> "16.4"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #26  
+Manual Label: Correct
+<http://dbpedia.org/resource/Temple_of_Poseidon,_Sounion> <http://dbpedia.org/ontology/length> "31.1"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #27  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Temple_of_Poseidon,_Sounion> <http://dbpedia.org/ontology/width> "13.72"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #28  
+Manual Label: Correct
+<http://dbpedia.org/resource/Temple_of_Poseidon,_Sounion> <http://dbpedia.org/ontology/constructedDate> "-440"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #29  
+Manual Label: Correct
+<http://dbpedia.org/resource/Temple_of_Poseidon,_Sounion> <http://dbpedia.org/ontology/destroyed> "480 BC"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #30
+Manual Label: Correct
+<http://dbpedia.org/resource/Koules_Fortress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Castle> .
+
+ID: #31  
+Manual Label: Correct
+<http://dbpedia.org/resource/Koules_Fortress> <http://dbpedia.org/ontology/architecturalStyle> <http://dbpedia.org/resource/Venetian_architecture> .
+
+ID: #32  
+Manual Label: Correct
+<http://dbpedia.org/resource/Koules_Fortress> <http://dbpedia.org/ontology/architect> <http://dbpedia.org/resource/Michele_Sanmicheli> .
+
+ID: #33
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Koules_Fortress> <http://dbpedia.org/ontology/builder> <http://dbpedia.org/resource/Francisco_Moro> .
+
+ID: #34
+Manual Label: Correct
+<http://dbpedia.org/resource/Koules_Fortress> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #35
+Manual Label: Correct
+<http://dbpedia.org/resource/Koules_Fortress> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Heraklion> .
+
+ID: #36
+Manual Label: Correct
+<http://dbpedia.org/resource/Koules_Fortress> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Crete> .
+
+ID: #37
+Manual Label: Correct
+<http://dbpedia.org/resource/Koules_Fortress> <http://dbpedia.org/ontology/openToPublic> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+
+ID: #38
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Koules_Fortress> <http://dbpedia.org/ontology/height> "26"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #39  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Koules_Fortress> <http://dbpedia.org/ontology/length> "58"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #40  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Koules_Fortress> <http://dbpedia.org/ontology/width> "24"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #41  
+Manual Label: Correct
+<http://dbpedia.org/resource/Koules_Fortress> <http://dbpedia.org/ontology/constructedBy> <http://dbpedia.org/resource/Republic_of_Venice> .
+
+ID: #42  
+Manual Label: Correct
+<http://dbpedia.org/resource/Koules_Fortress> <http://dbpedia.org/ontology/constructedDate> "1540"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #43
+Manual Label: Correct
+<http://dbpedia.org/resource/Delos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ArchaeologicalSite> .
+
+ID: #44
+Manual Label: Correct
+<http://dbpedia.org/resource/Delos> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #45  
+Manual Label: Correct
+<http://dbpedia.org/resource/Delos> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Cyclades> .
+
+ID: #46
+Manual Label: Correct
+<http://dbpedia.org/resource/Delos> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/South_Aegean> .
+
+ID: #47  
+Manual Label: Correct
+<http://dbpedia.org/resource/Delos> <http://dbpedia.org/ontology/latitude> "37.39"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+ID: #48  
+Manual Label: Correct
+<http://dbpedia.org/resource/Delos> <http://dbpedia.org/ontology/longitude> "25.268333"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+ID: #49 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Delos> <http://dbpedia.org/ontology/areaTotal> "3.43"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+ID: #50  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Delos> <http://dbpedia.org/ontology/elevation> "113"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #51  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Delos> <http://dbpedia.org/ontology/visitorsPerYear> "200000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #52 
+Manual Label: Correct
+<http://dbpedia.org/resource/Delos> <http://dbpedia.org/ontology/nearestCity> <http://dbpedia.org/resource/Mykonos> .
+
+ID: #53
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Delos> <http://dbpedia.org/ontology/nearestCity> <http://dbpedia.org/resource/Syros> .
+
+ID: #54  
+Manual Label: Correct
+<http://dbpedia.org/resource/Vergina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ArchaeologicalSite> .
+
+ID: #55  
+Manual Label: Correct
+<http://dbpedia.org/resource/Vergina> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #56  
+Manual Label: Correct
+<http://dbpedia.org/resource/Vergina> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Macedonia_(Greece)> .
+
+ID: #57  
+Manual Label: Correct
+<http://dbpedia.org/resource/Vergina> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Central_Macedonia> .
+
+ID: #58  
+Manual Label: Correct
+<http://dbpedia.org/resource/Vergina> <http://dbpedia.org/ontology/latitude> "40.4833"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+ID: #59  
+Manual Label: Correct
+<http://dbpedia.org/resource/Vergina> <http://dbpedia.org/ontology/longitude> "22.3167"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+ID: #60 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Vergina> <http://dbpedia.org/ontology/areaTotal> "1.6"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+ID: #61  
+Manual Label: Correct
+<http://dbpedia.org/resource/Vergina> <http://dbpedia.org/ontology/elevation> "120"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #62 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Vergina> <http://dbpedia.org/ontology/visitorsPerYear> "150000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #63  
+Manual Label: Correct
+<http://dbpedia.org/resource/Vergina> <http://dbpedia.org/ontology/nearestCity> <http://dbpedia.org/resource/Veria> .
+
+ID: #64 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Vergina> <http://dbpedia.org/ontology/nearestCity> <http://dbpedia.org/resource/Thessaloniki> .
+
+ID: #65  
+Manual Label: Correct
+<http://dbpedia.org/resource/White_Tower_of_Thessaloniki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Museum> .
+
+ID: #66  
+Manual Label: Correct
+<http://dbpedia.org/resource/White_Tower_of_Thessaloniki> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Thessaloniki> .
+
+ID: #67  
+Manual Label: Correct
+<http://dbpedia.org/resource/White_Tower_of_Thessaloniki> <http://dbpedia.org/ontology/architecturalStyle> <http://dbpedia.org/resource/Ottoman_architecture> .
+
+ID: #70  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/White_Tower_of_Thessaloniki> <http://dbpedia.org/ontology/height> "33"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #71  
+Manual Label: Correct
+<http://dbpedia.org/resource/White_Tower_of_Thessaloniki> <http://dbpedia.org/ontology/floorCount> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #72  
+Manual Label: Correct
+<http://dbpedia.org/resource/White_Tower_of_Thessaloniki> <http://dbpedia.org/ontology/builder> <http://dbpedia.org/resource/Ottoman_Empire> .
+
+ID: #73 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/White_Tower_of_Thessaloniki> <http://dbpedia.org/ontology/completionDate> "1430"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #74  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/White_Tower_of_Thessaloniki> <http://dbpedia.org/ontology/visitorsPerYear> "150000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #75  
+Manual Label: Correct
+<http://dbpedia.org/resource/White_Tower_of_Thessaloniki> <http://dbpedia.org/ontology/management> <http://dbpedia.org/resource/Greek_Ministry_of_Culture_and_Sports> .
+
+ID: #76  
+Manual Label: Correct
+<http://dbpedia.org/resource/White_Tower_of_Thessaloniki> <http://dbpedia.org/ontology/nearestCity> <http://dbpedia.org/resource/Thessaloniki> .
+
+ID: #77 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/White_Tower_of_Thessaloniki> <http://dbpedia.org/ontology/nearestMetroStation> <http://dbpedia.org/resource/Thessaloniki_Metro> .
+
+ID: #78  
+Manual Label: Correct
+<http://dbpedia.org/resource/Temple_of_Apollo_(Delphi)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Temple> .
+
+ID: #79  
+Manual Label: Correct
+<http://dbpedia.org/resource/Temple_of_Apollo_(Delphi)> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Delphi> .
+
+ID: #80  
+Manual Label: Correct
+<http://dbpedia.org/resource/Temple_of_Apollo_(Delphi)> <http://dbpedia.org/ontology/architecturalStyle> <http://dbpedia.org/resource/Ancient_Greek_architecture> .
+
+ID: #81  
+Manual Label: Correct
+<http://dbpedia.org/resource/Temple_of_Apollo_(Delphi)> <http://dbpedia.org/ontology/latitude> "38.4806"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+ID: #82  
+Manual Label: Correct
+<http://dbpedia.org/resource/Temple_of_Apollo_(Delphi)> <http://dbpedia.org/ontology/longitude> "22.5008"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+ID: #83 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Temple_of_Apollo_(Delphi)> <http://dbpedia.org/ontology/height> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #84  
+Manual Label: Correct
+<http://dbpedia.org/resource/Temple_of_Apollo_(Delphi)> <http://dbpedia.org/ontology/builder> <http://dbpedia.org/resource/Trophonius> .
+
+ID: #85  
+Manual Label: Correct
+<http://dbpedia.org/resource/Temple_of_Apollo_(Delphi)> <http://dbpedia.org/ontology/completionDate> "4th century BCE"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #86  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Temple_of_Apollo_(Delphi)> <http://dbpedia.org/ontology/visitorsPerYear> "500000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #87 
+Manual Label: Correct
+<http://dbpedia.org/resource/Temple_of_Apollo_(Delphi)> <http://dbpedia.org/ontology/management> <http://dbpedia.org/resource/Greek_Ministry_of_Culture_and_Sports> .
+
+ID: #88  
+Manual Label: Correct
+<http://dbpedia.org/resource/Temple_of_Apollo_(Delphi)> <http://dbpedia.org/ontology/nearestCity> <http://dbpedia.org/resource/Delphi> .
+
+ID: #89  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Temple_of_Apollo_(Delphi)> <http://dbpedia.org/ontology/nearestMetroStation> <http://dbpedia.org/resource/Delphi_Museum> .
+
+ID: #90  
+Manual Label: Correct
+<http://dbpedia.org/resource/Temple_of_Apollo_(Delphi)> <http://dbpedia.org/ontology/religion> <http://dbpedia.org/resource/Ancient_Greek_religion> .
+
+ID: #91  
+Manual Label: Correct
+<http://dbpedia.org/resource/Temple_of_Apollo_(Delphi)> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #92
+Manual Label: Correct
+<http://dbpedia.org/resource/Temple_of_Artemis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Temple> .
+
+ID: #93  
+Manual Label: Correct
+<http://dbpedia.org/resource/Temple_of_Artemis> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Ephesus> .
+
+ID: #94  
+Manual Label: Correct
+<http://dbpedia.org/resource/Temple_of_Artemis> <http://dbpedia.org/ontology/architecturalStyle> <http://dbpedia.org/resource/Ancient_Greek_architecture> .
+
+ID: #95  
+Manual Label: Correct
+<http://dbpedia.org/resource/Temple_of_Artemis> <http://dbpedia.org/ontology/latitude> "37.9473"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+ID: #96  
+Manual Label: Correct
+<http://dbpedia.org/resource/Temple_of_Artemis> <http://dbpedia.org/ontology/longitude> "27.3641"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+ID: #97  
+Manual Label: Correct
+<http://dbpedia.org/resource/Temple_of_Artemis> <http://dbpedia.org/ontology/height> "115"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #98  
+Manual Label: Correct
+<http://dbpedia.org/resource/Temple_of_Artemis> <http://dbpedia.org/ontology/builder> <http://dbpedia.org/resource/Chersiphron> .
+
+ID: #99  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Temple_of_Artemis> <http://dbpedia.org/ontology/completionDate> "550 BCE"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #100  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Temple_of_Artemis> <http://dbpedia.org/ontology/visitorsPerYear> "2,500,000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #104  
+Manual Label: Correct
+<http://dbpedia.org/resource/Temple_of_Artemis> <http://dbpedia.org/ontology/religion> <http://dbpedia.org/resource/Ancient_Greek_religion> .
+
+ID: #105  
+Manual Label: Correct
+<http://dbpedia.org/resource/Temple_of_Artemis> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Turkey> .
+
+ID: #106  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Kerkini> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lake> .
+
+ID: #107  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Kerkini> <http://dbpedia.org/ontology/areaTotal> "54.9"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #108  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Kerkini> <http://dbpedia.org/ontology/length> "16"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #109
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Kerkini> <http://dbpedia.org/ontology/width> "5"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #110 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Kerkini> <http://dbpedia.org/ontology/depth> "10"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #111
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Kerkini> <http://dbpedia.org/ontology/maximumDepth> "28"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #112
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Kerkini> <http://dbpedia.org/ontology/elevation> "33"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #113  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Kerkini> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #114  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Kerkini> <http://dbpedia.org/ontology/catchmentArea> "1600"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #115  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Kerkini> <http://dbpedia.org/ontology/inflow> <http://dbpedia.org/resource/Strymon> .
+
+ID: #116  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Kerkini> <http://dbpedia.org/ontology/outflow> <http://dbpedia.org/resource/Strymon> .
+
+ID: #117  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Kerkini> <http://dbpedia.org/ontology/settlement> <http://dbpedia.org/resource/Sidirokastro> .
+
+ID: #118  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Kerkini> <http://dbpedia.org/ontology/settlement> <http://dbpedia.org/resource/Kerkini> .
+
+ID: #119  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Kerkini> <http://dbpedia.org/ontology/settlement> <http://dbpedia.org/resource/Alistrati> .
+
+ID: #120  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Kerkini> <http://dbpedia.org/ontology/protectedArea> <http://dbpedia.org/resource/Lake_Kerkini_National_Park> .
+
+ID: #123  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Trichonida> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lake> .
+
+ID: #124  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Trichonida> <http://dbpedia.org/ontology/areaTotal> "98.6"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #125  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Trichonida> <http://dbpedia.org/ontology/length> "19"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #126  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Trichonida> <http://dbpedia.org/ontology/width> "11"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #127  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Trichonida> <http://dbpedia.org/ontology/depth> "20"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #128  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Trichonida> <http://dbpedia.org/ontology/maximumDepth> "58"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #129  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Trichonida> <http://dbpedia.org/ontology/elevation> "20"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #130  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Trichonida> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #131  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Trichonida> <http://dbpedia.org/ontology/catchmentArea> "1300"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #132  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Trichonida> <http://dbpedia.org/ontology/inflow> <http://dbpedia.org/resource/Acheloos_River> .
+
+ID: #133   
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Trichonida> <http://dbpedia.org/ontology/outflow> <http://dbpedia.org/resource/Mornos_River> .
+
+ID: #134  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Trichonida> <http://dbpedia.org/ontology/settlement> <http://dbpedia.org/resource/Mesolonghi> .
+
+ID: #135  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Trichonida> <http://dbpedia.org/ontology/settlement> <http://dbpedia.org/resource/Aitoliko> .
+
+ID: #136  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Trichonida> <http://dbpedia.org/ontology/protectedArea> <http://dbpedia.org/resource/Lake_Trichonida_National_Park> .
+
+ID: #137  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Voulismeni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lake> .
+
+ID: #138 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Voulismeni> <http://dbpedia.org/ontology/areaTotal> "0.002"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #139  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Voulismeni> <http://dbpedia.org/ontology/length> "137"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #140  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Voulismeni> <http://dbpedia.org/ontology/width> "65"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #141 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Voulismeni> <http://dbpedia.org/ontology/depth> "64"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #142  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Voulismeni> <http://dbpedia.org/ontology/elevation> "0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #143  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Voulismeni> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Agios_Nikolaos,_Crete> .
+
+ID: #144  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Voulismeni> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #145  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Voulismeni> <http://dbpedia.org/ontology/settlement> <http://dbpedia.org/resource/Agios_Nikolaos,_Crete> .
+
+ID: #146  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Pamvotida> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lake> .
+
+ID: #147 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Pamvotida> <http://dbpedia.org/ontology/areaTotal> "24"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #148   
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Pamvotida> <http://dbpedia.org/ontology/length> "6.9"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #149  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Pamvotida> <http://dbpedia.org/ontology/width> "5.3"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #150 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Pamvotida> <http://dbpedia.org/ontology/depth> "5.3"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #151  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Pamvotida> <http://dbpedia.org/ontology/elevation> "470"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #152  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Pamvotida> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Ioannina> .
+
+ID: #153  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Pamvotida> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #154  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Pamvotida> <http://dbpedia.org/ontology/settlement> <http://dbpedia.org/resource/Ioannina> .
+
+ID: #155  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Vegoritida> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lake> .
+
+ID: #156  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Vegoritida> <http://dbpedia.org/ontology/areaTotal> "54.4"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #157  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Vegoritida> <http://dbpedia.org/ontology/length> "16"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #158  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Vegoritida> <http://dbpedia.org/ontology/width> "5"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #159  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Vegoritida> <http://dbpedia.org/ontology/depth> "54"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #160  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Vegoritida> <http://dbpedia.org/ontology/elevation> "546"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #161  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Vegoritida> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Florina_(regional_unit)> .
+
+ID: #162  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Vegoritida> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #163  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Vegoritida> <http://dbpedia.org/ontology/settlement> <http://dbpedia.org/resource/Amyntaio> .
+
+ID: #164  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Plastiras> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lake> .
+
+ID: #165 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Plastiras> <http://dbpedia.org/ontology/areaTotal> "25"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #166  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Plastiras> <http://dbpedia.org/ontology/length> "14"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #167 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Plastiras> <http://dbpedia.org/ontology/width> "4"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #168  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Plastiras> <http://dbpedia.org/ontology/depth> "50"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #169  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Plastiras> <http://dbpedia.org/ontology/elevation> "800"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #170  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Plastiras> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Karditsa_(regional_unit)> .
+
+ID: #171  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Plastiras> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #172 
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Plastiras> <http://dbpedia.org/ontology/settlement> <http://dbpedia.org/resource/Kalyvia_Pezoulas> .
+
+ID: #173  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Plastiras> <http://dbpedia.org/property/maxDepth> "65"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #174  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Vistonida> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lake> .
+
+ID: #175  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Vistonida> <http://dbpedia.org/ontology/areaTotal> "45"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #176  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Vistonida> <http://dbpedia.org/ontology/length> "16"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #177  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Vistonida> <http://dbpedia.org/ontology/width> "6"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #178  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Vistonida> <http://dbpedia.org/ontology/depth> "5"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #179  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Vistonida> <http://dbpedia.org/ontology/elevation> "3"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #180  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Vistonida> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Xanthi_(regional_unit)> .
+
+ID: #181  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Vistonida> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #182  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Vistonida> <http://dbpedia.org/ontology/settlement> <http://dbpedia.org/resource/Avdira> .
+
+ID: #183  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Vistonida> <http://dbpedia.org/ontology/settlement> <http://dbpedia.org/resource/Ierissos> .
+
+ID: #184  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Vistonida> <http://dbpedia.org/ontology/riverInflow> <http://dbpedia.org/resource/Kompsatos_River> .
+
+ID: #185 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Vistonida> <http://dbpedia.org/ontology/riverOutflow> <http://dbpedia.org/resource/Gallikos_River> .
+
+ID: #186  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Volvi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lake> .
+
+ID: #187  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Volvi> <http://dbpedia.org/ontology/areaTotal> "71"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #188  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Volvi> <http://dbpedia.org/ontology/length> "22"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #189  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Volvi> <http://dbpedia.org/ontology/width> "7"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #190  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Volvi> <http://dbpedia.org/ontology/depth> "21"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #191  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Volvi> <http://dbpedia.org/ontology/elevation> "67"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #192  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Volvi> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Thessaloniki_(regional_unit)> .
+
+ID: #193  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Volvi> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #194  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Volvi> <http://dbpedia.org/ontology/settlement> <http://dbpedia.org/resource/Stavros,_Thessaloniki> .
+
+ID: #195  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Volvi> <http://dbpedia.org/ontology/settlement> <http://dbpedia.org/resource/Asprovalta> .
+
+ID: #196  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Volvi> <http://dbpedia.org/ontology/riverInflow> <http://dbpedia.org/resource/Rhodope_(river)> .
+
+ID: #197  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Volvi> <http://dbpedia.org/ontology/riverOutflow> <http://dbpedia.org/resource/Strymonas_River> .
+
+ID: #198  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Doxa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lake> .
+
+ID: #199  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Doxa> <http://dbpedia.org/ontology/areaTotal> "0.51"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #200  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Doxa> <http://dbpedia.org/ontology/length> "2.5"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #201  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Doxa> <http://dbpedia.org/ontology/width> "1.5"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #202  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Doxa> <http://dbpedia.org/ontology/depth> "32"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #203  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Doxa> <http://dbpedia.org/ontology/elevation> "900"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #204  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Doxa> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Korinthia> .
+
+ID: #205  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lake_Doxa> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #206 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Doxa> <http://dbpedia.org/ontology/settlement> <http://dbpedia.org/resource/Loutraki-Perachora> .
+
+ID: #207  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Doxa> <http://dbpedia.org/ontology/riverInflow> <http://dbpedia.org/resource/Ladonas> .
+
+ID: #208  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lake_Doxa> <http://dbpedia.org/ontology/riverOutflow> <http://dbpedia.org/resource/Loussi> .
+
+ID: #209  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mount_Ida_(Crete)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Mountain> .
+
+ID: #210  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mount_Ida_(Crete)> <http://dbpedia.org/ontology/elevation> "2456"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #211
+Manual Label: Correct
+<http://dbpedia.org/resource/Mount_Ida_(Crete)> <http://dbpedia.org/ontology/prominence> "2456"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #212  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Mount_Ida_(Crete)> <http://dbpedia.org/ontology/length> "40"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #213  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Mount_Ida_(Crete)> <http://dbpedia.org/ontology/width> "20"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #214  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mount_Ida_(Crete)> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Crete> .
+
+ID: #215  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mount_Ida_(Crete)> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #216  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mount_Ida_(Crete)> <http://dbpedia.org/ontology/settlement> <http://dbpedia.org/resource/Heraklion> .
+
+ID: #218  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mount_Ida_(Crete)> <http://dbpedia.org/ontology/tributary> <http://dbpedia.org/resource/Geropotamos> .
+
+ID: #219 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Mount_Ida_(Crete)> <http://dbpedia.org/ontology/highest> <http://dbpedia.org/resource/Timi_Vrontisi> .
+
+ID: #220  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mount_Ida_(Crete)> <http://dbpedia.org/ontology/geology> <http://dbpedia.org/resource/Limestone> .
+
+ID: #221  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mount_Parnassus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Mountain> .
+
+ID: #222  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Mount_Parnassus> <http://dbpedia.org/ontology/elevation> "2455"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #223  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Mount_Parnassus> <http://dbpedia.org/ontology/prominence> "1584"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #224  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Mount_Parnassus> <http://dbpedia.org/ontology/length> "15"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #225  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Mount_Parnassus> <http://dbpedia.org/ontology/width> "10"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #226  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mount_Parnassus> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Central_Greece> .
+
+ID: #227  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mount_Parnassus> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #228  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mount_Parnassus> <http://dbpedia.org/ontology/settlement> <http://dbpedia.org/resource/Delphi> .
+
+ID: #230  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mount_Parnassus> <http://dbpedia.org/ontology/river> <http://dbpedia.org/resource/Cephissus_(Boeotia)> .
+
+ID: #231  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mount_Parnassus> <http://dbpedia.org/ontology/tributary> <http://dbpedia.org/resource/Cephissus_(Boeotia)> .
+
+ID: #232  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mount_Parnassus> <http://dbpedia.org/ontology/highest> <http://dbpedia.org/resource/Liakoura> .
+
+ID: #233  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mount_Parnassus> <http://dbpedia.org/ontology/geology> <http://dbpedia.org/resource/Limestone> .
+
+ID: #234  
+Manual Label: Correct
+<http://dbpedia.org/resource/Smolikas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Mountain> .
+
+ID: #235  
+Manual Label: Correct
+<http://dbpedia.org/resource/Smolikas> <http://dbpedia.org/ontology/elevation> "2637"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #236  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Smolikas> <http://dbpedia.org/ontology/prominence> "1735"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #237  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Smolikas> <http://dbpedia.org/ontology/length> "7"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #238  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Smolikas> <http://dbpedia.org/ontology/width> "4"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #239  
+Manual Label: Correct
+<http://dbpedia.org/resource/Smolikas> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Epirus_(region)> .
+
+ID: #240  
+Manual Label: Correct
+<http://dbpedia.org/resource/Smolikas> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #241  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Smolikas> <http://dbpedia.org/ontology/settlement> <http://dbpedia.org/resource/Vovousa> .
+
+ID: #242  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mount_Olympus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Mountain> .
+
+ID: #243  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mount_Olympus> <http://dbpedia.org/ontology/elevation> "2917"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #244  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mount_Olympus> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Greece> .
+
+ID: #245  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mount_Olympus> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Thessaly> .
+
+ID: #246  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mount_Olympus> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Macedonia_(region)> .
+
+ID: #247  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mount_Olympus> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Pieria> .
+
+ID: #248  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Mount_Olympus> <http://dbpedia.org/ontology/parentPeak> <http://dbpedia.org/resource/Greek_national_apoapsis> .
+
+ID: #249  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mount_Olympus> <http://dbpedia.org/ontology/prominence> "2353"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #250  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mount_Olympus> <http://dbpedia.org/ontology/coordinates> "40.08 -22.35"^^<http://www.w3.org/2003/01/geo/wgs84_pos#lat_long> .
+
+ID: #251  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mount_Giona> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Mountain> .
+
+ID: #252  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mount_Giona> <http://dbpedia.org/ontology/elevation> "2510"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #253 
+Manual Label: Correct
+<http://dbpedia.org/resource/Mount_Giona> <http://dbpedia.org/ontology/parentMountain> <http://dbpedia.org/resource/Parnassus> .
+
+ID: #254  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Mount_Giona> <http://www.w3.org/2002/07/owl#sameAs> <http://sws.geonames.org/262009/> .
+
+ID: #257  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lefka_Ori> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Mountain> .
+
+ID: #258  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lefka_Ori> <http://www.w3.org/2000/01/rdf-schema#label> "Lefka Ori"@en .
+
+ID: #259  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lefka_Ori> <http://dbpedia.org/ontology/elevation> "2453"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #260  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lefka_Ori> <http://dbpedia.org/ontology/parentMountain> <http://dbpedia.org/resource/Sparta> .
+
+ID: #261  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lefka_Ori> <http://www.w3.org/2002/07/owl#sameAs> <http://sws.geonames.org/259727/> .
+
+ID: #262  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lefka_Ori> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "35.29"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+ID: #263  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lefka_Ori> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "23.877"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+ID: #264  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lefka_Ori> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #265  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lefka_Ori> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Lefka_Ori> .
+
+ID: #266  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lefka_Ori> <http://dbpedia.org/ontology/governingBody> <http://dbpedia.org/resource/Sphakia> .
+
+ID: #267  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lefka_Ori> <http://dbpedia.org/ontology/highestMountain> <http://dbpedia.org/resource/Pachnes> .
+
+ID: #268  
+Manual Label: Correct
+<http://dbpedia.org/resource/Tymphe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Mountain> .
+
+ID: #269  
+Manual Label: Correct
+<http://dbpedia.org/resource/Tymphe> <http://www.w3.org/2000/01/rdf-schema#label> "Tymphe"@en .
+
+ID: #270  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Tymphe> <http://dbpedia.org/ontology/elevation> "2314"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #271  
+Manual Label: Correct
+<http://dbpedia.org/resource/Tymphe> <http://dbpedia.org/ontology/parentMountain> <http://dbpedia.org/resource/Pindus> .
+
+ID: #272  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Tymphe> <http://www.w3.org/2002/07/owl#sameAs> <http://sws.geonames.org/251394/> .
+
+ID: #275  
+Manual Label: Correct
+<http://dbpedia.org/resource/Tymphe> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #276  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Tymphe> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Tymphe> .
+
+ID: #277  
+Manual Label: Correct
+<http://dbpedia.org/resource/Tymphe> <http://dbpedia.org/ontology/governingBody> <http://dbpedia.org/resource/Epirus_(region)> .
+
+ID: #278  
+Manual Label: Correct
+<http://dbpedia.org/resource/Tymphe> <http://dbpedia.org/ontology/highestMountain> <http://dbpedia.org/resource/Gamila> .
+
+ID: #279 
+Manual Label: Correct
+<http://dbpedia.org/resource/Gramos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Mountain> .
+
+ID: #280  
+Manual Label: Correct
+<http://dbpedia.org/resource/Gramos> <http://www.w3.org/2000/01/rdf-schema#label> "Gramos"@en .
+
+ID: #281  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Gramos> <http://dbpedia.org/ontology/elevation> "2523"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #284  
+Manual Label: Correct
+<http://dbpedia.org/resource/Gramos> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Albania> .
+
+ID: #285  
+Manual Label: Correct
+<http://dbpedia.org/resource/Gramos> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #286  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Gramos> <http://dbpedia.org/ontology/governingBody> <http://dbpedia.org/resource/Gramos_National_Park> .
+
+ID: #287  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Gramos> <http://dbpedia.org/ontology/highestMountain> <http://dbpedia.org/resource/Gramos> .
+
+ID: #289  
+Manual Label: Correct
+<http://dbpedia.org/resource/Athamanika> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Mountain> .
+
+ID: #290  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Athamanika> <http://dbpedia.org/ontology/elevation> "2436"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #291  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Athamanika> <http://www.w3.org/2002/07/owl#sameAs> <http://sws.geonames.org/265491/> .
+
+ID: #294  
+Manual Label: Correct
+<http://dbpedia.org/resource/Athamanika> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #295  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Athamanika> <http://dbpedia.org/ontology/governingBody> <http://dbpedia.org/resource/National_Park_of_Pindus> .
+
+ID: #296  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Athamanika> <http://dbpedia.org/ontology/highestMountain> <http://dbpedia.org/resource/Velouchi> .
+
+ID: #297  
+Manual Label: Correct
+<http://dbpedia.org/resource/Athamanika> <http://dbpedia.org/ontology/parentMountain> <http://dbpedia.org/resource/Pindus> .
+
+ID: #298  
+Manual Label: Correct
+<http://dbpedia.org/resource/Athamanika> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Epirus_(region)> .
+
+ID: #299  
+Manual Label: Correct
+<http://dbpedia.org/resource/Athamanika> <http://dbpedia.org/ontology/river> <http://dbpedia.org/resource/Acheloos> .
+
+ID: #300  
+Manual Label: Correct
+<http://dbpedia.org/resource/Taygetus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Mountain> .
+
+ID: #301  
+Manual Label: Correct
+<http://dbpedia.org/resource/Taygetus> <http://www.w3.org/2000/01/rdf-schema#label> "Taygetus"@en .
+
+ID: #302  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Taygetus> <http://dbpedia.org/ontology/elevation> "2407"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #303  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Taygetus> <http://www.w3.org/2002/07/owl#sameAs> <http://sws.geonames.org/256340/> .
+
+ID: #306  
+Manual Label: Correct
+<http://dbpedia.org/resource/Taygetus> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #307  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Taygetus> <http://dbpedia.org/ontology/governingBody> <http://dbpedia.org/resource/Pindus_National_Park> .
+
+ID: #308  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Taygetus> <http://dbpedia.org/ontology/highestMountain> <http://dbpedia.org/resource/Mount_Taygetus> .
+
+ID: #309  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Taygetus> <http://dbpedia.org/ontology/parentMountain> <http://dbpedia.org/resource/Peloponnese> .
+
+ID: #310  
+Manual Label: Correct
+<http://dbpedia.org/resource/Corfu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+
+ID: #311  
+Manual Label: Correct
+<http://dbpedia.org/resource/Corfu> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #312  
+Manual Label: Correct
+<http://dbpedia.org/resource/Corfu> <http://dbpedia.org/ontology/populationTotal> "102071"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #313  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Corfu> <http://dbpedia.org/ontology/areaTotal> "641"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #314  
+Manual Label: Correct
+<http://dbpedia.org/resource/Corfu> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Eastern_European_Time> .
+
+ID: #315  
+Manual Label: Correct
+<http://dbpedia.org/resource/Corfu> <http://dbpedia.org/ontology/utcOffset> "+2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #316  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Corfu> <http://dbpedia.org/ontology/elevation> "29"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #317  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Corfu> <http://dbpedia.org/ontology/mayor> <http://dbpedia.org/resource/Kostas_Nikolouzos> .
+
+ID: #318  
+Manual Label: Correct
+<http://dbpedia.org/resource/Cephalonia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+
+ID: #319  
+Manual Label: Correct
+<http://dbpedia.org/resource/Cephalonia> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #320  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Cephalonia> <http://dbpedia.org/ontology/populationTotal> "35274"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #321  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Cephalonia> <http://dbpedia.org/ontology/areaTotal> "904.5"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #322  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Cephalonia> <http://dbpedia.org/ontology/elevation> "1628"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #323  
+Manual Label: Correct
+<http://dbpedia.org/resource/Cephalonia> <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/Argostoli> .
+
+ID: #324  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Cephalonia> <http://dbpedia.org/ontology/governor> <http://dbpedia.org/resource/Theodoros_Kostopoulos> .
+
+ID: #325  
+Manual Label: Correct
+<http://dbpedia.org/resource/Cephalonia> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Euro> .
+
+ID: #326  
+Manual Label: Correct
+<http://dbpedia.org/resource/Cephalonia> <http://dbpedia.org/ontology/vehicleCode> "ΚΕ" .
+
+ID: #327  
+Manual Label: Correct
+<http://dbpedia.org/resource/Naxos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+
+ID: #328  
+Manual Label: Correct
+<http://dbpedia.org/resource/Naxos> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #329  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Naxos> <http://dbpedia.org/ontology/populationTotal> "18865"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #330  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Naxos> <http://dbpedia.org/ontology/areaTotal> "429.8"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #331  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Naxos> <http://dbpedia.org/ontology/elevation> "1004"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #332  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Naxos> <http://dbpedia.org/ontology/mayor> <http://dbpedia.org/resource/Nikitas_Karakatsanis> .
+
+ID: #333  
+Manual Label: Correct
+<http://dbpedia.org/resource/Naxos> <http://dbpedia.org/ontology/architect> <http://dbpedia.org/resource/Marco_Sanudo_(architect)> .
+
+ID: #334  
+Manual Label: Correct
+<http://dbpedia.org/resource/Crete> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+
+ID: #335  
+Manual Label: Correct
+<http://dbpedia.org/resource/Crete> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #336  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Crete> <http://dbpedia.org/ontology/populationTotal> "623,666"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #337  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Crete> <http://dbpedia.org/ontology/areaTotal> "8,336"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #338  
+Manual Label: Correct
+<http://dbpedia.org/resource/Crete> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Eastern_European_Time> .
+
+ID: #339  
+Manual Label: Correct
+<http://dbpedia.org/resource/Crete> <http://dbpedia.org/ontology/elevation> "2,456"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #340  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Crete> <http://dbpedia.org/ontology/mayor> <http://dbpedia.org/resource/Kostas_Karayiannis> .
+
+ID: #341  
+Manual Label: Correct
+<http://dbpedia.org/resource/Crete> <http://dbpedia.org/ontology/governor> <http://dbpedia.org/resource/Stavros_Arnaoutakis> .
+
+ID: #342  
+Manual Label: Correct
+<http://dbpedia.org/resource/Kasos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+
+ID: #343 
+Manual Label: Correct
+<http://dbpedia.org/resource/Kasos> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #344  
+Manual Label: Correct
+<http://dbpedia.org/resource/Kasos> <http://dbpedia.org/ontology/populationTotal> "1,084"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #346  
+Manual Label: Correct
+<http://dbpedia.org/resource/Kasos> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Eastern_European_Time> .
+
+ID: #347 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Kasos> <http://dbpedia.org/ontology/elevation> "295"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #348  
+Manual Label: Correct
+<http://dbpedia.org/resource/Tinos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .
+
+ID: #349  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Tinos> <http://dbpedia.org/ontology/populationTotal> "8,636"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #350  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Tinos> <http://dbpedia.org/ontology/areaTotal> "194.46"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+ID: #351  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Tinos> <http://dbpedia.org/ontology/elevation> "245"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #352  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Tinos> <http://dbpedia.org/ontology/maximumElevation> "727"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #353  
+Manual Label: Correct
+<http://dbpedia.org/resource/Tinos> <http://dbpedia.org/ontology/minimumElevation> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #354  
+Manual Label: Correct
+<http://dbpedia.org/resource/Tinos> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Greece> .
+
+ID: #357  
+Manual Label: Correct
+<http://dbpedia.org/resource/Tinos> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Euro> .
+
+ID: #358  
+Manual Label: Correct
+<http://dbpedia.org/resource/Tinos> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Eastern_European_Time> .
+
+ID: #359 
+Manual Label: Correct
+<http://dbpedia.org/resource/Tinos> <http://dbpedia.org/ontology/tourism> <http://dbpedia.org/resource/Tourism_in_Greece> .
+
+ID: #360
+Manual Label: Correct
+<http://dbpedia.org/resource/Gavdos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Island> .
+
+ID: #362  
+Manual Label: Correct
+<http://dbpedia.org/resource/Gavdos> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #363   
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Gavdos> <http://dbpedia.org/ontology/elevation> "280"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+ID: #364  
+Manual Label: Correct
+<http://dbpedia.org/resource/Gavdos> <http://dbpedia.org/ontology/highestMountain> <http://dbpedia.org/resource/Mount_Vardia> .
+
+ID: #365  
+Manual Label: Correct
+<http://dbpedia.org/resource/Gavdos> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Crete> .
+
+ID: #366  
+Manual Label: Correct
+<http://dbpedia.org/resource/Gavdos> <http://dbpedia.org/ontology/largestSettlement> <http://dbpedia.org/resource/Kastri,_Crete> .
+
+ID: #367  
+Manual Label: Correct
+<http://dbpedia.org/resource/Antiparos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+
+ID: #368  
+Manual Label: Correct
+<http://dbpedia.org/resource/Antiparos> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #370  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Antiparos> <http://dbpedia.org/ontology/leaderName> "Charalampos Vourliotis"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+ID: #371  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Antiparos> <http://dbpedia.org/ontology/populationTotal> "1,211"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #372  
+Manual Label: Correct
+<http://dbpedia.org/resource/Skiathos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+
+ID: #373  
+Manual Label: Correct
+<http://dbpedia.org/resource/Skiathos> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #374  
+Manual Label: Correct
+<http://dbpedia.org/resource/Skiathos> <http://dbpedia.org/ontology/governingBody> <http://dbpedia.org/resource/Skiathos_Municipality> .
+
+ID: #375 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Skiathos> <http://dbpedia.org/ontology/leaderName> "Dimitrios Prevezanos"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+ID: #376  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Skiathos> <http://dbpedia.org/ontology/populationTotal> "6,088"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #377  
+Manual Label: Correct
+<http://dbpedia.org/resource/Aegina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+
+ID: #378  
+Manual Label: Correct
+<http://dbpedia.org/resource/Aegina> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #379 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aegina> <http://dbpedia.org/ontology/governingBody> <http://dbpedia.org/resource/Aegina_Municipality> .
+
+ID: #380  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Aegina> <http://dbpedia.org/ontology/leaderName> "Dimitrios Mourtzis"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+ID: #381
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Aegina> <http://dbpedia.org/ontology/populationTotal> "13,056"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #382  
+Manual Label: Correct
+<http://dbpedia.org/resource/Aegina> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Euro> .
+
+ID: #383  
+Manual Label: Correct
+<http://dbpedia.org/resource/Chios> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+
+ID: #384  
+Manual Label: Correct
+<http://dbpedia.org/resource/Chios> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #385  
+Manual Label: Correct
+<http://dbpedia.org/resource/Chios> <http://dbpedia.org/ontology/governingBody> <http://dbpedia.org/resource/Chios_Regional_Unit> .
+
+ID: #386  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Chios> <http://dbpedia.org/ontology/leaderName> "Manolis Vournous"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+ID: #387  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Chios> <http://dbpedia.org/ontology/populationTotal> "52,674"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #388  
+Manual Label: Correct
+<http://dbpedia.org/resource/Chios> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Euro> .
+
+ID: #389  
+Manual Label: Correct
+<http://dbpedia.org/resource/Chios> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/EET> .
+
+ID: #390  
+Manual Label: Correct
+<http://dbpedia.org/resource/Chios> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/EEST> .
+
+ID: #391  
+Manual Label: Correct
+<http://dbpedia.org/resource/Chios> <http://dbpedia.org/ontology/language> <http://dbpedia.org/resource/Greek_language> .
+
+ID: #392 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Chios> <http://dbpedia.org/ontology/nearestCity> <http://dbpedia.org/resource/Çeşme>  .
+
+ID: #393  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Chios> <http://dbpedia.org/ontology/nearestCity> <http://dbpedia.org/resource/Izmir>  .
+
+ID: #394  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Chios> <http://dbpedia.org/ontology/nearestCity> <http://dbpedia.org/resource/Aydın>  .
+
+ID: #395  
+Manual Label: Correct
+<http://dbpedia.org/resource/Chios> <http://dbpedia.org/ontology/nearestAirport> <http://dbpedia.org/resource/Chios_Island_National_Airport>  .
+
+ID: #396  
+Manual Label: Correct
+<http://dbpedia.org/resource/Chios> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Northern_Aegean_Regional_Unit>  .
+
+ID: #397  
+Manual Label: Correct
+<http://dbpedia.org/resource/Santorini> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+
+ID: #398  
+Manual Label: Correct
+<http://dbpedia.org/resource/Santorini> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #399  
+Manual Label: Correct
+<http://dbpedia.org/resource/Santorini> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Euro> .
+
+ID: #400  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Santorini> <http://dbpedia.org/ontology/mayor> <http://dbpedia.org/resource/Nikolaos_Zorzos> .
+
+ID: #401  
+Manual Label: Correct
+<http://dbpedia.org/resource/Santorini> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Eastern_European_Time> .
+
+ID: #403  
+Manual Label: Correct
+<http://dbpedia.org/resource/Santorini> <http://dbpedia.org/ontology/climate> <http://dbpedia.org/resource/Mediterranean_climate> .
+
+ID: #404  
+Manual Label: Correct
+<http://dbpedia.org/resource/Santorini> <http://dbpedia.org/ontology/governingBody> <http://dbpedia.org/resource/Santorini_Prefecture> .
+
+ID: #405  
+Manual Label: Correct
+<http://dbpedia.org/resource/Santorini> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Cyclades> .
+
+ID: #406  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Santorini> <http://dbpedia.org/ontology/nearestCity> <http://dbpedia.org/resource/Fira> .
+
+ID: #407  
+Manual Label: Correct
+<http://dbpedia.org/resource/Heraklion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/City> .
+
+ID: #408  
+Manual Label: Correct
+<http://dbpedia.org/resource/Heraklion> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #409  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Heraklion> <http://dbpedia.org/ontology/mayor> <http://dbpedia.org/resource/Vassilis_Labrinoudakis> .
+
+ID: #410  
+Manual Label: Correct
+<http://dbpedia.org/resource/Heraklion> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Crete> .
+
+ID: #411  
+Manual Label: Correct
+<http://dbpedia.org/resource/Heraklion> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/EET> .
+
+ID: #413  
+Manual Label: Correct
+<http://dbpedia.org/resource/Heraklion> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Crete> .
+
+ID: #414  
+Manual Label: Correct
+<http://dbpedia.org/resource/Heraklion> <http://dbpedia.org/ontology/postalCode> "71xxx" .
+
+ID: #415  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Heraklion> <http://dbpedia.org/ontology/location> <http://sws.geonames.org/261842/> .
+
+ID: #416  
+Manual Label: Correct
+<http://dbpedia.org/resource/Chania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .
+
+ID: #417  
+Manual Label: Correct
+<http://dbpedia.org/resource/Chania> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #418
+Manual Label: Correct
+<http://dbpedia.org/resource/Chania> <http://dbpedia.org/ontology/populationTotal> "108642"^^http://www.w3.org/2001/XMLSchema#integer .
+
+ID: #420 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Chania> <http://dbpedia.org/ontology/elevation> "13"^^http://www.w3.org/2001/XMLSchema#integer .
+
+ID: #421  
+Manual Label: Correct
+<http://dbpedia.org/resource/Chania> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Euro> .
+
+ID: #422  
+Manual Label: Correct
+<http://dbpedia.org/resource/Chania> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Eastern_European_Time> 
+
+ID: #423  
+Manual Label: Correct
+<http://dbpedia.org/resource/Chania> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Crete> .
+
+ID: #424  
+Manual Label: Correct
+<http://dbpedia.org/resource/Chania> <http://dbpedia.org/ontology/mayor> <http://dbpedia.org/resource/Panagiotis_Simandirakis> .
+
+ID: #425  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Chania> <http://dbpedia.org/ontology/motto> "Freedom and Progress" .
+
+ID: #426  
+Manual Label: Correct
+<http://dbpedia.org/resource/Chania> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Crete> .
+
+ID: #427
+Manual Label: Correct
+<http://dbpedia.org/resource/Thessaloniki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/City> .
+
+ID: #428  
+Manual Label: Correct
+<http://dbpedia.org/resource/Thessaloniki> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #429
+Manual Label: Correct
+<http://dbpedia.org/resource/Thessaloniki> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Central_Macedonia> .
+
+ID: #430
+Manual Label: Correct
+<http://dbpedia.org/resource/Thessaloniki> <http://dbpedia.org/ontology/mayor> <http://dbpedia.org/resource/Konstantinos_Zervas> .
+
+ID: #431 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Thessaloniki> <http://dbpedia.org/ontology/areaTotal> "231.1"^^http://www.w3.org/2001/XMLSchema#double .
+
+ID: #432  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Thessaloniki> <http://dbpedia.org/ontology/foundingDate> "316 BC"^^http://www.w3.org/2001/XMLSchema#date .
+
+ID: #433  
+Manual Label: Correct
+<http://dbpedia.org/resource/Thessaloniki> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Macedonia_(region) .
+
+ID: #434  
+Manual Label: Correct
+<http://dbpedia.org/resource/Thessaloniki> <http://dbpedia.org/ontology/utcOffset> "+2"^^http://www.w3.org/2001/XMLSchema#string .
+
+ID: #435  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Thessaloniki> <http://dbpedia.org/ontology/elevationM> "5"^^http://www.w3.org/2001/XMLSchema#integer .
+
+ID: #436  
+Manual Label: Correct
+<http://dbpedia.org/resource/Volos> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #437  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Volos> <http://dbpedia.org/ontology/mayor> <http://dbpedia.org/resource/Achilles_Tzartzoulis> .
+
+ID: #438  
+Manual Label: Correct
+<http://dbpedia.org/resource/Volos> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Thessaly> .
+
+ID: #439  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Volos> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Yiannis_Gourdomichalis> .
+
+ID: #441  
+Manual Label: Correct
+<http://dbpedia.org/resource/Volos> <http://dbpedia.org/ontology/elevation> "5"^^http://www.w3.org/2001/XMLSchema#double .
+
+ID: #442  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Volos> <http://dbpedia.org/ontology/foundingDate> "293 BC"@en .
+
+ID: #443  
+Manual Label: Correct
+<http://dbpedia.org/resource/Volos> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/EET> .
+
+ID: #444  
+Manual Label: Correct
+<http://dbpedia.org/resource/Patras> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .
+
+ID: #446  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Patras> <http://dbpedia.org/ontology/areaTotal> "334.8"^^http://www.w3.org/2001/XMLSchema#double .
+
+ID: #447  
+Manual Label: Correct
+<http://dbpedia.org/resource/Patras> <http://dbpedia.org/ontology/mayor> <http://dbpedia.org/resource/Kostas_Peletidis> .
+
+ID: #448
+Manual Label: Correct
+<http://dbpedia.org/resource/Patras> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #449   
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Patras> <http://dbpedia.org/ontology/elevation> "14"^^http://www.w3.org/2001/XMLSchema#integer .
+
+ID: #450  
+Manual Label: Correct
+<http://dbpedia.org/resource/Patras> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Eastern_European_Time> .
+
+ID: #451  
+Manual Label: Correct
+<http://dbpedia.org/resource/Patras> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/West_Greece> .
+
+ID: #452  
+Manual Label: Correct
+<http://dbpedia.org/resource/Patras> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Achaia> .
+
+ID: #453
+Manual Label: Correct
+<http://dbpedia.org/resource/Edessa,_Greece> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .
+
+ID: #456  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Edessa,_Greece> <http://dbpedia.org/ontology/elevation> "295"^^http://www.w3.org/2001/XMLSchema#integer .
+
+ID: #457  
+Manual Label: Correct
+<http://dbpedia.org/resource/Edessa,_Greece> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #458  
+Manual Label: Correct
+<http://dbpedia.org/resource/Edessa,_Greece> <http://dbpedia.org/ontology/municipalityType> <http://dbpedia.org/resource/Municipalities_and_communities_of_Greece> .
+
+ID: #459  
+Manual Label: Correct
+<http://dbpedia.org/resource/Edessa,_Greece> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Eastern_European_Time> .
+
+ID: #460  
+Manual Label: Correct
+<http://dbpedia.org/resource/Serres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .
+
+ID: #461
+Manual Label: Correct
+<http://dbpedia.org/resource/Serres> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #462 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Serres> <http://dbpedia.org/ontology/populationTotal> "58332"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #463  
+Manual Label: Correct
+<http://dbpedia.org/resource/Serres> <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/Serres_regional_unit> .
+
+ID: #464  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Serres> <http://dbpedia.org/ontology/mayor> <http://dbpedia.org/resource/Charalambos_Betinis> .
+
+ID: #465  
+Manual Label: Correct
+<http://dbpedia.org/resource/Serres> <http://dbpedia.org/ontology/postalCode> "62xxx" .
+
+ID: #466
+Manual Label: Correct
+<http://dbpedia.org/resource/Serres> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Eastern_European_Time> .
+
+ID: #467  
+Manual Label: Correct
+<http://dbpedia.org/resource/Serres> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "41.09"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+ID: #468  
+Manual Label: Correct
+<http://dbpedia.org/resource/Serres> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "23.54"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+ID: #469  
+Manual Label: Correct
+<http://dbpedia.org/resource/Serres> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Central_Macedonia> .
+
+ID: #470  
+Manual Label: Correct
+<http://dbpedia.org/resource/Komotini> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .
+
+ID: #471  
+Manual Label: Correct
+<http://dbpedia.org/resource/Komotini> <http://www.w3.org/2000/01/rdf-schema#label> "Komotini"@en .
+
+ID: #472  
+Manual Label: Correct
+<http://dbpedia.org/resource/Komotini> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #473  
+Manual Label: Correct
+<http://dbpedia.org/resource/Komotini> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Eastern_Macedonia_and_Thrace> .
+
+ID: #474  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Komotini> <http://dbpedia.org/ontology/populationTotal> "50384"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #476 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Komotini> <http://dbpedia.org/ontology/elevation> "27"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #477  
+Manual Label: Correct
+<http://dbpedia.org/resource/Komotini> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Eastern_European_Time> .
+
+ID: #478  
+Manual Label: Correct
+<http://dbpedia.org/resource/Karditsa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> . 
+
+ID: #479  
+Manual Label: Correct
+<http://dbpedia.org/resource/Karditsa> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #480 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Karditsa> <http://dbpedia.org/ontology/populationTotal> "32540"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #482 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Karditsa> <http://dbpedia.org/ontology/mayor> <http://dbpedia.org/resource/Christos_Makris> .
+
+ID: #483  
+Manual Label: Correct
+<http://dbpedia.org/resource/Karditsa> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/EET> .
+
+ID: #484  
+Manual Label: Correct
+<http://dbpedia.org/resource/Karditsa> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Euro> .
+
+ID: #485  
+Manual Label: Correct
+<http://dbpedia.org/resource/Karditsa> <http://dbpedia.org/ontology/language> <http://dbpedia.org/resource/Greek_language> .
+
+ID: #486  
+Manual Label: Correct
+<http://dbpedia.org/resource/Kalamata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City> .
+
+ID: #487
+Manual Label: Correct
+<http://dbpedia.org/resource/Kalamata> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #488  
+Manual Label: Correct
+<http://dbpedia.org/resource/Kalamata> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Peloponnese> .
+
+ID: #489  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Kalamata> <http://dbpedia.org/ontology/populationTotal> "54551"^^http://www.w3.org/2001/XMLSchema#integer .
+
+ID: #491 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Kalamata> <http://dbpedia.org/ontology/elevation> "14"^^http://www.w3.org/2001/XMLSchema#double .
+
+ID: #492
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Kalamata> <http://dbpedia.org/ontology/mayor> <http://dbpedia.org/resource/Kostas_Nikolakopoulos> .
+
+ID: #493  
+Manual Label: Correct
+<http://dbpedia.org/resource/Kalamata> <http://dbpedia.org/ontology/postalCode> "241 00" .
+
+ID: #494
+Manual Label: Correct
+<http://dbpedia.org/resource/Kalamata> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Eastern_European_Time> .
+
+ID: #495  
+Manual Label: Correct
+<http://dbpedia.org/resource/Ierapetra> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #496  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Ierapetra> <http://dbpedia.org/ontology/populationTotal> "13409"^^http://www.w3.org/2001/XMLSchema#integer .
+
+ID: #498  
+Manual Label: Correct
+<http://dbpedia.org/resource/Ierapetra> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Eastern_European_Time> .
+
+ID: #499  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Ierapetra> <http://dbpedia.org/ontology/elevation> "5"^^http://www.w3.org/2001/XMLSchema#integer .
+
+ID: #500  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nafplio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/City> .
+
+ID: #501  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nafplio> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #502  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nafplio> <http://dbpedia.org/ontology/governingBody> <http://dbpedia.org/resource/Nafplio_Municipality> . 
+
+ID: #503  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nafplio> <http://dbpedia.org/ontology/leaderName> "Dimitrios Kostouros"^^<http://www.w3.org/2001/XMLSchema#string> . 
+
+ID: #504  
+Manual Label: Correct
+<http://dbpedia.org/resource/Panathenaic_Stadium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Stadium> .
+
+ID: #505  
+Manual Label: Correct
+<http://dbpedia.org/resource/Panathenaic_Stadium> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Athens> .
+
+ID: #506  
+Manual Label: Correct
+<http://dbpedia.org/resource/Panathenaic_Stadium> <http://dbpedia.org/ontology/architect> <http://dbpedia.org/resource/Anastasios_Metzas> .
+
+ID: #507  
+Manual Label: Correct
+<http://dbpedia.org/resource/Panathenaic_Stadium> <http://dbpedia.org/ontology/owner> <http://dbpedia.org/resource/Hellenic_Olympic_Committee> .
+
+ID: #508
+Manual Label: Correct
+<http://dbpedia.org/resource/Panathenaic_Stadium> <http://dbpedia.org/ontology/capacity> "45000"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+
+ID: #509
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Panathenaic_Stadium> <http://dbpedia.org/ontology/opened> "1869-04-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #510  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Panathenaic_Stadium> <http://dbpedia.org/ontology/renovated> "1895"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #511  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Panathenaic_Stadium> <http://dbpedia.org/ontology/renovated> "2004"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #512  
+Manual Label: Correct
+<http://dbpedia.org/resource/Panathenaic_Stadium> <http://dbpedia.org/ontology/recordAttendance> "80000"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+
+ID: #513  
+Manual Label: Correct
+<http://dbpedia.org/resource/Rhodes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+
+ID: #514  
+Manual Label: Correct
+<http://dbpedia.org/resource/Rhodes> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #515  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Rhodes> <http://dbpedia.org/ontology/areaTotal> "1398"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #516
+Manual Label: Correct
+<http://dbpedia.org/resource/Rhodes> <http://dbpedia.org/ontology/populationTotal> "115490"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #517  
+Manual Label: Correct
+<http://dbpedia.org/resource/Rhodes> <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/Rhodes_(city)> .
+
+ID: #518  
+Manual Label: Correct
+<http://dbpedia.org/resource/Rhodes> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/South_Aegean> .
+
+ID: #519  
+Manual Label: Correct
+<http://dbpedia.org/resource/Rhodes> <http://www.w3.org/2000/01/rdf-schema#label> "Rhodes" .
+
+ID: #520  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Rhodes> <http://dbpedia.org/property/mayor> <http://dbpedia.org/resource/Konstantinos_Katsoulis> .
+
+ID: #521
+Manual Label: Correct
+<http://dbpedia.org/resource/Rhodes> <http://dbpedia.org/ontology/utcOffset> "+2" .
+
+ID: #522  
+Manual Label: Correct
+<http://dbpedia.org/resource/Phaistos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ArchaeologicalSite> .
+
+ID: #523 
+Manual Label: Correct
+<http://dbpedia.org/resource/Phaistos> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #524  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Phaistos> <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/Phaistos_Palace> .
+
+ID: #525  
+Manual Label: Correct
+<http://dbpedia.org/resource/Phaistos> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Crete> .
+
+ID: #526  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Phaistos> <http://dbpedia.org/property/region> "Minoan civilization" .
+
+ID: #527  
+Manual Label: Correct
+<http://dbpedia.org/resource/Sfakia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .
+
+ID: #528
+Manual Label: Correct
+<http://dbpedia.org/resource/Sfakia> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #529 
+Manual Label: Correct
+<http://dbpedia.org/resource/Sfakia> <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/Chora_Sfakion> .
+
+ID: #530
+Manual Label: Correct
+<http://dbpedia.org/resource/Sfakia> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Crete> .
+
+ID: #531  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Sfakia> <http://dbpedia.org/ontology/populationTotal> "1881"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #532  
+Manual Label: Correct
+<http://dbpedia.org/resource/Igoumenitsa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .
+
+ID: #533  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Igoumenitsa> <http://dbpedia.org/ontology/populationTotal> "9488"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #534  
+Manual Label: Correct
+<http://dbpedia.org/resource/Igoumenitsa> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Greece> .
+
+ID: #535
+Manual Label: Correct
+<http://dbpedia.org/resource/Igoumenitsa> <http://dbpedia.org/property/postalCode> "461 00" .
+
+ID: #536
+Manual Label: Correct
+<http://dbpedia.org/resource/Igoumenitsa> <http://dbpedia.org/property/vehicleCode> "ΗΝ" .

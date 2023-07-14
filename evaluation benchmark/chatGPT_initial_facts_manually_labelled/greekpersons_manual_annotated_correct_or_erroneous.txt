@@ -1,0 +1,4004 @@
+ID: #1 
+Manual Label: Correct
+<http://dbpedia.org/resource/Adamantios_Korais> <http://dbpedia.org/ontology/birthDate> "1748-04-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #2 
+Manual Label: Correct
+<http://dbpedia.org/resource/Adamantios_Korais> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Smyrna> .
+
+ID: #3 
+Manual Label: Correct
+<http://dbpedia.org/resource/Adamantios_Korais> <http://dbpedia.org/ontology/deathDate> "1833-04-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #4 
+Manual Label: Correct
+<http://dbpedia.org/resource/Adamantios_Korais> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Paris> .
+
+ID: #5 
+Manual Label: Correct
+<http://dbpedia.org/resource/Adamantios_Korais> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Literature> .
+
+ID: #6 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Adamantios_Korais> <http://dbpedia.org/ontology/hasInfluenced> <http://dbpedia.org/resource/Vincenzo_Cornaro> .
+
+ID: #7  
+Manual Label: Correct
+<http://dbpedia.org/resource/Adamantios_Korais> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #8 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Adamantios_Korais> <http://dbpedia.org/ontology/notableWorks> <http://dbpedia.org/resource/Adelphoi> .
+
+ID: #9 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Adamantios_Korais> <http://dbpedia.org/ontology/notableWorks> <http://dbpedia.org/resource/The_Fundamental_Constitutions_of_Moder_Greece> .
+
+ID: #10 
+Manual Label: Correct
+<http://dbpedia.org/resource/Adamantios_Korais> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Writer> .
+
+ID: #11 
+Manual Label: Correct
+<http://dbpedia.org/resource/Adamantios_Korais> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #12 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aeschylus> <http://dbpedia.org/ontology/birthDate> "-0525"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #13 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aeschylus> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Eleusis> .
+
+ID: #14 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aeschylus> <http://dbpedia.org/ontology/deathDate> "-0456"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #15 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aeschylus> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Gela> .
+
+ID: #16 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aeschylus> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Playwright> .
+
+ID: #17 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Aeschylus> <http://dbpedia.org/property/awards> <http://dbpedia.org/resource/Winner_of_the_city_Lenaia> .
+
+ID: #18 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aeschylus> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/Tragedy> .
+
+ID: #19 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aeschylus> <http://dbpedia.org/property/nationality> <http://dbpedia.org/resource/Ancient_Greece> .
+
+ID: #20 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aeschylus> <http://dbpedia.org/property/plays> <http://dbpedia.org/resource/Prometheus_Bound> .
+
+ID: #21 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aeschylus> <http://dbpedia.org/property/works> <http://dbpedia.org/resource/The_Oresteia> .
+
+ID: #22 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aeschylus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #23 
+Manual Label: Correct
+<http://dbpedia.org/resource/Alexander_the_Great> <http://dbpedia.org/ontology/birthDate> "-356-07-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #24 
+Manual Label: Correct
+<http://dbpedia.org/resource/Alexander_the_Great> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Pella> .
+
+ID: #25 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Alexander_the_Great> <http://dbpedia.org/ontology/deathDate> "-323-06-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #26 
+Manual Label: Correct
+<http://dbpedia.org/resource/Alexander_the_Great> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Babylon> .
+
+ID: #27 
+Manual Label: Correct
+<http://dbpedia.org/resource/Alexander_the_Great> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Ancient_Greece> .
+
+ID: #28 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Alexander_the_Great> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/Anabasis_of_Alexander> .
+
+ID: #29 
+Manual Label: Correct
+<http://dbpedia.org/resource/Alexander_the_Great> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/King> .
+
+ID: #30 
+Manual Label: Correct
+<http://dbpedia.org/resource/Alexander_the_Great> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Military_Commander> .
+
+ID: #31 
+Manual Label: Correct
+<http://dbpedia.org/resource/Alexander_the_Great> <http://dbpedia.org/ontology/subject> <http://dbpedia.org/resource/Alexandria> .
+
+ID: #32 
+Manual Label: Correct
+<http://dbpedia.org/resource/Alexander_the_Great> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #33 
+Manual Label: Correct
+<http://dbpedia.org/resource/Alexandros_Papadiamantis> <http://dbpedia.org/ontology/birthDate> "1851-03-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #34 
+Manual Label: Correct
+<http://dbpedia.org/resource/Alexandros_Papadiamantis> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Skiathos> .
+
+ID: #35 
+Manual Label: Correct
+<http://dbpedia.org/resource/Alexandros_Papadiamantis> <http://dbpedia.org/ontology/deathDate> "1911-01-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #36 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Alexandros_Papadiamantis> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #37 
+Manual Label: Correct
+<http://dbpedia.org/resource/Alexandros_Papadiamantis> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Novel> .
+
+ID: #38 
+Manual Label: Correct
+<http://dbpedia.org/resource/Alexandros_Papadiamantis> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Short_story> .
+
+ID: #39 
+Manual Label: Correct
+<http://dbpedia.org/resource/Alexandros_Papadiamantis> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #40 
+Manual Label: Correct
+<http://dbpedia.org/resource/Alexandros_Papadiamantis> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/The_Murderess> .
+
+ID: #41 
+Manual Label: Correct
+<http://dbpedia.org/resource/Alexandros_Papadiamantis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Journalist> .
+
+ID: #42 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Alexandros_Papadiamantis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Lawyer> .
+
+ID: #43 
+Manual Label: Correct
+<http://dbpedia.org/resource/Alexandros_Papadiamantis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Writer> .
+
+ID: #44 
+Manual Label: Correct
+<http://dbpedia.org/resource/Alexandros_Papadiamantis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Writer> .
+
+ID: #45 
+Manual Label: Correct
+<http://dbpedia.org/resource/Alexandros_Papadiamantis> <http://www.w3.org/2000/01/rdf-schema#label> "Alexandros Papadiamantis"@en .
+
+ID: #46 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aliki_Vougiouklaki> <http://dbpedia.org/ontology/birthDate> "20 July 1934"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #47 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aliki_Vougiouklaki> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #48 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aliki_Vougiouklaki> <http://dbpedia.org/ontology/deathDate> "23 July 1996"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #49 
+Manual Label: Correct
+ <http://dbpedia.org/resource/Aliki_Vougiouklaki> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #50 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aliki_Vougiouklaki> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #51 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aliki_Vougiouklaki> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Actor> .
+
+ID: #52 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aliki_Vougiouklaki> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Dimitris_Papamichael> .
+
+ID: #53 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Aliki_Vougiouklaki> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Itan_enas_isyhos_ypopsifios> .
+
+ID: #54 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Aliki_Vougiouklaki> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Pame_parko> .
+
+ID: #55 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Aliki_Vougiouklaki> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/To_koritsi_me_ta_kallikantzaroi> .
+
+ID: #56 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aliki_Vougiouklaki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Actor> .
+
+ID: #57 
+Manual Label: Correct
+<http://dbpedia.org/resource/Andreas_Papandreou> <http://dbpedia.org/ontology/birthDate> "1919-02-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #58 
+Manual Label: Correct
+<http://dbpedia.org/resource/Andreas_Papandreou> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Chios> .
+
+ID: #59 
+Manual Label: Correct
+<http://dbpedia.org/resource/Andreas_Papandreou> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/George_Papandreou> .
+
+ID: #60 
+Manual Label: Correct
+<http://dbpedia.org/resource/Andreas_Papandreou> <http://dbpedia.org/ontology/deathDate> "1996-06-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #61 
+Manual Label: Correct
+<http://dbpedia.org/resource/Andreas_Papandreou> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #62 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Andreas_Papandreou> <http://dbpedia.org/ontology/education> <http://dbpedia.org/resource/University_of_Michigan> .
+
+ID: #63 
+Manual Label: Correct
+<http://dbpedia.org/resource/Andreas_Papandreou> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #64 
+Manual Label: Correct
+<http://dbpedia.org/resource/Andreas_Papandreou> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Politician> .
+
+ID: #65 
+Manual Label: Correct
+<http://dbpedia.org/resource/Andreas_Papandreou> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Professor> .
+
+ID: #66 
+Manual Label: Correct
+<http://dbpedia.org/resource/Andreas_Papandreou> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Panhellenic_Socialist_Movement> .
+
+ID: #67 
+Manual Label: Correct
+<http://dbpedia.org/resource/Andreas_Papandreou> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Dimitra_Liani> .
+
+ID: #68 
+Manual Label: Correct
+<http://dbpedia.org/resource/Andreas_Papandreou> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #69 
+Manual Label: Correct
+<http://dbpedia.org/resource/Archimedes> <http://dbpedia.org/ontology/birthDate> "-0287"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #70 
+Manual Label: Correct
+<http://dbpedia.org/resource/Archimedes> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Syracuse,_Sicily> .
+
+ID: #71 
+Manual Label: Correct
+<http://dbpedia.org/resource/Archimedes> <http://dbpedia.org/ontology/deathDate> "-0212"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #72 
+Manual Label: Correct
+<http://dbpedia.org/resource/Archimedes> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Syracuse,_Sicily> .
+
+ID: #73 
+Manual Label: Correct
+<http://dbpedia.org/resource/Archimedes> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Mathematician> .
+
+ID: #74 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Archimedes> <http://dbpedia.org/property/awards> <http://dbpedia.org/resource/Prize_of_Mathematics_and_Mechanics> .
+
+ID: #75 
+Manual Label: Correct
+<http://dbpedia.org/resource/Archimedes> <http://dbpedia.org/property/fields> <http://dbpedia.org/resource/Mathematics> .
+
+ID: #76 
+Manual Label: Correct
+<http://dbpedia.org/resource/Archimedes> <http://dbpedia.org/property/nationality> <http://dbpedia.org/resource/Ancient_Greece> .
+
+ID: #77 
+Manual Label: Correct
+<http://dbpedia.org/resource/Archimedes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #78 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Aristophanes> <http://dbpedia.org/ontology/birthDate> "-0455"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #79 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aristophanes> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #80 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aristophanes> <http://dbpedia.org/ontology/deathDate> "-0385"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #81 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aristophanes> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #82 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aristophanes> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Playwright> .
+
+ID: #83 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aristophanes> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/Comedy> .
+
+ID: #84 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aristophanes> <http://dbpedia.org/property/notableWorks> <http://dbpedia.org/resource/Lysistrata> .
+
+ID: #85 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aristophanes> <http://dbpedia.org/property/notableWorks> <http://dbpedia.org/resource/The_Birds_(play)> . 
+
+ID: #86 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aristophanes> <http://dbpedia.org/property/notableWorks> <http://dbpedia.org/resource/The_Frogs> .
+
+ID: #87 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aristophanes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #88 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/birthDate> "-0384"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #89 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Stagira> .
+
+ID: #90 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/deathDate> "-0322"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #91 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Chalcis> .
+
+ID: #92 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/education> <http://dbpedia.org/resource/Plato> .
+
+ID: #93 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/René_Descartes> .
+
+ID: #94 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Thomas_Aquinas> .
+
+ID: #95 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Ancient_Greece> .
+
+ID: #96 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Teacher> .
+
+ID: #97 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Philosopher> .
+
+ID: #98 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Scientist> .
+
+ID: #99 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Writer> .
+
+ID: #100 
+Manual Label: Correct
+ <http://dbpedia.org/resource/Aristotle_Onassis> <http://dbpedia.org/ontology/birthDate> "1906-01-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #101 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aristotle_Onassis> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Smirni,_Greece> .
+
+ID: #102 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aristotle_Onassis> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Alexander_Onassis> .
+
+ID: #103 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aristotle_Onassis> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Christina_Onassis> .
+
+ID: #104 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Aristotle_Onassis> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Thierry_Roussel> .
+
+ID: #105 
+Manual Label: Correct
+ <http://dbpedia.org/resource/Aristotle_Onassis> <http://dbpedia.org/ontology/deathDate> "1975-03-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #106 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aristotle_Onassis> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Neuilly-sur-Seine> .
+
+ID: #107 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aristotle_Onassis> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #108 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Aristotle_Onassis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Aviator> .
+
+ID: #109 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aristotle_Onassis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Businessperson> .
+
+ID: #110 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aristotle_Onassis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Shipping_magnate> .
+
+ID: #111 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aristotle_Onassis> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Jacqueline_Kennedy_Onassis> .
+
+ID: #112 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aristotle_Onassis> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Tina_Onassis> .
+
+ID: #113 
+Manual Label: Correct
+<http://dbpedia.org/resource/Aristotle_Onassis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #114 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Athanasios_Diakos> <http://dbpedia.org/ontology/birthDate> "1788-02-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #115 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Athanasios_Diakos> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Livadeia> .
+
+ID: #116 
+Manual Label: Correct
+<http://dbpedia.org/resource/Athanasios_Diakos> <http://dbpedia.org/ontology/deathDate> "1821-04-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #117 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Athanasios_Diakos> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Phocis> .
+
+ID: #118 
+Manual Label: Correct
+ <http://dbpedia.org/resource/Athanasios_Diakos> <http://dbpedia.org/ontology/leadership> <http://dbpedia.org/resource/Greek_War_of_Independence> .
+
+ID: #119 
+Manual Label: Correct
+ <http://dbpedia.org/resource/Athanasios_Diakos> <http://dbpedia.org/ontology/militaryBranch> <http://dbpedia.org/resource/Greek_War_of_Independence> .
+
+ID: #120 
+Manual Label: Correct
+ <http://dbpedia.org/resource/Athanasios_Diakos> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Military_personnel> .
+
+ID: #121 
+Manual Label: Correct
+ <http://dbpedia.org/resource/Athanasios_Diakos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #122 
+Manual Label: Correct
+ <http://dbpedia.org/resource/Athanasios_Diakos> <http://www.w3.org/2000/01/rdf-schema#label> "Athanasios Diakos"@en .
+
+ID: #123 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Basil_II> <http://dbpedia.org/ontology/birthDate> "0953-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #124 
+Manual Label: Correct
+ <http://dbpedia.org/resource/Basil_II> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Constantinople> .
+
+ID: #125 
+Manual Label: Correct
+ <http://dbpedia.org/resource/Basil_II> <http://dbpedia.org/ontology/deathDate> "1025-12-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #126 
+Manual Label: Correct
+ <http://dbpedia.org/resource/Basil_II> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Constantinople> .
+
+ID: #127 
+Manual Label: Correct
+ <http://dbpedia.org/resource/Basil_II> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Emperor> .
+
+ID: #128 
+Manual Label: Correct
+ <http://dbpedia.org/resource/Basil_II> <http://dbpedia.org/property/nationality> <http://dbpedia.org/resource/Byzantine_Empire> .
+
+ID: #129 
+Manual Label: Correct
+ <http://dbpedia.org/resource/Basil_II> <http://dbpedia.org/property/predecessor> <http://dbpedia.org/resource/John_I_Tzimiskes> .
+
+ID: #130 
+Manual Label: Correct
+ <http://dbpedia.org/resource/Basil_II> <http://dbpedia.org/property/reign> "976–1025" .
+
+ID: #131 
+Manual Label: Correct
+ <http://dbpedia.org/resource/Basil_II> <http://dbpedia.org/property/religion> <http://dbpedia.org/resource/Eastern_Orthodox_Church> .
+
+ID: #132 
+Manual Label: Correct
+ <http://dbpedia.org/resource/Basil_II> <http://dbpedia.org/property/successor> <http://dbpedia.org/resource/Constantine_VIII> .
+
+ID: #133 
+Manual Label: Correct
+ <http://dbpedia.org/resource/Basil_II> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #134 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Charilaos_Florakis> <http://dbpedia.org/ontology/birthDate> "1914-03-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #135 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Charilaos_Florakis> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Piraeus> .
+
+ID: #136 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Charilaos_Florakis> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Artemis_Floraki> .
+
+ID: #137 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Charilaos_Florakis> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Spyros_Florakis> .
+
+ID: #138 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Charilaos_Florakis> <http://dbpedia.org/ontology/deathDate> "2005-03-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #139 
+Manual Label: Correct
+  <http://dbpedia.org/resource/Charilaos_Florakis> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #140 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Charilaos_Florakis> <http://dbpedia.org/ontology/education> <http://dbpedia.org/resource/National_and_Kapodistrian_University_of_Athens> .
+
+ID: #141 
+Manual Label: Correct
+ <http://dbpedia.org/resource/Charilaos_Florakis> <http://dbpedia.org/ontology/movement> <http://dbpedia.org/resource/Communism> .
+
+ID: #142 
+Manual Label: Correct
+ <http://dbpedia.org/resource/Charilaos_Florakis> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #143 
+Manual Label: Correct
+ <http://dbpedia.org/resource/Charilaos_Florakis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Politician> .
+
+ID: #144 
+Manual Label: Correct
+  <http://dbpedia.org/resource/Charilaos_Florakis> <http://dbpedia.org/ontology/office> <http://dbpedia.org/resource/General_Secretary_of_the_Communist_Party_of_Greece> .
+
+ID: #145 
+Manual Label: Correct
+ <http://dbpedia.org/resource/Charilaos_Florakis> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/KKE> .
+
+ID: #146 
+Manual Label: Correct
+  <http://dbpedia.org/resource/Charilaos_Florakis> <http://dbpedia.org/ontology/politicalParty> <http://dbpedia.org/resource/Communist_Party_of_Greece> .
+
+ID: #147 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Charilaos_Florakis> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Eleni_Zafeiriou> .
+
+ID: #148 
+Manual Label: Correct
+<http://dbpedia.org/resource/Charilaos_Florakis> <http://dbpedia.org/ontology/title> "Secretary General of the Communist Party of Greece" .
+
+ID: #149 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Charilaos_Florakis> <http://dbpedia.org/property/predecessor> <http://dbpedia.org/resource/Nikos_Zachariadis> .
+
+ID: #150 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Charilaos_Florakis> <http://dbpedia.org/property/spouse> <http://dbpedia.org/resource/Elisabeth_Gara> .
+
+ID: #151 
+Manual Label: Correct
+<http://dbpedia.org/resource/Charilaos_Florakis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #152 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Christodoulos_of_Athens> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Grand_Cross_of_the_Order_of_Honour_(Greece)> .
+
+ID: #153 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Christodoulos_of_Athens> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Grand_Cross_of_the_Order_of_the_Phoenix_(Greece)> .
+
+ID: #154 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Christodoulos_of_Athens> <http://dbpedia.org/ontology/birthDate> "1939-01-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #155 
+Manual Label: Correct
+<http://dbpedia.org/resource/Christodoulos_of_Athens> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Xanthi> .
+
+ID: #156 
+Manual Label: Correct
+<http://dbpedia.org/resource/Christodoulos_of_Athens> <http://dbpedia.org/ontology/deathDate> "2008-01-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #157 
+Manual Label: Correct
+<http://dbpedia.org/resource/Christodoulos_of_Athens> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #158 
+Manual Label: Correct
+<http://dbpedia.org/resource/Christodoulos_of_Athens> <http://dbpedia.org/ontology/education> <http://dbpedia.org/resource/National_and_Kapodistrian_University_of_Athens> .
+
+ID: #159 
+Manual Label: Correct
+<http://dbpedia.org/resource/Christodoulos_of_Athens> <http://dbpedia.org/ontology/movement> <http://dbpedia.org/resource/Greek_Orthodox_Church> .
+
+ID: #160 
+Manual Label: Correct
+<http://dbpedia.org/resource/Christodoulos_of_Athens> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #161 
+Manual Label: Correct
+<http://dbpedia.org/resource/Christodoulos_of_Athens> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Archbishop> .
+
+ID: #162 
+Manual Label: Correct
+<http://dbpedia.org/resource/Christodoulos_of_Athens> <http://dbpedia.org/ontology/predecessor> <http://dbpedia.org/resource/Seraphim_I_of_Athens> .
+
+ID: #163 
+Manual Label: Correct
+<http://dbpedia.org/resource/Christodoulos_of_Athens> <http://dbpedia.org/ontology/religion> <http://dbpedia.org/resource/Greek_Orthodox_Church> .
+
+ID: #164 
+Manual Label: Correct
+<http://dbpedia.org/resource/Christodoulos_of_Athens> <http://dbpedia.org/ontology/successor> <http://dbpedia.org/resource/Ieronymos_II_of_Athens> .
+
+ID: #165 
+Manual Label: Correct
+<http://dbpedia.org/resource/Christodoulos_of_Athens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #166 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Cleisthenes> <http://dbpedia.org/ontology/birthDate> "-0575" .
+
+ID: #167 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Cleisthenes> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Hippocrates_of_Athens> .
+
+ID: #168 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Cleisthenes> <http://dbpedia.org/ontology/deathDate> "-0500" .
+
+ID: #169 
+Manual Label: Correct
+<http://dbpedia.org/resource/Cleisthenes> <http://dbpedia.org/ontology/knownFor> "Father of Athenian democracy" .
+
+ID: #170 
+Manual Label: Correct
+<http://dbpedia.org/resource/Cleisthenes> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Ancient_Greece> .
+
+ID: #171 
+Manual Label: Correct
+<http://dbpedia.org/resource/Cleisthenes> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Statesman> .
+
+ID: #172 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Cleisthenes> <http://dbpedia.org/ontology/predecessor> <http://dbpedia.org/resource/Isagoras> .
+
+ID: #173 
+Manual Label: Correct
+<http://dbpedia.org/resource/Cleisthenes> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Agariste_of_Sicyon> .
+
+ID: #174 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Cleisthenes> <http://dbpedia.org/ontology/successor> <http://dbpedia.org/resource/Themistocles> .
+
+ID: #175 
+Manual Label: Correct
+<http://dbpedia.org/resource/Cleisthenes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #176 
+Manual Label: Correct
+<http://dbpedia.org/resource/Constantine_P._Cavafy> <http://dbpedia.org/ontology/birthDate> "1863-04-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #177 
+Manual Label: Correct
+<http://dbpedia.org/resource/Constantine_P._Cavafy> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Alexandria> .
+
+ID: #178 
+Manual Label: Correct
+<http://dbpedia.org/resource/Constantine_P._Cavafy> <http://dbpedia.org/ontology/deathDate> "1933-04-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #179 
+Manual Label: Correct
+<http://dbpedia.org/resource/Constantine_P._Cavafy> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Alexandria> .
+
+ID: #180 
+Manual Label: Correct
+<http://dbpedia.org/resource/Constantine_P._Cavafy> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Poet> .
+
+ID: #181 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Constantine_P._Cavafy> <http://dbpedia.org/property/awards> <http://dbpedia.org/resource/Nobel_Prize_in_Literature> .
+
+ID: #182 
+Manual Label: Correct
+<http://dbpedia.org/resource/Constantine_P._Cavafy> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/Poetry> .
+
+ID: #183 
+Manual Label: Correct
+<http://dbpedia.org/resource/Constantine_P._Cavafy> <http://dbpedia.org/property/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #184 
+Manual Label: Correct
+<http://dbpedia.org/resource/Constantine_P._Cavafy> <http://dbpedia.org/property/notableWorks> <http://dbpedia.org/resource/Ithaka> .
+
+ID: #185 
+Manual Label: Correct
+<http://dbpedia.org/resource/Constantine_P._Cavafy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #186 
+Manual Label: Correct
+<http://dbpedia.org/resource/Constantine_XI_Palaiologos> <http://dbpedia.org/ontology/birthDate> "1404-02-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #187 
+Manual Label: Correct
+<http://dbpedia.org/resource/Constantine_XI_Palaiologos> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Constantinople> .
+
+ID: #188 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Constantine_XI_Palaiologos> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Demetrios_Palaiologos> .
+
+ID: #189 
+Manual Label: Correct
+<http://dbpedia.org/resource/Constantine_XI_Palaiologos> <http://dbpedia.org/ontology/deathDate> "1453-05-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #190 
+Manual Label: Correct
+<http://dbpedia.org/resource/Constantine_XI_Palaiologos> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Constantinople> .
+
+ID: #191 
+Manual Label: Correct
+<http://dbpedia.org/resource/Constantine_XI_Palaiologos> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Byzantine_Empire> .
+
+ID: #192 
+Manual Label: Correct
+<http://dbpedia.org/resource/Constantine_XI_Palaiologos> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Diplomat> .
+
+ID: #193 
+Manual Label: Correct
+<http://dbpedia.org/resource/Constantine_XI_Palaiologos> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Noble> .
+
+ID: #194 
+Manual Label: Correct
+<http://dbpedia.org/resource/Constantine_XI_Palaiologos> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Ruler> .
+
+ID: #195 
+Manual Label: Correct
+<http://dbpedia.org/resource/Constantine_XI_Palaiologos> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Soldier> .
+
+ID: #196 
+Manual Label: Correct
+<http://dbpedia.org/resource/Constantine_XI_Palaiologos> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Byzantine_Emperor> .
+
+ID: #197 
+Manual Label: Correct
+<http://dbpedia.org/resource/Constantine_XI_Palaiologos> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Catherine_Gattilusio> .
+
+ID: #198 
+Manual Label: Correct
+<http://dbpedia.org/resource/Constantine_XI_Palaiologos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #199 
+Manual Label: Correct
+<http://dbpedia.org/resource/Cornelius_Castoriadis> <http://dbpedia.org/ontology/birthDate> "1922-03-11"^^http://www.w3.org/2001/XMLSchema#date .
+
+ID: #200 
+Manual Label: Correct
+<http://dbpedia.org/resource/Cornelius_Castoriadis> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Constantinople> .
+
+ID: #201  
+Manual Label: Correct
+<http://dbpedia.org/resource/Cornelius_Castoriadis> <http://dbpedia.org/ontology/deathDate> "1997-12-26"^^http://www.w3.org/2001/XMLSchema#date .
+
+ID: #202  
+Manual Label: Correct
+<http://dbpedia.org/resource/Cornelius_Castoriadis> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Paris> .
+
+ID: #203  
+Manual Label: Correct
+ <http://dbpedia.org/resource/Cornelius_Castoriadis> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #204  
+Manual Label: Correct
+<http://dbpedia.org/resource/Cornelius_Castoriadis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Philosopher> .
+
+ID: #205  
+Manual Label: Correct
+<http://dbpedia.org/resource/Cornelius_Castoriadis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+
+ID: #206 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Cosmas_of_Aetolia> <http://dbpedia.org/ontology/birthDate> "1714-12-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #207  
+Manual Label: Correct
+<http://dbpedia.org/resource/Cosmas_of_Aetolia> <http://dbpedia.org/ontology/deathDate> "1779-08-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #208 
+Manual Label: Correct
+<http://dbpedia.org/resource/Cosmas_of_Aetolia> <http://dbpedia.org/ontology/knownFor> "Preaching and organizing the Aetolian League during the Ottoman occupation of Greece."@en .
+
+ID: #209  
+Manual Label: Correct
+<http://dbpedia.org/resource/Cosmas_of_Aetolia> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #210  
+Manual Label: Correct
+<http://dbpedia.org/resource/Cosmas_of_Aetolia> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Monk> .
+
+ID: #211  
+Manual Label: Correct
+<http://dbpedia.org/resource/Cosmas_of_Aetolia> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Preacher> .
+
+ID: #212  
+Manual Label: Correct
+<http://dbpedia.org/resource/Cosmas_of_Aetolia> <http://dbpedia.org/ontology/religion> <http://dbpedia.org/resource/Orthodox_Church> .
+
+ID: #213  
+Manual Label: Correct
+<http://dbpedia.org/resource/Cosmas_of_Aetolia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #214  
+Manual Label: Correct
+<http://dbpedia.org/resource/Costas_Simitis> <http://dbpedia.org/ontology/birthDate> "1936-06-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #215  
+Manual Label: Correct
+<http://dbpedia.org/resource/Costas_Simitis> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Piraeus> .
+
+ID: #216 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Costas_Simitis> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Fotini_Simiti> .
+
+ID: #217 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Costas_Simitis> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Spyros_Simitis> .
+
+ID: #218 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Costas_Simitis> <http://dbpedia.org/ontology/education> <http://dbpedia.org/resource/National_and_Kapodistrian_University_of_Athens> .
+
+ID: #219  
+Manual Label: Correct
+<http://dbpedia.org/resource/Costas_Simitis> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #220  
+Manual Label: Correct
+<http://dbpedia.org/resource/Costas_Simitis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Politician> .
+
+ID: #221  
+Manual Label: Correct
+<http://dbpedia.org/resource/Costas_Simitis> <http://dbpedia.org/ontology/office> <http://dbpedia.org/resource/Prime_Minister_of_Greece> .
+
+ID: #222  
+Manual Label: Correct
+<http://dbpedia.org/resource/Costas_Simitis> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Panhellenic_Socialist_Movement> .
+
+ID: #223  
+Manual Label: Correct
+<http://dbpedia.org/resource/Costas_Simitis> <http://dbpedia.org/ontology/predecessor> <http://dbpedia.org/resource/Andreas_Papandreou> .
+
+ID: #224  
+Manual Label: Correct
+<http://dbpedia.org/resource/Costas_Simitis> <http://dbpedia.org/ontology/successor> <http://dbpedia.org/resource/Kostas_Karamanlis> .
+
+ID: #225 
+Manual Label: Correct
+<http://dbpedia.org/resource/Costas_Simitis> <http://dbpedia.org/ontology/termPeriod> <http://dbpedia.org/resource/1996> .
+
+ID: #226 
+Manual Label: Correct
+<http://dbpedia.org/resource/Costas_Simitis> <http://dbpedia.org/ontology/termPeriod> <http://dbpedia.org/resource/2000> .
+
+ID: #227 
+Manual Label: Correct
+<http://dbpedia.org/resource/Costas_Simitis> <http://dbpedia.org/ontology/termPeriod> <http://dbpedia.org/resource/2000s_(decade)> .
+
+ID: #228  
+Manual Label: Correct
+<http://dbpedia.org/resource/Costas_Simitis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #229  
+Manual Label: Correct
+<http://dbpedia.org/resource/Democritus> <http://dbpedia.org/ontology/birthDate> "-460"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #230  
+Manual Label: Correct
+<http://dbpedia.org/resource/Democritus> <http://dbpedia.org/ontology/deathDate> "-370"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #231  
+Manual Label: Correct
+<http://dbpedia.org/resource/Democritus> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Natural_philosophy> .
+
+ID: #232  
+Manual Label: Correct
+<http://dbpedia.org/resource/Democritus> <http://dbpedia.org/ontology/knownFor> "Developing the atomic theory of the universe."@en .
+
+ID: #233  
+Manual Label: Correct
+<http://dbpedia.org/resource/Democritus> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Ancient_Greece> .
+
+ID: #234  
+Manual Label: Correct
+<http://dbpedia.org/resource/Democritus> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Philosopher> .
+
+ID: #235  
+Manual Label: Correct
+<http://dbpedia.org/resource/Democritus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Philosopher> .
+
+ID: #236 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Dimitri_Nanopoulos> <http://dbpedia.org/ontology/academicAdvisor> <http://dbpedia.org/resource/Abdus_Salam> .
+
+ID: #237 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Dimitri_Nanopoulos> <http://dbpedia.org/ontology/birthDate> "1948-09-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #238  
+Manual Label: Correct
+<http://dbpedia.org/resource/Dimitri_Nanopoulos> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #239  
+Manual Label: Correct
+<http://dbpedia.org/resource/Dimitri_Nanopoulos> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Theoretical_physics> .
+
+ID: #240 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Dimitri_Nanopoulos> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Andreas_Fontana> .
+
+ID: #241 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Dimitri_Nanopoulos> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Costas_Kounnas> .
+
+ID: #242 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Dimitri_Nanopoulos> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/John_Ellis_(physicist)> .
+
+ID: #243  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Dimitri_Nanopoulos> <http://dbpedia.org/ontology/institution> <http://dbpedia.org/resource/Athens_University_of_Economics_and_Business> .
+
+ID: #244 
+Manual Label: Correct
+<http://dbpedia.org/resource/Dimitri_Nanopoulos> <http://dbpedia.org/ontology/institution> <http://dbpedia.org/resource/University_of_Texas_at_Austin> .
+
+ID: #245 
+Manual Label: Correct
+<http://dbpedia.org/resource/Dimitri_Nanopoulos> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #246 
+Manual Label: Correct
+<http://dbpedia.org/resource/Dimitri_Nanopoulos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Scientist> .
+
+ID: #247 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Dimitris_Horn> <http://dbpedia.org/ontology/awards> <http://dbpedia.org/resource/Golden_Cross_of_the_Order_of_the_Phoenix> .
+
+ID: #248 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Dimitris_Horn> <http://dbpedia.org/ontology/birthDate> "1918-03-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #249  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Dimitris_Horn> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Piraeus> .
+
+ID: #250 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Dimitris_Horn> <http://dbpedia.org/ontology/deathDate> "1998-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #251  
+Manual Label: Correct
+<http://dbpedia.org/resource/Dimitris_Horn> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #252 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Dimitris_Horn> <http://dbpedia.org/ontology/education> <http://dbpedia.org/resource/Athens_School_of_Fine_Arts> .
+
+ID: #253
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Dimitris_Horn> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Painting> .
+
+ID: #254   
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Dimitris_Horn> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Printmaking> .
+
+ID: #255  
+Manual Label: Correct
+<http://dbpedia.org/resource/Dimitris_Horn> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #256  
+Manual Label: Correct
+<http://dbpedia.org/resource/Dimitris_Horn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Artist> .
+
+ID: #257  
+Manual Label: Correct
+<http://dbpedia.org/resource/Dionysios_Solomos> <http://dbpedia.org/ontology/birthDate> "1798-04-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #258  
+Manual Label: Correct
+<http://dbpedia.org/resource/Dionysios_Solomos> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Zakynthos> .
+
+ID: #259  
+Manual Label: Correct
+<http://dbpedia.org/resource/Dionysios_Solomos> <http://dbpedia.org/ontology/deathDate> "1857-02-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #260  
+Manual Label: Correct
+<http://dbpedia.org/resource/Dionysios_Solomos> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Corfu> .
+
+ID: #261  
+Manual Label: Correct
+<http://dbpedia.org/resource/Dionysios_Solomos> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Romantic_poetry> .
+
+ID: #262 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Dionysios_Solomos> <http://dbpedia.org/ontology/hasInfluenced> <http://dbpedia.org/resource/Andreas_Kalvos> .
+
+ID: #263  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Dionysios_Solomos> <http://dbpedia.org/ontology/hasInfluenced> <http://dbpedia.org/resource/Artemis_Loukaki> .
+
+ID: #264  
+Manual Label: Correct
+<http://dbpedia.org/resource/Dionysios_Solomos> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Hymn_to_Liberty> .
+
+ID: #265  
+Manual Label: Correct
+<http://dbpedia.org/resource/Dionysios_Solomos> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #266  
+Manual Label: Correct
+<http://dbpedia.org/resource/Dionysios_Solomos> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Poet> .
+
+ID: #267  
+Manual Label: Correct
+<http://dbpedia.org/resource/Dionysios_Solomos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+
+ID: #268  
+Manual Label: Correct
+<http://dbpedia.org/resource/El_Greco> <http://dbpedia.org/ontology/artwork> <http://dbpedia.org/resource/Opening_of_the_Fifth_Seal> .
+
+ID: #269  
+Manual Label: Correct
+<http://dbpedia.org/resource/El_Greco> <http://dbpedia.org/ontology/artwork> <http://dbpedia.org/resource/The_Burial_of_the_Count_of_Orgaz> .
+
+ID: #270  
+Manual Label: Correct
+<http://dbpedia.org/resource/El_Greco> <http://dbpedia.org/ontology/artwork> <http://dbpedia.org/resource/The_Disrobing_of_Christ> .
+
+ID: #271  
+Manual Label: Correct
+<http://dbpedia.org/resource/El_Greco> <http://dbpedia.org/ontology/artwork> <http://dbpedia.org/resource/The_View_of_Toledo> .
+
+ID: #272
+Manual Label: Erroneous
+<http://dbpedia.org/resource/El_Greco> <http://dbpedia.org/ontology/birthDate> "1541"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #273  
+Manual Label: Correct
+<http://dbpedia.org/resource/El_Greco> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Candia> .
+
+ID: #274
+Manual Label: Erroneous
+<http://dbpedia.org/resource/El_Greco> <http://dbpedia.org/ontology/deathDate> "1614"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #275  
+Manual Label: Correct
+<http://dbpedia.org/resource/El_Greco> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Toledo,_Spain> .
+
+ID: #276 
+Manual Label: Correct
+<http://dbpedia.org/resource/El_Greco> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Picasso> .
+
+ID: #277  
+Manual Label: Correct
+<http://dbpedia.org/resource/El_Greco> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Correggio> .
+
+ID: #278
+Manual Label: Correct
+<http://dbpedia.org/resource/El_Greco> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Titian> .
+
+ID: #279  
+Manual Label: Correct
+<http://dbpedia.org/resource/El_Greco> <http://dbpedia.org/ontology/movement> <http://dbpedia.org/resource/Mannerism> .
+
+ID: #280
+Manual Label: Correct
+<http://dbpedia.org/resource/El_Greco> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Spain> .
+
+ID: #281  
+Manual Label: Correct
+<http://dbpedia.org/resource/El_Greco> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Painter> .
+
+ID: #282  
+Manual Label: Correct
+<http://dbpedia.org/resource/El_Greco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+
+ID: #283  
+Manual Label: Correct
+<http://dbpedia.org/resource/Eleftherios_Venizelos> <http://dbpedia.org/ontology/birthDate> "-1864-08-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #284  
+Manual Label: Correct
+<http://dbpedia.org/resource/Eleftherios_Venizelos> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Mournies> .
+
+ID: #285  
+Manual Label: Correct
+<http://dbpedia.org/resource/Eleftherios_Venizelos> <http://dbpedia.org/ontology/deathDate> "-1936-03-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #286  
+Manual Label: Correct
+<http://dbpedia.org/resource/Eleftherios_Venizelos> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Paris> .
+
+ID: #287  
+Manual Label: Correct
+<http://dbpedia.org/resource/Eleftherios_Venizelos> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Politics> .
+
+ID: #288  
+Manual Label: Correct
+<http://dbpedia.org/resource/Eleftherios_Venizelos> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #289
+Manual Label: Correct
+<http://dbpedia.org/resource/Eleftherios_Venizelos> <http://dbpedia.org/ontology/office> <http://dbpedia.org/resource/Prime_Minister_of_Greece> .
+
+ID: #290  
+Manual Label: Correct
+<http://dbpedia.org/resource/Eleftherios_Venizelos> <http://dbpedia.org/ontology/termPeriod> <http://dbpedia.org/resource/First_Hellenic_Republic> .
+
+ID: #291  
+Manual Label: Correct
+<http://dbpedia.org/resource/Eleftherios_Venizelos> <http://dbpedia.org/ontology/termPeriod> <http://dbpedia.org/resource/Second_Hellenic_Republic> .
+
+ID: #292 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Epicurus> <http://dbpedia.org/ontology/birthDate> "-341-02-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #293
+Manual Label: Correct
+<http://dbpedia.org/resource/Epicurus> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Samos> .
+
+ID: #294 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Epicurus> <http://dbpedia.org/ontology/deathDate> "-270-07-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #295  
+Manual Label: Correct
+<http://dbpedia.org/resource/Epicurus> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #296  
+Manual Label: Correct
+<http://dbpedia.org/resource/Epicurus> <http://dbpedia.org/ontology/hasInfluenced> <http://dbpedia.org/resource/Baruch_Spinoza> .
+
+ID: #297  
+Manual Label: Correct
+<http://dbpedia.org/resource/Epicurus> <http://dbpedia.org/ontology/hasInfluenced> <http://dbpedia.org/resource/Lucretius> .
+
+ID: #298  
+Manual Label: Correct
+<http://dbpedia.org/resource/Epicurus> <http://dbpedia.org/ontology/hasInfluenced> <http://dbpedia.org/resource/Michel_de_Montaigne> .
+
+ID: #299
+Manual Label: Correct
+<http://dbpedia.org/resource/Epicurus> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Ancient_Greece> .
+
+ID: #300  
+Manual Label: Correct
+<http://dbpedia.org/resource/Epicurus> <http://dbpedia.org/ontology/notableIdeas> <http://dbpedia.org/resource/Hedonism> .
+
+ID: #301  
+Manual Label: Correct
+<http://dbpedia.org/resource/Epicurus> <http://dbpedia.org/ontology/notableWorks> <http://dbpedia.org/resource/Letter_to_Menesceus> .
+
+ID: #302  
+Manual Label: Correct
+<http://dbpedia.org/resource/Epicurus> <http://dbpedia.org/ontology/notableWorks> <http://dbpedia.org/resource/On_Nature> .
+
+ID: #303
+Manual Label: Correct
+<http://dbpedia.org/resource/Epicurus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Philosopher> .
+
+ID: #304 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Euclid> <http://dbpedia.org/ontology/birthDate> "-325"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #305
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Euclid> <http://dbpedia.org/ontology/deathDate> "-265"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #306 
+Manual Label: Correct
+<http://dbpedia.org/resource/Euclid> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Mathematics> .
+
+ID: #307
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Euclid> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Nicolaus_Copernicus> .
+
+ID: #308 
+Manual Label: Correct
+<http://dbpedia.org/resource/Euclid> <http://dbpedia.org/ontology/knownFor> "Elements" .
+
+ID: #309  
+Manual Label: Correct
+<http://dbpedia.org/resource/Euclid> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Ancient_Greece> .
+
+ID: #310 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Euclid> <http://dbpedia.org/ontology/notableStudent> <http://dbpedia.org/resource/Archimedes> .
+
+ID: #311  
+Manual Label: Correct
+<http://dbpedia.org/resource/Euclid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Mathematician> .
+
+ID: #312
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Euripides> <http://dbpedia.org/ontology/birthDate> "-484"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #313 
+Manual Label: Correct
+<http://dbpedia.org/resource/Euripides> <http://dbpedia.org/ontology/deathDate> "-406"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #314  
+Manual Label: Correct
+<http://dbpedia.org/resource/Euripides> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Literature> .
+
+ID: #315  
+Manual Label: Correct
+<http://dbpedia.org/resource/Euripides> <http://dbpedia.org/ontology/knownFor> "Electra" .
+
+ID: #316 
+Manual Label: Correct
+<http://dbpedia.org/resource/Euripides> <http://dbpedia.org/ontology/knownFor> "Medea" .
+
+ID: #317  
+Manual Label: Correct
+<http://dbpedia.org/resource/Euripides> <http://dbpedia.org/ontology/knownFor> "The Bacchae" .
+
+ID: #318  
+Manual Label: Correct
+<http://dbpedia.org/resource/Euripides> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Ancient_Greece> .
+
+ID: #319  
+Manual Label: Correct
+<http://dbpedia.org/resource/Euripides> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/Hippolytus_(play)> .
+
+ID: #320  
+Manual Label: Correct
+<http://dbpedia.org/resource/Euripides> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Writer> .
+
+ID: #321  
+Manual Label: Correct
+<http://dbpedia.org/resource/Gemistus_Pletho> <http://dbpedia.org/ontology/birthDate> "c. 1355"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #322
+Manual Label: Correct
+<http://dbpedia.org/resource/Gemistus_Pletho> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Constantinople> .
+
+ID: #323  
+Manual Label: Correct
+<http://dbpedia.org/resource/Gemistus_Pletho> <http://dbpedia.org/ontology/deathDate> "1452"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #324  
+Manual Label: Correct
+<http://dbpedia.org/resource/Gemistus_Pletho> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Mystras> .
+
+ID: #325  
+Manual Label: Correct
+<http://dbpedia.org/resource/Gemistus_Pletho> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Philosophy> .
+
+ID: #326
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Gemistus_Pletho> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Giorgio_Valla> .
+
+ID: #327
+Manual Label: Erroneous
+Erroneous<http://dbpedia.org/resource/Gemistus_Pletho> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Giovanni_Pico_della_Mirandola> .
+
+ID: #328 
+Manual Label: Correct
+<http://dbpedia.org/resource/Gemistus_Pletho> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Marsilio_Ficino> .
+
+ID: #329  
+Manual Label: Correct
+<http://dbpedia.org/resource/Gemistus_Pletho> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Byzantine_Empire> .
+
+ID: #330  
+Manual Label: Correct
+<http://dbpedia.org/resource/Gemistus_Pletho> <http://dbpedia.org/ontology/notableIdea> "Hellenism" .
+
+ID: #331  
+Manual Label: Correct
+<http://dbpedia.org/resource/Gemistus_Pletho> <http://dbpedia.org/ontology/notableIdea> "Platonism" .
+
+ID: #332 
+Manual Label: Correct
+<http://dbpedia.org/resource/Gemistus_Pletho> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Philosopher> .
+
+ID: #333  
+Manual Label: Correct
+<http://dbpedia.org/resource/Gemistus_Pletho> <http://www.w3.org/2000/01/rdf-schema#label> "Gemistus Pletho" .
+
+ID: #334  
+Manual Label: Correct
+<http://dbpedia.org/resource/Georgios_Papandreou> <http://dbpedia.org/ontology/birthDate> "1888-02-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #335  
+Manual Label: Correct
+<http://dbpedia.org/resource/Georgios_Papandreou> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Kalentzi> .
+
+ID: #336 
+Manual Label: Correct
+<http://dbpedia.org/resource/Georgios_Papandreou> <http://dbpedia.org/ontology/deathDate> "1968-11-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #337  
+Manual Label: Correct
+<http://dbpedia.org/resource/Georgios_Papandreou> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #338  
+Manual Label: Correct
+<http://dbpedia.org/resource/Georgios_Papandreou> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #339  
+Manual Label: Correct
+<http://dbpedia.org/resource/Georgios_Papandreou> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Politician> .
+
+ID: #340  
+Manual Label: Correct
+<http://dbpedia.org/resource/Georgios_Papandreou> <http://dbpedia.org/ontology/office> <http://dbpedia.org/resource/Prime_Minister_of_Greece> .
+
+ID: #341  
+Manual Label: Correct
+<http://dbpedia.org/resource/Georgios_Papandreou> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+
+ID: #342  
+Manual Label: Correct
+<http://dbpedia.org/resource/Giorgos_Seferis> <http://dbpedia.org/ontology/awards> <http://dbpedia.org/resource/Nobel_Prize_in_Literature> .
+
+ID: #343  
+Manual Label: Correct
+<http://dbpedia.org/resource/Giorgos_Seferis> <http://dbpedia.org/ontology/birthDate> "1900-03-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #344  
+Manual Label: Correct
+<http://dbpedia.org/resource/Giorgos_Seferis> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Smyrna> .
+
+ID: #345
+Manual Label: Correct
+<http://dbpedia.org/resource/Giorgos_Seferis> <http://dbpedia.org/ontology/deathDate> "1971-09-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #346
+Manual Label: Correct
+<http://dbpedia.org/resource/Giorgos_Seferis> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #347  
+Manual Label: Correct
+<http://dbpedia.org/resource/Giorgos_Seferis> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Literature> .
+
+ID: #348  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Giorgos_Seferis> <http://dbpedia.org/ontology/hasInfluenced> <http://dbpedia.org/resource/Kostas_Kariotakis> .
+
+ID: #349  
+Manual Label: Correct
+<http://dbpedia.org/resource/Giorgos_Seferis> <http://dbpedia.org/ontology/hasInfluenced> <http://dbpedia.org/resource/Yiannis_Ritsos> .
+
+ID: #350 
+Manual Label: Correct
+<http://dbpedia.org/resource/Giorgos_Seferis> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #351 
+Manual Label: Correct
+<http://dbpedia.org/resource/Giorgos_Seferis> <http://dbpedia.org/ontology/notableWorks> <http://dbpedia.org/resource/Mythistorema> .
+
+ID: #352
+Manual Label: Correct
+<http://dbpedia.org/resource/Giorgos_Seferis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Poetry> .
+
+ID: #353
+Manual Label: Correct
+<http://dbpedia.org/resource/Giorgos_Seferis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #354  
+Manual Label: Correct
+<http://dbpedia.org/resource/Georgios_Karaiskakis> <http://dbpedia.org/ontology/birthDate> "1780-01-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #355
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Georgios_Karaiskakis> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Megalopolis,_Greece> .
+
+ID: #356
+Manual Label: Correct
+<http://dbpedia.org/resource/Georgios_Karaiskakis> <http://dbpedia.org/ontology/deathDate> "1827-04-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #357
+Manual Label: Correct
+<http://dbpedia.org/resource/Georgios_Karaiskakis> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Phaleron> .
+
+ID: #358
+Manual Label: Correct
+<http://dbpedia.org/resource/Georgios_Karaiskakis> <http://dbpedia.org/ontology/ethnicity> <http://dbpedia.org/resource/Greeks> .
+
+ID: #359
+Manual Label: Correct
+<http://dbpedia.org/resource/Georgios_Karaiskakis> <http://dbpedia.org/ontology/leadership> <http://dbpedia.org/resource/Greek_War_of_Independence> .
+
+ID: #360
+Manual Label: Correct
+<http://dbpedia.org/resource/Georgios_Karaiskakis> <http://dbpedia.org/ontology/militaryBranch> <http://dbpedia.org/resource/Greek_War_of_Independence> .
+
+ID: #361
+Manual Label: Correct
+<http://dbpedia.org/resource/Georgios_Karaiskakis> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #362
+Manual Label: Correct
+<http://dbpedia.org/resource/Georgios_Karaiskakis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Military_personnel> .
+
+ID: #363
+Manual Label: Correct
+<http://dbpedia.org/resource/Georgios_Karaiskakis> <http://dbpedia.org/ontology/religion> <http://dbpedia.org/resource/Christianity> .
+
+ID: #364 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Georgios_Karaiskakis> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Polyxeni_Karaiskaki> .
+
+ID: #365  
+Manual Label: Correct
+<http://dbpedia.org/resource/Georgios_Karaiskakis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #366 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Georgios_Papanikolaou> <http://dbpedia.org/ontology/birthDate> "1886-05-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #367  
+Manual Label: Correct
+<http://dbpedia.org/resource/Georgios_Papanikolaou> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Kymi,_Greece> .
+
+ID: #368  
+Manual Label: Correct
+<http://dbpedia.org/resource/Georgios_Papanikolaou> <http://dbpedia.org/ontology/deathDate> "1962-02-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #369
+Manual Label: Correct
+<http://dbpedia.org/resource/Georgios_Papanikolaou> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Miami,_Florida> .
+
+ID: #370  
+Manual Label: Correct
+<http://dbpedia.org/resource/Georgios_Papanikolaou> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Medicine> .
+
+ID: #371
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Georgios_Papanikolaou> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/George_Nichopoulos> .
+
+ID: #372
+Manual Label: Correct
+<http://dbpedia.org/resource/Georgios_Papanikolaou> <http://dbpedia.org/ontology/knownFor> "Pap test" .
+
+ID: #373
+Manual Label: Correct
+<http://dbpedia.org/resource/Georgios_Papanikolaou> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #374
+Manual Label: Correct
+<http://dbpedia.org/resource/Georgios_Papanikolaou> <http://dbpedia.org/ontology/notableIdea> "Pap test" .
+
+ID: #375
+Manual Label: Correct
+<http://dbpedia.org/resource/Georgios_Papanikolaou> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Scientist> .
+
+ID: #376
+Manual Label: Correct
+<http://dbpedia.org/resource/Grigoris_Lambrakis> <http://dbpedia.org/ontology/activism> <http://dbpedia.org/resource/Pacifism> .
+
+ID: #377
+Manual Label: Correct
+<http://dbpedia.org/resource/Grigoris_Lambrakis> <http://dbpedia.org/ontology/birthDate> "1912-04-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #378
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Grigoris_Lambrakis> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Thessaloniki> .
+
+ID: #379
+Manual Label: Correct
+<http://dbpedia.org/resource/Grigoris_Lambrakis> <http://dbpedia.org/ontology/deathDate> "1963-05-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #380
+Manual Label: Correct
+<http://dbpedia.org/resource/Grigoris_Lambrakis> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Thessaloniki> .
+
+ID: #381
+Manual Label: Correct
+<http://dbpedia.org/resource/Grigoris_Lambrakis> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #382
+Manual Label: Correct
+<http://dbpedia.org/resource/Grigoris_Lambrakis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Physician> .
+
+ID: #383
+Manual Label: Correct
+<http://dbpedia.org/resource/Grigoris_Lambrakis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+
+ID: #384
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Helene_Ahrweiler> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/Sorbonne_University> .
+
+ID: #385
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Helene_Ahrweiler> <http://dbpedia.org/ontology/birthDate> "1926-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #386 
+Manual Label: Correct
+<http://dbpedia.org/resource/Helene_Ahrweiler> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Byzantine_studies> .
+
+ID: #387 
+Manual Label: Correct
+<http://dbpedia.org/resource/Helene_Ahrweiler> <http://dbpedia.org/ontology/knownFor> "Contributing to the study of Byzantine history and civilization."@en .
+
+ID: #388
+Manual Label: Correct
+<http://dbpedia.org/resource/Helene_Ahrweiler> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #389
+Manual Label: Correct
+<http://dbpedia.org/resource/Helene_Ahrweiler> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Historian> .
+
+ID: #390
+Manual Label: Correct
+<http://dbpedia.org/resource/Helene_Ahrweiler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Historian> .
+
+ID: #391
+Manual Label: Correct
+<http://dbpedia.org/resource/Helene_Ahrweiler> <http://www.w3.org/2000/01/rdf-schema#label> "Helene Glykatzi-Ahrweiler"@en .
+
+ID: #392
+Manual Label: Correct
+<http://dbpedia.org/resource/Heraclitus> <http://dbpedia.org/ontology/birthDate> "-535"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #393
+Manual Label: Correct
+<http://dbpedia.org/resource/Heraclitus> <http://dbpedia.org/ontology/deathDate> "-475"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #394
+Manual Label: Correct
+<http://dbpedia.org/resource/Heraclitus> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Philosophy> .
+
+ID: #395  
+Manual Label: Correct
+<http://dbpedia.org/resource/Heraclitus> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Aristotle> .
+
+ID: #396
+Manual Label: Correct
+<http://dbpedia.org/resource/Heraclitus> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Friedrich_Nietzsche> .
+
+ID: #397
+Manual Label: Correct
+<http://dbpedia.org/resource/Heraclitus> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Plato> .
+
+ID: #398
+Manual Label: Correct
+<http://dbpedia.org/resource/Heraclitus> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Ancient_Greece> .
+
+ID: #399  
+Manual Label: Correct
+<http://dbpedia.org/resource/Heraclitus> <http://dbpedia.org/ontology/notableIdea> "Logos" .
+
+ID: #400
+Manual Label: Correct
+<http://dbpedia.org/resource/Heraclitus> <http://dbpedia.org/ontology/notableIdea> "Panta rhei" .
+
+ID: #401  
+Manual Label: Correct
+<http://dbpedia.org/resource/Heraclitus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Philosopher> .
+
+ID: #402
+Manual Label: Correct
+<http://dbpedia.org/resource/Heraclitus> <http://www.w3.org/2000/01/rdf-schema#label> "Heraclitus" .
+
+ID: #403
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Herodotus> <http://dbpedia.org/ontology/birthDate> "-0490"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #404
+Manual Label: Correct
+<http://dbpedia.org/resource/Herodotus> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Halicarnassus> .
+
+ID: #405 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Herodotus> <http://dbpedia.org/ontology/deathDate> "-0424"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #406  
+Manual Label: Correct
+<http://dbpedia.org/resource/Herodotus> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Thurii> .
+
+ID: #407
+Manual Label: Correct
+<http://dbpedia.org/resource/Herodotus> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/History> .
+
+ID: #408
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Herodotus> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Plutarch> .
+
+ID: #409
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Herodotus> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Thucydides> .
+
+ID: #410  
+Manual Label: Correct
+<http://dbpedia.org/resource/Herodotus> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Ancient_Greece> .
+
+ID: #411
+Manual Label: Correct
+<http://dbpedia.org/resource/Herodotus> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Historian> .
+
+ID: #412  
+Manual Label: Correct
+<http://dbpedia.org/resource/Herodotus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #413  
+Manual Label: Correct
+<http://dbpedia.org/resource/Hippocrates> <http://dbpedia.org/ontology/birthDate> "-0460"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #414
+Manual Label: Correct
+<http://dbpedia.org/resource/Hippocrates> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Cos> .
+
+ID: #415
+Manual Label: Correct
+<http://dbpedia.org/resource/Hippocrates> <http://dbpedia.org/ontology/deathDate> "-0377"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #416
+Manual Label: Correct
+<http://dbpedia.org/resource/Hippocrates> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Larissa> .
+
+ID: #417
+Manual Label: Correct
+<http://dbpedia.org/resource/Hippocrates> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Medicine> .
+
+ID: #418
+Manual Label: Correct
+<http://dbpedia.org/resource/Hippocrates> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Galen> .
+
+ID: #419
+Manual Label: Correct
+<http://dbpedia.org/resource/Hippocrates> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Ancient_Greece> .
+
+ID: #420
+Manual Label: Correct
+<http://dbpedia.org/resource/Hippocrates> <http://dbpedia.org/ontology/notableIdea> "Hippocratic Oath" .
+
+ID: #421
+Manual Label: Correct
+<http://dbpedia.org/resource/Hippocrates> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/Hippocratic_Corpus> .
+
+ID: #422
+Manual Label: Correct
+<http://dbpedia.org/resource/Hippocrates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Physician> .
+
+ID: #423
+Manual Label: Correct
+<http://dbpedia.org/resource/Hippocrates> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates" .
+
+ID: #424
+Manual Label: Correct
+<http://dbpedia.org/resource/Homer> <http://dbpedia.org/ontology/birthDate> "-800"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #425
+Manual Label: Correct
+<http://dbpedia.org/resource/Homer> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Ionia> .
+
+ID: #426
+Manual Label: Erroneous
+Erroneous<http://dbpedia.org/resource/Homer> <http://dbpedia.org/ontology/deathDate> "-701"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #427  
+Manual Label: Correct
+<http://dbpedia.org/resource/Homer> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Ios> .
+
+ID: #428
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Homer> <http://dbpedia.org/ontology/education> <http://dbpedia.org/resource/School_of_Homer> .
+
+ID: #429
+Manual Label: Correct
+<http://dbpedia.org/resource/Homer> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Epic_poetry> .
+
+ID: #430
+Manual Label: Correct
+<http://dbpedia.org/resource/Homer> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Dante_Alighieri> .
+
+ID: #431
+Manual Label: Correct
+<http://dbpedia.org/resource/Homer> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Virgil> .
+
+ID: #432
+Manual Label: Correct
+<http://dbpedia.org/resource/Homer> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/William_Shakespeare> .
+
+ID: #433
+Manual Label: Correct
+<http://dbpedia.org/resource/Homer> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Ancient_Greece> .
+
+ID: #434
+Manual Label: Correct
+<http://dbpedia.org/resource/Homer> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/Iliad> .
+
+ID: #435
+Manual Label: Correct
+<http://dbpedia.org/resource/Homer> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/Odyssey> .
+
+ID: #436
+Manual Label: Correct
+<http://dbpedia.org/resource/Homer> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Poet> .
+
+ID: #437
+Manual Label: Correct
+<http://dbpedia.org/resource/Homer> <http://dbpedia.org/ontology/subject> <http://dbpedia.org/resource/Greek_mythology> .
+
+ID: #438
+Manual Label: Correct
+<http://dbpedia.org/resource/Homer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #439
+Manual Label: Correct
+<http://dbpedia.org/resource/Ioannis_Kapodistrias> <http://dbpedia.org/ontology/birthDate> "1776-02-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #440
+Manual Label: Correct
+<http://dbpedia.org/resource/Ioannis_Kapodistrias> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Corfu> .
+
+ID: #441
+Manual Label: Correct
+<http://dbpedia.org/resource/Ioannis_Kapodistrias> <http://dbpedia.org/ontology/deathDate> "1831-10-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #442
+Manual Label: Correct
+<http://dbpedia.org/resource/Ioannis_Kapodistrias> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Nafplio> .
+
+ID: #443
+Manual Label: Correct
+<http://dbpedia.org/resource/Ioannis_Kapodistrias> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greek_people> .
+
+ID: #444
+Manual Label: Correct
+<http://dbpedia.org/resource/Ioannis_Kapodistrias> <http://dbpedia.org/ontology/office> <http://dbpedia.org/resource/List_of_heads_of_state_of_Greece> .
+
+ID: #445 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Ioannis_Kapodistrias> <http://dbpedia.org/ontology/predecessor> <http://dbpedia.org/resource/Alexander_Mavrocordatos> .
+
+ID: #446  
+Manual Label: Correct
+<http://dbpedia.org/resource/Ioannis_Kapodistrias> <http://dbpedia.org/ontology/signature> <http://commons.wikimedia.org/wiki/File:Ioannis_Kapodistrias_signature.svg> .
+
+ID: #447  
+Manual Label: Correct
+<http://dbpedia.org/resource/Ioannis_Kapodistrias> <http://dbpedia.org/ontology/successor> <http://dbpedia.org/resource/Augustinos_Kapodistrias> .
+
+ID: #448
+Manual Label: Correct
+<http://dbpedia.org/resource/Ioannis_Kapodistrias> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #449  
+Manual Label: Correct
+<http://dbpedia.org/resource/Ioannis_Metaxas> <http://dbpedia.org/ontology/birthDate> "1871-04-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #450
+Manual Label: Correct
+<http://dbpedia.org/resource/Ioannis_Metaxas> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Ithaca> .
+
+ID: #451
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Ioannis_Metaxas> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Nikolaos_Metaxas> .
+
+ID: #452 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Ioannis_Metaxas> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Spyros_Metaxas> .
+
+ID: #453
+Manual Label: Correct
+<http://dbpedia.org/resource/Ioannis_Metaxas> <http://dbpedia.org/ontology/deathDate> "1941-01-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #454  
+Manual Label: Correct
+<http://dbpedia.org/resource/Ioannis_Metaxas> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #455
+Manual Label: Correct
+<http://dbpedia.org/resource/Ioannis_Metaxas> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #456
+Manual Label: Correct
+<http://dbpedia.org/resource/Ioannis_Metaxas> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Military_officer> .
+
+ID: #457  
+Manual Label: Correct
+<http://dbpedia.org/resource/Ioannis_Metaxas> <http://dbpedia.org/ontology/predecessor> <http://dbpedia.org/resource/Konstantinos_Demertzis> .
+
+ID: #458 
+Manual Label: Correct
+<http://dbpedia.org/resource/Ioannis_Metaxas> <http://dbpedia.org/ontology/primeMinisterOfGreece> <http://dbpedia.org/resource/Ioannis_Metaxas> .
+
+ID: #459 
+Manual Label: Correct
+<http://dbpedia.org/resource/Ioannis_Metaxas> <http://dbpedia.org/ontology/successor> <http://dbpedia.org/resource/Alexandros_Koryzis> .
+
+ID: #460  
+Manual Label: Correct
+<http://dbpedia.org/resource/Ioannis_Metaxas> <http://www.w3.org/2000/01/rdf-schema#label> "Ioannis Metaxas"@en .
+
+ID: #461 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Ion_Dragoumis> <http://dbpedia.org/ontology/birthDate> "1878-09-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #462  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Ion_Dragoumis> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Heraklion> .
+
+ID: #463  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Ion_Dragoumis> <http://dbpedia.org/ontology/deathDate> "1920-06-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #464  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Ion_Dragoumis> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Thessaloniki> .
+
+ID: #465  
+Manual Label: Correct
+<http://dbpedia.org/resource/Ion_Dragoumis> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #466  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Ion_Dragoumis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Journalist> .
+
+ID: #467  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Ion_Dragoumis> <http://dbpedia.org/ontology/politicalParty> <http://dbpedia.org/resource/Liberal_Party_(Greece)> .
+
+ID: #468  
+Manual Label: Correct
+<http://dbpedia.org/resource/Ion_Dragoumis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #469  
+Manual Label: Correct
+<http://dbpedia.org/resource/Ion_Dragoumis> <http://www.w3.org/2000/01/rdf-schema#label> "Ion Dragoumis"@en .
+
+ID: #470
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Karolos_Koun> <http://dbpedia.org/ontology/birthDate> "1908-12-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #471  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Karolos_Koun> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Thessaloniki> .
+
+ID: #472  
+Manual Label: Correct
+<http://dbpedia.org/resource/Karolos_Koun> <http://dbpedia.org/ontology/deathDate> "1987-02-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #473 
+Manual Label: Correct
+<http://dbpedia.org/resource/Karolos_Koun> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #474  
+Manual Label: Correct
+<http://dbpedia.org/resource/Karolos_Koun> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #475  
+Manual Label: Correct
+<http://dbpedia.org/resource/Karolos_Koun> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Actor> .
+
+ID: #476
+Manual Label: Correct
+<http://dbpedia.org/resource/Karolos_Koun> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Playwright> .
+
+ID: #477
+Manual Label: Correct
+<http://dbpedia.org/resource/Karolos_Koun> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Theatre_director> .
+
+ID: #478  
+Manual Label: Correct
+<http://dbpedia.org/resource/Karolos_Koun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Theatre_director> .
+
+ID: #479
+Manual Label: Correct
+<http://dbpedia.org/resource/Katina_Paxinou> <http://dbpedia.org/ontology/birthDate> "1900-12-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #480
+Manual Label: Correct
+<http://dbpedia.org/resource/Katina_Paxinou> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Piraeus> .
+
+ID: #481
+Manual Label: Correct
+<http://dbpedia.org/resource/Katina_Paxinou> <http://dbpedia.org/ontology/deathDate> "1973-02-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #482
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Katina_Paxinou> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/London> .
+
+ID: #483 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Katina_Paxinou> <http://dbpedia.org/ontology/education> <http://dbpedia.org/resource/National_Theatre_of_Greece> .
+
+ID: #484  
+Manual Label: Correct
+<http://dbpedia.org/resource/Katina_Paxinou> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Actor> .
+
+ID: #485  
+Manual Label: Correct
+<http://dbpedia.org/resource/Katina_Paxinou> <http://dbpedia.org/property/awards> <http://dbpedia.org/resource/Academy_Award_for_Best_Supporting_Actress> .
+
+ID: #486
+Manual Label: Correct
+<http://dbpedia.org/resource/Katina_Paxinou> <http://dbpedia.org/property/causeOfDeath> <http://dbpedia.org/resource/Lung_cancer> .
+
+ID: #487  
+Manual Label: Correct
+<http://dbpedia.org/resource/Katina_Paxinou> <http://dbpedia.org/property/films> <http://dbpedia.org/resource/For_Whom_the_Bell_Tolls_(film)> .
+
+ID: #488  
+Manual Label: Correct
+<http://dbpedia.org/resource/Katina_Paxinou> <http://dbpedia.org/property/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #489
+Manual Label: Correct
+<http://dbpedia.org/resource/Katina_Paxinou> <http://dbpedia.org/property/spouse> <http://dbpedia.org/resource/Alexander_Minotis> .
+
+ID: #490
+Manual Label: Correct
+<http://dbpedia.org/resource/Katina_Paxinou> <http://dbpedia.org/property/yearsActive> "1928–1971"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #491 
+Manual Label: Correct
+<http://dbpedia.org/resource/Katina_Paxinou> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Actor> .
+
+ID: #492  
+Manual Label: Correct
+<http://dbpedia.org/resource/Katina_Paxinou> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Katina_Paxinou> .
+
+ID: #493
+Manual Label: Correct
+<http://dbpedia.org/resource/Konstantinos_Karamanlis> <http://dbpedia.org/ontology/birthDate> "1907-03-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #494  
+Manual Label: Correct
+<http://dbpedia.org/resource/Konstantinos_Karamanlis> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Proti> .
+
+ID: #495  
+Manual Label: Correct
+<http://dbpedia.org/resource/Konstantinos_Karamanlis> <http://dbpedia.org/ontology/deathDate> "1998-04-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #496  
+Manual Label: Correct
+<http://dbpedia.org/resource/Konstantinos_Karamanlis> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #497
+Manual Label: Correct
+<http://dbpedia.org/resource/Konstantinos_Karamanlis> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #498
+Manual Label: Correct
+<http://dbpedia.org/resource/Konstantinos_Karamanlis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Politician> .
+
+ID: #499
+Manual Label: Correct
+<http://dbpedia.org/resource/Konstantinos_Karamanlis> <http://dbpedia.org/ontology/office> <http://dbpedia.org/resource/President_of_Greece> .
+
+ID: #500  
+Manual Label: Correct
+<http://dbpedia.org/resource/Konstantinos_Karamanlis> <http://dbpedia.org/ontology/office> <http://dbpedia.org/resource/Prime_Minister_of_Greece> .
+
+ID: #501
+Manual Label: Correct
+<http://dbpedia.org/resource/Konstantinos_Karamanlis> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Amalia_Karamanlis> .
+
+ID: #502
+Manual Label: Correct
+<http://dbpedia.org/resource/Konstantinos_Karamanlis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #503  
+Manual Label: Correct
+<http://dbpedia.org/resource/Kostis_Palamas> <http://dbpedia.org/ontology/birthDate> "1859-01-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #504 
+Manual Label: Correct
+<http://dbpedia.org/resource/Kostis_Palamas> <http://dbpedia.org/ontology/deathDate> "1943-02-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #505 
+Manual Label: Correct
+<http://dbpedia.org/resource/Kostis_Palamas> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Epigram> .
+
+ID: #506  
+Manual Label: Correct
+<http://dbpedia.org/resource/Kostis_Palamas> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Lyric_poetry> .
+
+ID: #507
+Manual Label: Correct
+<http://dbpedia.org/resource/Kostis_Palamas> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Symbolism_(arts)> .
+
+ID: #508
+Manual Label: Correct
+<http://dbpedia.org/resource/Kostis_Palamas> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #509 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Kostis_Palamas> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/Life_Immortal> .
+
+ID: #510
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Kostis_Palamas> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/The_Free_Besieged> .
+
+ID: #511
+Manual Label: Correct
+<http://dbpedia.org/resource/Kostis_Palamas> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Poet> .
+
+ID: #512  
+Manual Label: Correct
+<http://dbpedia.org/resource/Kostis_Palamas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+
+ID: #513
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lakis_Lazopoulos> <http://dbpedia.org/ontology/activeYearsStartYear> "1980"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #514
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lakis_Lazopoulos> <http://dbpedia.org/ontology/birthDate> "1956-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #515 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Lakis_Lazopoulos> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Thessaloniki> .
+
+ID: #516  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lakis_Lazopoulos> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Actor> .
+
+ID: #517  
+Manual Label: Correct
+<http://dbpedia.org/resource/Lakis_Lazopoulos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Actor> .
+
+ID: #518
+Manual Label: Correct
+<http://dbpedia.org/resource/Laskarina_Bouboulina> <http://dbpedia.org/ontology/birthDate> "1771-05-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #519
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Laskarina_Bouboulina> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Hydra_(island)> .
+
+ID: #520
+Manual Label: Correct
+<http://dbpedia.org/resource/Laskarina_Bouboulina> <http://dbpedia.org/ontology/deathDate> "1825-05-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #521
+Manual Label: Correct
+<http://dbpedia.org/resource/Laskarina_Bouboulina> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Spetses> .
+
+ID: #522  
+Manual Label: Correct
+<http://dbpedia.org/resource/Laskarina_Bouboulina> <http://dbpedia.org/ontology/militaryBranch> <http://dbpedia.org/resource/Greek_War_of_Independence> .
+
+ID: #523  
+Manual Label: Correct
+<http://dbpedia.org/resource/Laskarina_Bouboulina> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #524  
+Manual Label: Correct
+<http://dbpedia.org/resource/Laskarina_Bouboulina> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Sailor> .
+
+ID: #525  
+Manual Label: Correct
+<http://dbpedia.org/resource/Leonidas_I> <http://dbpedia.org/ontology/birthDate> "c. 540 BC"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #526  
+Manual Label: Correct
+<http://dbpedia.org/resource/Leonidas_I> <http://dbpedia.org/ontology/deathDate> "480 BC"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #527  
+Manual Label: Correct
+<http://dbpedia.org/resource/Leonidas_I> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Ancient_Greece> .
+
+ID: #528 
+Manual Label: Correct
+<http://dbpedia.org/resource/Leonidas_I> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Military_commander> .
+
+ID: #529  
+Manual Label: Correct
+<http://dbpedia.org/resource/Leonidas_I> <http://dbpedia.org/property/battles> <http://dbpedia.org/resource/Battle_of_Thermopylae> .
+
+ID: #530  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Leonidas_I> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Eurotas> .
+
+ID: #531  
+Manual Label: Correct
+<http://dbpedia.org/resource/Leonidas_I> <http://dbpedia.org/property/children> <http://dbpedia.org/resource/Pleistarchus> .
+
+ID: #532  
+Manual Label: Correct
+<http://dbpedia.org/resource/Leonidas_I> <http://dbpedia.org/property/deathPlace> <http://dbpedia.org/resource/Thermopylae> .
+
+ID: #533  
+Manual Label: Correct
+<http://dbpedia.org/resource/Leonidas_I> <http://dbpedia.org/property/reign> "491 BC – 480 BC" .
+
+ID: #534  
+Manual Label: Correct
+<http://dbpedia.org/resource/Leonidas_I> <http://dbpedia.org/property/spouse> <http://dbpedia.org/resource/Gorgo_(queen)> .
+
+ID: #535
+Manual Label: Correct
+<http://dbpedia.org/resource/Leonidas_I> <http://dbpedia.org/property/title> "King of Sparta" .
+
+ID: #536
+Manual Label: Correct
+<http://dbpedia.org/resource/Leonidas_I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+
+ID: #537
+Manual Label: Correct
+<http://dbpedia.org/resource/Manolis_Andronikos> <http://dbpedia.org/ontology/abstract> "Manolis Andronikos was a Greek archaeologist who is best known for discovering the tomb of Philip II of Macedon at Vergina in northern Greece. He also excavated many other important sites in Greece, particularly in the region of Macedonia. Andronikos was a leading figure in Greek archaeology during the second half of the 20th century."@en .
+
+ID: #538
+Manual Label: Correct
+<http://dbpedia.org/resource/Manolis_Andronikos> <http://dbpedia.org/ontology/birthDate> "1919-10-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #539
+Manual Label: Correct
+<http://dbpedia.org/resource/Manolis_Andronikos> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Bursa> .
+
+ID: #540
+Manual Label: Correct
+<http://dbpedia.org/resource/Manolis_Andronikos> <http://dbpedia.org/ontology/deathDate> "1992-03-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #541
+Manual Label: Correct
+<http://dbpedia.org/resource/Manolis_Andronikos> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Archaeology> .
+
+ID: #542  
+Manual Label: Correct
+<http://dbpedia.org/resource/Manolis_Andronikos> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #543
+Manual Label: Correct
+<http://dbpedia.org/resource/Manolis_Andronikos> <http://dbpedia.org/ontology/notableWorks> <http://dbpedia.org/resource/Tomb_of_Philip_II_of_Macedon> .
+
+ID: #544 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Manolis_Andronikos> <http://dbpedia.org/ontology/wikiPageID> "315033"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #545
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Manolis_Andronikos> <http://dbpedia.org/ontology/wikiPageRevisionID> "1041681083"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #546  
+Manual Label: Correct
+<http://dbpedia.org/resource/Manolis_Andronikos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Archaeologist> .
+
+ID: #547  
+Manual Label: Correct
+<http://dbpedia.org/resource/Manolis_Glezos> <http://dbpedia.org/ontology/activeYearsEndYear> "2019"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #548
+Manual Label: Correct
+<http://dbpedia.org/resource/Manolis_Glezos> <http://dbpedia.org/ontology/activeYearsStartYear> "1941"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #549
+Manual Label: Correct
+<http://dbpedia.org/resource/Manolis_Glezos> <http://dbpedia.org/ontology/birthDate> "1922-09-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #550 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Manolis_Glezos> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Arkadia> .
+
+ID: #551  
+Manual Label: Correct
+<http://dbpedia.org/resource/Manolis_Glezos> <http://dbpedia.org/ontology/deathDate> "2020-03-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #552  
+Manual Label: Correct
+<http://dbpedia.org/resource/Manolis_Glezos> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #553  
+Manual Label: Correct
+<http://dbpedia.org/resource/Manolis_Glezos> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #554  
+Manual Label: Correct
+<http://dbpedia.org/resource/Manolis_Glezos> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Journalist> .
+
+ID: #555  
+Manual Label: Correct
+<http://dbpedia.org/resource/Manolis_Glezos> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Politician> .
+
+ID: #556 ChatGPT Triple: <http://dbpedia.org/resource/Manolis_Glezos> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Resistance_fighter> .
+
+#556 <http://dbpedia.org/resource/Manolis_Glezos> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Resistance_fighter> .
+
+ID: #557  
+Manual Label: Correct
+<http://dbpedia.org/resource/Manolis_Glezos> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Writer> .
+
+ID: #558  
+Manual Label: Correct
+<http://dbpedia.org/resource/Manolis_Glezos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #559  
+Manual Label: Correct
+<http://dbpedia.org/resource/Manos_Hatzidakis> <http://dbpedia.org/ontology/associatedBand> <http://dbpedia.org/resource/Melina_Mercouri> .
+
+ID: #560
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Manos_Hatzidakis> <http://dbpedia.org/ontology/associatedBand> <http://dbpedia.org/resource/The_Tragoudistes> .
+
+ID: #561
+Manual Label: Correct
+<http://dbpedia.org/resource/Manos_Hatzidakis> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Academy_Award_for_Best_Original_Song> .
+
+ID: #562 
+Manual Label: Correct
+<http://dbpedia.org/resource/Manos_Hatzidakis> <http://dbpedia.org/ontology/birthDate> "1925-10-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #563
+Manual Label: Correct
+<http://dbpedia.org/resource/Manos_Hatzidakis> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Xanthi> .
+
+ID: #564
+Manual Label: Correct
+<http://dbpedia.org/resource/Manos_Hatzidakis> <http://dbpedia.org/ontology/deathDate> "1994-06-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #565
+Manual Label: Correct
+<http://dbpedia.org/resource/Manos_Hatzidakis> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #566
+Manual Label: Correct
+<http://dbpedia.org/resource/Manos_Hatzidakis> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Classical_music> .
+
+ID: #567 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Manos_Hatzidakis> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Rebetiko> .
+
+ID: #568 
+Manual Label: Correct
+<http://dbpedia.org/resource/Manos_Hatzidakis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Composer> .
+
+ID: #569 
+Manual Label: Correct
+<http://dbpedia.org/resource/Manos_Hatzidakis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Pianist> .
+
+ID: #570 
+Manual Label: Correct
+<http://dbpedia.org/resource/Manos_Hatzidakis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Songwriter> .
+
+ID: #571 
+Manual Label: Correct
+<http://dbpedia.org/resource/Manos_Hatzidakis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalArtist> .
+
+ID: #572 
+Manual Label: Correct
+<http://dbpedia.org/resource/Maria_Callas> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Grammy_Lifetime_Achievement_Award> .
+
+ID: #573  
+Manual Label: Correct
+<http://dbpedia.org/resource/Maria_Callas> <http://dbpedia.org/ontology/birthDate> "1923-12-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #574  
+Manual Label: Correct
+<http://dbpedia.org/resource/Maria_Callas> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/New_York_City> .
+
+ID: #575
+Manual Label: Correct
+<http://dbpedia.org/resource/Maria_Callas> <http://dbpedia.org/ontology/deathDate> "1977-09-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #576  
+Manual Label: Correct
+<http://dbpedia.org/resource/Maria_Callas> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Paris> .
+
+ID: #577  
+Manual Label: Correct
+<http://dbpedia.org/resource/Maria_Callas> <http://dbpedia.org/ontology/education> <http://dbpedia.org/resource/Athens_Conservatoire> .
+
+ID: #578
+Manual Label: Correct
+<http://dbpedia.org/resource/Maria_Callas> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Opera> .
+
+ID: #579
+Manual Label: Correct
+<http://dbpedia.org/resource/Maria_Callas> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Opera_singer> .
+
+ID: #580  
+Manual Label: Correct
+<http://dbpedia.org/resource/Maria_Callas> <http://dbpedia.org/ontology/partner> <http://dbpedia.org/resource/Aristotle_Onassis> .
+
+ID: #581
+Manual Label: Correct
+<http://dbpedia.org/resource/Maria_Callas> <http://dbpedia.org/property/notableRole> <http://dbpedia.org/resource/Norma_(opera)> .
+
+ID: #582  
+Manual Label: Correct
+<http://dbpedia.org/resource/Maria_Callas> <http://dbpedia.org/property/signature> <http://commons.wikimedia.org/wiki/File:Maria_Callas_Signature.png> .
+
+ID: #583
+Manual Label: Correct
+<http://dbpedia.org/resource/Maria_Callas> <http://dbpedia.org/property/voiceType> "Soprano" .
+
+ID: #584  
+Manual Label: Correct
+<http://dbpedia.org/resource/Maria_Callas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalArtist> .
+
+ID: #585
+Manual Label: Correct
+<http://dbpedia.org/resource/Markos_Vamvakaris> <http://dbpedia.org/ontology/birthDate> "1905-05-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #586
+Manual Label: Correct
+<http://dbpedia.org/resource/Markos_Vamvakaris> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Ano_Syros> .
+
+ID: #587 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Markos_Vamvakaris> <http://dbpedia.org/ontology/deathDate> "1972-10-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #588  
+Manual Label: Correct
+<http://dbpedia.org/resource/Markos_Vamvakaris> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #589
+Manual Label: Correct
+<http://dbpedia.org/resource/Markos_Vamvakaris> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Rebetiko> .
+
+ID: #590  
+Manual Label: Correct
+<http://dbpedia.org/resource/Markos_Vamvakaris> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Rebetiko> .
+
+ID: #591 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Markos_Vamvakaris> <http://dbpedia.org/ontology/hasMusicalRole> <http://dbpedia.org/resource/Guitar> .
+
+ID: #592  
+Manual Label: Correct
+<http://dbpedia.org/resource/Markos_Vamvakaris> <http://dbpedia.org/ontology/hasMusicalRole> <http://dbpedia.org/resource/Vocals> .
+
+ID: #593
+Manual Label: Correct
+<http://dbpedia.org/resource/Markos_Vamvakaris> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #594
+Manual Label: Correct
+<http://dbpedia.org/resource/Markos_Vamvakaris> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Singer> .
+
+ID: #595
+Manual Label: Correct
+<http://dbpedia.org/resource/Markos_Vamvakaris> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Columbia_Records> .
+
+ID: #596
+Manual Label: Correct
+<http://dbpedia.org/resource/Markos_Vamvakaris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Musician> .
+
+ID: #597
+Manual Label: Correct
+<http://dbpedia.org/resource/Melina_Mercouri> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Cannes_Film_Festival_Award_for_Best_Actress> .
+
+ID: #598
+Manual Label: Correct
+<http://dbpedia.org/resource/Melina_Mercouri> <http://dbpedia.org/ontology/birthDate> "1920-10-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #599
+Manual Label: Correct
+<http://dbpedia.org/resource/Melina_Mercouri> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #600
+Manual Label: Correct
+<http://dbpedia.org/resource/Melina_Mercouri> <http://dbpedia.org/ontology/deathDate> "1994-03-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #601
+Manual Label: Correct
+<http://dbpedia.org/resource/Melina_Mercouri> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/New_York_City> .
+
+ID: #602
+Manual Label: Correct
+<http://dbpedia.org/resource/Melina_Mercouri> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #603
+Manual Label: Correct
+<http://dbpedia.org/resource/Melina_Mercouri> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Actor> .
+
+ID: #604 
+Manual Label: Correct
+<http://dbpedia.org/resource/Melina_Mercouri> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Politician> .
+
+ID: #605
+Manual Label: Correct
+<http://dbpedia.org/resource/Melina_Mercouri> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Singer> .
+
+ID: #606  
+Manual Label: Correct
+<http://dbpedia.org/resource/Melina_Mercouri> <http://purl.org/dc/elements/1.1/description> "Greek actress, singer, and politician" .
+
+ID: #607 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Mikis_Theodorakis> <http://dbpedia.org/ontology/activeYearsStartYear> "1949"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #608  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mikis_Theodorakis> <http://dbpedia.org/ontology/birthDate> "1925-07-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #609  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mikis_Theodorakis> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Chios> .
+
+ID: #610  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mikis_Theodorakis> <http://dbpedia.org/ontology/deathDate> "2021-09-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #611  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mikis_Theodorakis> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #612  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mikis_Theodorakis> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/Zorba_the_Greek_(film)> .
+
+ID: #613  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mikis_Theodorakis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Composer> .
+
+ID: #614  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mikis_Theodorakis> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Minos_EMI> .
+
+ID: #615
+Manual Label: Correct
+<http://dbpedia.org/resource/Mikis_Theodorakis> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Myrto_Altinoglou> .
+
+ID: #616  
+Manual Label: Correct
+<http://dbpedia.org/resource/Mikis_Theodorakis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalArtist> .
+
+ID: #617 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Nikolaos_Margioris> <http://dbpedia.org/ontology/birthDate> "1913-10-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #618 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Nikolaos_Margioris> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Larissa> .
+
+ID: #619 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Nikolaos_Margioris> <http://dbpedia.org/ontology/deathDate> "1993-09-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #620
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikolaos_Margioris> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #621 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Nikolaos_Margioris> <http://dbpedia.org/ontology/education> <http://dbpedia.org/resource/Aristotle_University_of_Thessaloniki> .
+
+ID: #622 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Nikolaos_Margioris> <http://dbpedia.org/ontology/education> <http://dbpedia.org/resource/University_of_Paris> .
+
+ID: #623 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Nikolaos_Margioris> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Medicine> .
+
+ID: #624  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikolaos_Margioris> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #625  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Nikolaos_Margioris> <http://dbpedia.org/ontology/notableStudent> <http://dbpedia.org/resource/Spyros_Kouvelis> .
+
+ID: #626  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Nikolaos_Margioris> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Physician> .
+
+ID: #627 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Nikolaos_Margioris> <http://dbpedia.org/ontology/thesisAdvisor> <http://dbpedia.org/resource/André_Lwoff> .
+
+ID: #628  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikolaos_Margioris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #629  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikolaos_Plastiras> <http://dbpedia.org/ontology/birthDate> "1883-11-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #630  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikolaos_Plastiras> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Karditsa> .
+
+ID: #631  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikolaos_Plastiras> <http://dbpedia.org/ontology/deathDate> "1953-07-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #632  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikolaos_Plastiras> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #633  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikolaos_Plastiras> <http://dbpedia.org/ontology/hasMilitaryRank> <http://dbpedia.org/resource/Colonel> .
+
+ID: #634  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikolaos_Plastiras> <http://dbpedia.org/ontology/hasMilitaryRank> <http://dbpedia.org/resource/General> .
+
+ID: #635  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikolaos_Plastiras> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #636
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikolaos_Plastiras> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Military_personnel> .
+
+ID: #637  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikolaos_Plastiras> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Politician> .
+
+ID: #638  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikolaos_Plastiras> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+
+ID: #639 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Nikos_Beloyannis> <http://dbpedia.org/ontology/birthDate> "1915-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #640 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Nikos_Beloyannis> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Volos> .
+
+ID: #641  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Beloyannis> <http://dbpedia.org/ontology/deathDate> "1952-03-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #642  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Beloyannis> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #643 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Nikos_Beloyannis> <http://dbpedia.org/ontology/education> <http://dbpedia.org/resource/University_of_Athens> .
+
+ID: #644  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Beloyannis> <http://dbpedia.org/ontology/movement> <http://dbpedia.org/resource/Communism> .
+
+ID: #645  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Beloyannis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Politician> .
+
+ID: #646 
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Beloyannis> <http://dbpedia.org/ontology/politicalParty> <http://dbpedia.org/resource/Communist_Party_of_Greece> .
+
+ID: #647 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Nikos_Beloyannis> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Member_of_Parliament> .
+
+ID: #648 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Nikos_Beloyannis> <http://dbpedia.org/property/arrested> "1949"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #649  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Beloyannis> <http://dbpedia.org/property/conviction> <http://dbpedia.org/resource/Treason> .
+
+ID: #650  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Beloyannis> <http://dbpedia.org/property/trial> <http://dbpedia.org/resource/Nikos_Beloyannis_trial> .
+
+ID: #651
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Beloyannis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #652
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Galis> <http://dbpedia.org/ontology/birthDate> "1957-07-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #653 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Nikos_Galis> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Missolonghi> .
+
+ID: #654  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Galis> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Aris_B.C.> .
+
+ID: #655 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Nikos_Galis> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Olimpia_Milano> .
+
+ID: #656 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Nikos_Galis> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/PAOK_BC> .
+
+ID: #657  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Galis> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Panathinaikos_BC> .
+
+ID: #658  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Galis> <http://dbpedia.org/ontology/hallOfFame> <http://dbpedia.org/resource/FIBA_Hall_of_Fame> .
+
+ID: #659  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Galis> <http://dbpedia.org/ontology/hallOfFame> <http://dbpedia.org/resource/Greek_Basketball_Hall> .
+
+ID: #660  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Galis> <http://dbpedia.org/ontology/hallOfFame> <http://dbpedia.org/resource/Naismith_Memorial_Basketball_Hall_of_Fame> .
+
+ID: #661 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Nikos_Galis> <http://dbpedia.org/ontology/height> "1.95"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #662
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Galis> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #663
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Galis> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Shooting_guard> .
+
+ID: #664  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Galis> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Aris_B.C.> .
+
+ID: #665 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Nikos_Galis> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Pallacanestro_Cantu> .
+
+ID: #666 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Nikos_Galis> <http://dbpedia.org/ontology/weight> "94.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+ID: #667  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Galis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> .
+
+ID: #668
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Kazantzakis> <http://dbpedia.org/ontology/birthDate> "1883-02-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #669  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Kazantzakis> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Candia_(city)> .
+
+ID: #670
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Kazantzakis> <http://dbpedia.org/ontology/deathDate> "1957-10-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #671
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Kazantzakis> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Freiburg_im_Breisgau> .
+
+ID: #672  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Kazantzakis> <http://dbpedia.org/ontology/education> <http://dbpedia.org/resource/University_of_Athens> .
+
+ID: #673
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Kazantzakis> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #674  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Kazantzakis> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/Zorba_the_Greek> .
+
+ID: #675  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Kazantzakis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Novelist> .
+
+ID: #676  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Kazantzakis> <http://dbpedia.org/property/awards> "International Peace Award (1956)" .
+
+ID: #677  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Kazantzakis> <http://dbpedia.org/property/genre> "Modern Greek literature" .
+
+ID: #678 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Nikos_Kazantzakis> <http://dbpedia.org/property/influenced> <http://dbpedia.org/resource/Albert_Camus> .
+
+ID: #679  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Kazantzakis> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Friedrich_Nietzsche> .
+
+ID: #680
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Kazantzakis> <http://dbpedia.org/property/language> <http://dbpedia.org/resource/Greek_language> .
+
+ID: #681
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Kazantzakis> <http://dbpedia.org/property/notableWorks> "The Last Temptation of Christ", "Report to Greco" .
+
+ID: #682
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Kazantzakis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+
+ID: #683
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Nikos_Xilouris> <http://dbpedia.org/ontology/associatedBand> <http://dbpedia.org/resource/Apollon_Kondylis> .
+
+ID: #684  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Nikos_Xilouris> <http://dbpedia.org/ontology/associatedBand> <http://dbpedia.org/resource/Choir_of_Anoyia> .
+
+ID: #685  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Xilouris> <http://dbpedia.org/ontology/birthDate> "7 July 1936"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #686  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Xilouris> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Anogia> .
+
+ID: #687  
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Xilouris> <http://dbpedia.org/ontology/deathDate> "8 February 1980"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #688  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Nikos_Xilouris> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #689 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Nikos_Xilouris> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Rebetiko> .
+
+ID: #690
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Xilouris> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Singer> .
+
+ID: #691 
+Manual Label: Correct
+<http://dbpedia.org/resource/Nikos_Xilouris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalArtist> .
+
+ID: #692
+Manual Label: Correct
+<http://dbpedia.org/resource/Odysseas_Elytis> <http://dbpedia.org/ontology/birthDate> "2 November 1911"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #693
+Manual Label: Correct
+<http://dbpedia.org/resource/Odysseas_Elytis> <http://dbpedia.org/ontology/deathDate> "18 March 1996"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #694
+Manual Label: Correct
+<http://dbpedia.org/resource/Odysseas_Elytis> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #695
+Manual Label: Correct
+<http://dbpedia.org/resource/Odysseas_Elytis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Poet> .
+
+ID: #696
+Manual Label: Correct
+<http://dbpedia.org/resource/Odysseas_Elytis> <http://dbpedia.org/property/awards> <http://dbpedia.org/resource/Nobel_Prize_in_Literature> .
+
+ID: #697
+Manual Label: Correct
+<http://dbpedia.org/resource/Odysseas_Elytis> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Heraklion> .
+
+ID: #698
+Manual Label: Correct
+<http://dbpedia.org/resource/Odysseas_Elytis> <http://dbpedia.org/property/deathPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #699  
+Manual Label: Correct
+<http://dbpedia.org/resource/Odysseas_Elytis> <http://dbpedia.org/property/education> <http://dbpedia.org/resource/National_and_Kapodistrian_University_of_Athens> .
+
+ID: #700 
+Manual Label: Correct
+<http://dbpedia.org/resource/Odysseas_Elytis> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/Modernism_(literature)> .
+
+ID: #701  
+Manual Label: Correct
+<http://dbpedia.org/resource/Odysseas_Elytis> <http://dbpedia.org/property/movement> <http://dbpedia.org/resource/Modernism> .
+
+ID: #702 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Odysseas_Elytis> <http://dbpedia.org/property/notableWorks> <http://dbpedia.org/resource/The_Axon> .
+
+ID: #703
+Manual Label: Correct
+<http://dbpedia.org/resource/Odysseas_Elytis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+
+ID: #704  
+Manual Label: Correct
+<http://dbpedia.org/resource/Otto_of_Greece> <http://dbpedia.org/ontology/birthDate> "1815-06-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #705
+Manual Label: Correct
+<http://dbpedia.org/resource/Otto_of_Greece> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Salzburg> .
+
+ID: #706  
+Manual Label: Correct
+<http://dbpedia.org/resource/Otto_of_Greece> <http://dbpedia.org/ontology/deathDate> "1867-07-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #707  
+Manual Label: Correct
+<http://dbpedia.org/resource/Otto_of_Greece> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Bamberg> .
+
+ID: #708  
+Manual Label: Correct
+<http://dbpedia.org/resource/Otto_of_Greece> <http://dbpedia.org/ontology/hasSpouse> <http://dbpedia.org/resource/Amalia_of_Oldenburg> .
+
+ID: #709 
+Manual Label: Correct
+<http://dbpedia.org/resource/Otto_of_Greece> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Germany> .
+
+ID: #710  
+Manual Label: Correct
+<http://dbpedia.org/resource/Otto_of_Greece> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Monarch> .
+
+ID: #711  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Otto_of_Greece> <http://dbpedia.org/ontology/office> <http://dbpedia.org/resource/Duke_of_Bavaria> .
+
+ID: #712  
+Manual Label: Correct
+<http://dbpedia.org/resource/Otto_of_Greece> <http://dbpedia.org/ontology/office> <http://dbpedia.org/resource/Prince_of_Bavaria> .
+
+ID: #713  
+Manual Label: Correct
+<http://dbpedia.org/resource/Otto_of_Greece> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+
+ID: #714  
+Manual Label: Correct
+<http://dbpedia.org/resource/Pavlos_Melas> <http://dbpedia.org/ontology/birthDate> "1870-03-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #715
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Pavlos_Melas> <http://dbpedia.org/ontology/deathCause> <http://dbpedia.org/resource/Battle_of_Vevi_(1913)> .
+
+ID: #716  
+Manual Label: Correct
+<http://dbpedia.org/resource/Pavlos_Melas> <http://dbpedia.org/ontology/deathDate> "1904-10-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #717 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Pavlos_Melas> <http://dbpedia.org/ontology/education> <http://dbpedia.org/resource/National_and_Kapodistrian_University_of_Athens> .
+
+ID: #718  
+Manual Label: Correct
+<http://dbpedia.org/resource/Pavlos_Melas> <http://dbpedia.org/ontology/militaryCommand> <http://dbpedia.org/resource/Macedonian_Struggle> .
+
+ID: #719
+Manual Label: Correct
+<http://dbpedia.org/resource/Pavlos_Melas> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #720  
+Manual Label: Correct
+<http://dbpedia.org/resource/Pavlos_Melas> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Military_officer> .
+
+ID: #721  
+Manual Label: Correct
+<http://dbpedia.org/resource/Pavlos_Melas> <http://dbpedia.org/ontology/religion> <http://dbpedia.org/resource/Greek_Orthodox_Church> .
+
+ID: #722 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Pavlos_Melas> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Ada_Melas> .
+
+ID: #723  
+Manual Label: Correct
+<http://dbpedia.org/resource/Pericles> <http://dbpedia.org/ontology/birthDate> "c. 495 BC"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #724
+Manual Label: Correct
+<http://dbpedia.org/resource/Pericles> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #725  
+Manual Label: Correct
+<http://dbpedia.org/resource/Pericles> <http://dbpedia.org/ontology/deathDate> "429 BC-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #726
+Manual Label: Correct
+<http://dbpedia.org/resource/Pericles> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #727  
+Manual Label: Correct
+<http://dbpedia.org/resource/Pericles> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Ancient_Greece> .
+
+ID: #728  
+Manual Label: Correct
+<http://dbpedia.org/resource/Pericles> <http://dbpedia.org/ontology/office> <http://dbpedia.org/resource/Strategos> .
+
+ID: #729  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Pericles> <http://dbpedia.org/ontology/predecessor> <http://dbpedia.org/resource/Xanthippus> .
+
+ID: #730  
+Manual Label: Correct
+<http://dbpedia.org/resource/Pericles> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Aspasia> .
+
+ID: #731 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Pericles> <http://dbpedia.org/ontology/successor> <http://dbpedia.org/resource/Acibiades> .
+
+ID: #732  
+Manual Label: Correct
+<http://dbpedia.org/resource/Pericles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #733 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Phidias> <http://dbpedia.org/ontology/birthDate> "c. 480 BC"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #734
+Manual Label: Correct
+<http://dbpedia.org/resource/Phidias> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #735
+Manual Label: Correct
+<http://dbpedia.org/resource/Phidias> <http://dbpedia.org/ontology/deathDate> "c. 430 BC"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #736 
+Manual Label: Correct
+<http://dbpedia.org/resource/Phidias> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #737
+Manual Label: Correct
+<http://dbpedia.org/resource/Phidias> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Ancient_Greek_sculpture> .
+
+ID: #738  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Phidias> <http://dbpedia.org/ontology/hasMusicalRole> <http://dbpedia.org/resource/Lyra> .
+
+ID: #739  
+Manual Label: Correct
+<http://dbpedia.org/resource/Phidias> <http://dbpedia.org/ontology/hasOccupation> <http://dbpedia.org/resource/Architect> .
+
+ID: #740
+Manual Label: Correct
+<http://dbpedia.org/resource/Phidias> <http://dbpedia.org/ontology/hasOccupation> <http://dbpedia.org/resource/Painter> .
+
+ID: #741  
+Manual Label: Correct
+<http://dbpedia.org/resource/Phidias> <http://dbpedia.org/ontology/knownFor> "Statue of Zeus at Olympia, Statue of Athena Parthenos" .
+
+ID: #742
+Manual Label: Correct
+<http://dbpedia.org/resource/Phidias> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Ancient_Greece> .
+
+ID: #743
+Manual Label: Correct
+<http://dbpedia.org/resource/Phidias> <http://dbpedia.org/ontology/notableWorks> <http://dbpedia.org/resource/Statue_of_Athena_Parthenos> .
+
+ID: #744
+Manual Label: Correct
+<http://dbpedia.org/resource/Phidias> <http://dbpedia.org/ontology/notableWorks> <http://dbpedia.org/resource/Statue_of_Zeus_at_Olympia> .
+
+ID: #745
+Manual Label: Correct
+<http://dbpedia.org/resource/Phidias> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Sculptor> .
+
+ID: #746
+Manual Label: Correct
+<http://dbpedia.org/resource/Phidias> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #747  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Philip_II_of_Macedon> <http://dbpedia.org/ontology/birthDate> "-388-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #748  
+Manual Label: Correct
+<http://dbpedia.org/resource/Philip_II_of_Macedon> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Pella> .
+
+ID: #749
+Manual Label: Correct
+<http://dbpedia.org/resource/Philip_II_of_Macedon> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Alexander_the_Great> .
+
+ID: #750
+Manual Label: Correct
+<http://dbpedia.org/resource/Philip_II_of_Macedon> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Cleopatra_of_Macedon> .
+
+ID: #751
+Manual Label: Correct
+<http://dbpedia.org/resource/Philip_II_of_Macedon> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Thessalonike_of_Macedon> .
+
+ID: #752
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Philip_II_of_Macedon> <http://dbpedia.org/ontology/deathDate> "-336-10-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #753  
+Manual Label: Correct
+<http://dbpedia.org/resource/Philip_II_of_Macedon> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Aegae_(Macedonia)> .
+
+ID: #754  
+Manual Label: Correct
+<http://dbpedia.org/resource/Philip_II_of_Macedon> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/King_of_Macedon> .
+
+ID: #755  
+Manual Label: Correct
+<http://dbpedia.org/resource/Philip_II_of_Macedon> <http://dbpedia.org/ontology/predecessor> <http://dbpedia.org/resource/Amyntas_IV_of_Macedon> .
+
+ID: #756  
+Manual Label: Correct
+<http://dbpedia.org/resource/Philip_II_of_Macedon> <http://dbpedia.org/ontology/successor> <http://dbpedia.org/resource/Alexander_the_Great> .
+
+ID: #757 
+Manual Label: Correct
+<http://dbpedia.org/resource/Philip_II_of_Macedon> <http://dbpedia.org/property/notableWorks> <http://dbpedia.org/resource/Macedonian_phalanx> .
+
+ID: #758  
+Manual Label: Correct
+<http://dbpedia.org/resource/Philip_II_of_Macedon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Monarch> .
+
+ID: #759 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Plato> <http://dbpedia.org/ontology/birthDate> "0427-05-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #760  
+Manual Label: Correct
+<http://dbpedia.org/resource/Plato> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #761 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Plato> <http://dbpedia.org/ontology/deathDate> "0347-01-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #762  
+Manual Label: Correct
+<http://dbpedia.org/resource/Plato> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #763  
+Manual Label: Correct
+<http://dbpedia.org/resource/Plato> <http://dbpedia.org/ontology/era> <http://dbpedia.org/resource/Ancient_philosophy> .
+
+ID: #764  
+Manual Label: Correct
+<http://dbpedia.org/resource/Plato> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Aristotle> .
+
+ID: #765  
+Manual Label: Correct
+<http://dbpedia.org/resource/Plato> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Socrates> .
+
+ID: #766  
+Manual Label: Correct
+<http://dbpedia.org/resource/Plato> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Philosophy> .
+
+ID: #767  
+Manual Label: Correct
+<http://dbpedia.org/resource/Plato> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Ancient_Greece> .
+
+ID: #768  
+Manual Label: Correct
+<http://dbpedia.org/resource/Plato> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Philosopher> .
+
+ID: #769  
+Manual Label: Correct
+<http://dbpedia.org/resource/Praxiteles> <http://dbpedia.org/ontology/artForm> <http://dbpedia.org/resource/Sculpture> .
+
+ID: #770  
+Manual Label: Correct
+<http://dbpedia.org/resource/Praxiteles> <http://dbpedia.org/ontology/artwork> <http://dbpedia.org/resource/Aphrodite_of_Cnidus> .
+
+ID: #771  
+Manual Label: Correct
+<http://dbpedia.org/resource/Praxiteles> <http://dbpedia.org/ontology/artwork> <http://dbpedia.org/resource/Hermes_and_the_Infant_Dionysus> .
+
+ID: #772  
+Manual Label: Correct
+<http://dbpedia.org/resource/Praxiteles> <http://dbpedia.org/ontology/birthDate> "0400-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #773 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Praxiteles> <http://dbpedia.org/ontology/deathDate> "0346-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #774  
+Manual Label: Correct
+<http://dbpedia.org/resource/Praxiteles> <http://dbpedia.org/ontology/movement> <http://dbpedia.org/resource/Ancient_Greek_art> .
+
+ID: #775
+Manual Label: Correct
+<http://dbpedia.org/resource/Praxiteles> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Ancient_Greece> .
+
+ID: #776  
+Manual Label: Correct
+<http://dbpedia.org/resource/Praxiteles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Artist> .
+
+ID: #777  
+Manual Label: Correct
+<http://dbpedia.org/resource/Praxiteles> <http://www.w3.org/2000/01/rdf-schema#label> "Praxiteles"@en .
+
+ID: #778  
+Manual Label: Correct
+<http://dbpedia.org/resource/Pyrros_Dimas> <http://dbpedia.org/ontology/birthDate> "1971-10-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #779 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Pyrros_Dimas> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Chameria> .
+
+ID: #780  
+Manual Label: Correct
+<http://dbpedia.org/resource/Pyrros_Dimas> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Sport> .
+
+ID: #781 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Pyrros_Dimas> <http://dbpedia.org/ontology/hasOccupation> <http://dbpedia.org/resource/Coach> .
+
+ID: #782 
+Manual Label: Correct
+<http://dbpedia.org/resource/Pyrros_Dimas> <http://dbpedia.org/ontology/hasOccupation> <http://dbpedia.org/resource/Sports_administrator> .
+
+ID: #783  
+Manual Label: Correct
+<http://dbpedia.org/resource/Pyrros_Dimas> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #784  
+Manual Label: Correct
+<http://dbpedia.org/resource/Pyrros_Dimas> <http://dbpedia.org/ontology/notableWorks> <http://dbpedia.org/resource/List_of_multiple_Olympic_gold_medalists> .
+
+ID: #785  
+Manual Label: Correct
+<http://dbpedia.org/resource/Pyrros_Dimas> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Weightlifting> .
+
+ID: #786  
+Manual Label: Correct
+<http://dbpedia.org/resource/Pyrros_Dimas> <http://dbpedia.org/ontology/olympicMedal> <http://dbpedia.org/resource/Gold_medal> .
+
+ID: #787 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Pyrros_Dimas> <http://dbpedia.org/ontology/weightClass> "77 kg" .
+
+ID: #788 
+Manual Label: Correct
+<http://dbpedia.org/resource/Pyrros_Dimas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #789  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Pythagoras> <http://dbpedia.org/ontology/birthDate> "-0576"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #790  
+Manual Label: Correct
+<http://dbpedia.org/resource/Pythagoras> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Samos> .
+
+ID: #791
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Pythagoras> <http://dbpedia.org/ontology/deathDate> "-0490"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #792
+Manual Label: Correct
+<http://dbpedia.org/resource/Pythagoras> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Metapontum> .
+
+ID: #793  
+Manual Label: Correct
+<http://dbpedia.org/resource/Pythagoras> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Plato> .
+
+ID: #794
+Manual Label: Correct
+<http://dbpedia.org/resource/Pythagoras> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Pythagorean_theorem> .
+
+ID: #795
+Manual Label: Correct
+<http://dbpedia.org/resource/Pythagoras> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Pythagoreanism> .
+
+ID: #796
+Manual Label: Correct
+<http://dbpedia.org/resource/Pythagoras> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Ancient_Greece> .
+
+ID: #797
+Manual Label: Correct
+<http://dbpedia.org/resource/Pythagoras> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Mathematician> .
+
+ID: #798
+Manual Label: Correct
+<http://dbpedia.org/resource/Pythagoras> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Philosopher> .
+
+ID: #799 
+Manual Label: Correct
+<http://dbpedia.org/resource/Pythagoras> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Founder> .
+
+ID: #800
+Manual Label: Correct
+<http://dbpedia.org/resource/Pythagoras> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+
+ID: #801
+Manual Label: Correct
+<http://dbpedia.org/resource/Rigas_Feraios> <http://dbpedia.org/ontology/birthDate> "1757-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #802
+Manual Label: Correct
+<http://dbpedia.org/resource/Rigas_Feraios> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Velestino> .
+
+ID: #803
+Manual Label: Correct
+<http://dbpedia.org/resource/Rigas_Feraios> <http://dbpedia.org/ontology/deathDate> "1798-06-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #804
+Manual Label: Correct
+<http://dbpedia.org/resource/Rigas_Feraios> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Belgrade> .
+
+ID: #805
+Manual Label: Correct
+<http://dbpedia.org/resource/Rigas_Feraios> <http://dbpedia.org/ontology/ethnicity> <http://dbpedia.org/resource/Greeks> .
+
+ID: #806
+Manual Label: Correct
+<http://dbpedia.org/resource/Rigas_Feraios> <http://dbpedia.org/ontology/movement> <http://dbpedia.org/resource/Greek_Enlightenment> .
+
+ID: #807
+Manual Label: Correct
+<http://dbpedia.org/resource/Rigas_Feraios> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #808
+Manual Label: Correct
+<http://dbpedia.org/resource/Rigas_Feraios> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/Thourios_(poem)> .
+
+ID: #809
+Manual Label: Correct
+<http://dbpedia.org/resource/Rigas_Feraios> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Writer> .
+
+ID: #810
+Manual Label: Correct
+<http://dbpedia.org/resource/Rigas_Feraios> <http://dbpedia.org/ontology/religion> <http://dbpedia.org/resource/Christianity> .
+
+ID: #811
+Manual Label: Correct
+<http://dbpedia.org/resource/Rigas_Feraios> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #812
+Manual Label: Correct
+<http://dbpedia.org/resource/Rigas_Feraios> <http://www.w3.org/2000/01/rdf-schema#label> "Rigas Feraios"@en .
+
+ID: #813  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Socrates> <http://dbpedia.org/ontology/birthDate> "-0469"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #814  
+Manual Label: Correct
+<http://dbpedia.org/resource/Socrates> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #815
+Manual Label: Correct
+<http://dbpedia.org/resource/Socrates> <http://dbpedia.org/ontology/deathDate> "-0399"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #816  
+Manual Label: Correct
+<http://dbpedia.org/resource/Socrates> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #817  
+Manual Label: Correct
+<http://dbpedia.org/resource/Socrates> <http://dbpedia.org/ontology/education> <http://dbpedia.org/resource/Plato> .
+
+ID: #818  
+Manual Label: Correct
+<http://dbpedia.org/resource/Socrates> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Aristotle> .
+
+ID: #819  
+Manual Label: Correct
+<http://dbpedia.org/resource/Socrates> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Plato> .
+
+ID: #820  
+Manual Label: Correct
+<http://dbpedia.org/resource/Socrates> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Ancient_Greece> .
+
+ID: #821  
+Manual Label: Correct
+<http://dbpedia.org/resource/Socrates> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Teacher> .
+
+ID: #822
+Manual Label: Correct
+<http://dbpedia.org/resource/Socrates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Philosopher> .
+
+ID: #823  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Solon> <http://dbpedia.org/ontology/birthDate> "-0646"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #824  
+Manual Label: Correct
+<http://dbpedia.org/resource/Solon> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #825 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Solon> <http://dbpedia.org/ontology/deathDate> "-0564"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #826
+Manual Label: Correct
+<http://dbpedia.org/resource/Solon> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Cyprus> .
+
+ID: #827 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Solon> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Pericles> .
+
+ID: #828  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Solon> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Thales> .
+
+ID: #829  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Solon> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Solon> .
+
+ID: #830  
+Manual Label: Correct
+<http://dbpedia.org/resource/Solon> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Solonian_Constitution> .
+
+ID: #831 
+Manual Label: Correct
+<http://dbpedia.org/resource/Solon> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Ancient_Greece> .
+
+ID: #832  
+Manual Label: Correct
+<http://dbpedia.org/resource/Solon> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Poet> .
+
+ID: #833  
+Manual Label: Correct
+<http://dbpedia.org/resource/Solon> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Statesman> .
+
+ID: #834  
+Manual Label: Correct
+<http://dbpedia.org/resource/Solon> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Archon> .
+
+ID: #835
+Manual Label: Correct
+<http://dbpedia.org/resource/Solon> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Poet_laureate> .
+
+ID: #836
+Manual Label: Correct
+<http://dbpedia.org/resource/Solon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+
+ID: #837
+Manual Label: Correct
+<http://dbpedia.org/resource/Sophocles> <http://dbpedia.org/ontology/birthDate> "-0496"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #838
+Manual Label: Correct
+<http://dbpedia.org/resource/Sophocles> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Colonus> .
+
+ID: #839 
+Manual Label: Correct
+<http://dbpedia.org/resource/Sophocles> <http://dbpedia.org/ontology/deathDate> "-0406"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #840
+Manual Label: Correct
+<http://dbpedia.org/resource/Sophocles> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #841  
+Manual Label: Correct
+<http://dbpedia.org/resource/Sophocles> <http://dbpedia.org/ontology/era> <http://dbpedia.org/resource/Golden_Age_of_Athens> .
+
+ID: #842  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Sophocles> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Aristotle> .
+
+ID: #843  
+Manual Label: Correct
+<http://dbpedia.org/resource/Sophocles> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Euripides> .
+
+ID: #844  
+Manual Label: Correct
+<http://dbpedia.org/resource/Sophocles> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Theban_plays> .
+
+ID: #845  
+Manual Label: Correct
+<http://dbpedia.org/resource/Sophocles> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Ancient_Greece> .
+
+ID: #846  
+Manual Label: Correct
+<http://dbpedia.org/resource/Sophocles> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/Antigone> .
+
+ID: #847  
+Manual Label: Correct
+<http://dbpedia.org/resource/Sophocles> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/Electra_(Sophocles)> .
+
+ID: #848  
+Manual Label: Correct
+<http://dbpedia.org/resource/Sophocles> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/Oedipus_Rex> .
+
+ID: #849  
+Manual Label: Correct
+<http://dbpedia.org/resource/Sophocles> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Playwright> .
+
+ID: #850  
+Manual Label: Correct
+<http://dbpedia.org/resource/Sophocles> <http://dbpedia.org/ontology/subject> <http://dbpedia.org/resource/Greek_tragedy> .
+
+ID: #851  
+Manual Label: Correct
+<http://dbpedia.org/resource/Sophocles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+
+ID: #852  
+Manual Label: Correct
+<http://dbpedia.org/resource/Stelios_Kazantzidis> <http://dbpedia.org/ontology/associatedAct> <http://dbpedia.org/resource/Giorgos_Zampetas> .
+
+ID: #853  
+Manual Label: Correct
+<http://dbpedia.org/resource/Stelios_Kazantzidis> <http://dbpedia.org/ontology/associatedAct> <http://dbpedia.org/resource/Manolis_Chiotis> .
+
+ID: #854  
+Manual Label: Correct
+<http://dbpedia.org/resource/Stelios_Kazantzidis> <http://dbpedia.org/ontology/associatedAct> <http://dbpedia.org/resource/Vassilis_Tsitsanis> .
+
+ID: #855  
+Manual Label: Correct
+<http://dbpedia.org/resource/Stelios_Kazantzidis> <http://dbpedia.org/ontology/birthDate> "1931-08-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #856
+Manual Label: Correct
+<http://dbpedia.org/resource/Stelios_Kazantzidis> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Nea_Ionia> .
+
+ID: #857  
+Manual Label: Correct
+<http://dbpedia.org/resource/Stelios_Kazantzidis> <http://dbpedia.org/ontology/deathDate> "2001-09-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #858  
+Manual Label: Correct
+<http://dbpedia.org/resource/Stelios_Kazantzidis> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #859  
+Manual Label: Correct
+<http://dbpedia.org/resource/Stelios_Kazantzidis> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Rebetiko> .
+
+ID: #860  
+Manual Label: Correct
+<http://dbpedia.org/resource/Stelios_Kazantzidis> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #861  
+Manual Label: Correct
+<http://dbpedia.org/resource/Stelios_Kazantzidis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Singer> .
+
+ID: #862 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Stelios_Kazantzidis> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Minos_EMI> .
+
+ID: #863 
+Manual Label: Correct
+<http://dbpedia.org/resource/Stelios_Kazantzidis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalArtist> .
+
+ID: #864  
+Manual Label: Correct
+<http://dbpedia.org/resource/Thales> <http://dbpedia.org/ontology/birthDate> "-0624"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #865  
+Manual Label: Correct
+<http://dbpedia.org/resource/Thales> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Miletus> .
+
+ID: #866 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Thales> <http://dbpedia.org/ontology/deathDate> "-0545"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #867  
+Manual Label: Correct
+<http://dbpedia.org/resource/Thales> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Miletus> .
+
+ID: #868  
+Manual Label: Correct
+<http://dbpedia.org/resource/Thales> <http://dbpedia.org/ontology/era> <http://dbpedia.org/resource/Archaic_Greece> .
+
+ID: #869
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Thales> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Anaxagoras> .
+
+ID: #870  
+Manual Label: Correct
+<http://dbpedia.org/resource/Thales> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Anaximander> .
+
+ID: #871  
+Manual Label: Correct
+<http://dbpedia.org/resource/Thales> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Natural_philosophy> .
+
+ID: #872  
+Manual Label: Correct
+<http://dbpedia.org/resource/Thales> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Ancient_Greece> .
+
+ID: #873  
+Manual Label: Correct
+<http://dbpedia.org/resource/Thales> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/Thales_theorem> .
+
+ID: #874  
+Manual Label: Correct
+<http://dbpedia.org/resource/Thales> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Philosopher> .
+
+ID: #875  
+Manual Label: Correct
+<http://dbpedia.org/resource/Thales> <http://dbpedia.org/ontology/subject> <http://dbpedia.org/resource/Natural_philosophy> .
+
+ID: #876
+Manual Label: Correct
+<http://dbpedia.org/resource/Thales> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+
+ID: #877
+Manual Label: Correct
+<http://dbpedia.org/resource/Thanasis_Veggos> <http://dbpedia.org/ontology/abstract> "Thanasis Veggos was a Greek actor and director, considered one of the most important figures of Greek comedy."@en .
+
+ID: #878  
+Manual Label: Correct
+<http://dbpedia.org/resource/Thanasis_Veggos> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Honorary_Academy_Award> .
+
+ID: #879  
+Manual Label: Correct
+<http://dbpedia.org/resource/Thanasis_Veggos> <http://dbpedia.org/ontology/birthDate> "1927-05-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #880 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Thanasis_Veggos> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Thessaloniki> .
+
+ID: #881  
+Manual Label: Correct
+<http://dbpedia.org/resource/Thanasis_Veggos> <http://dbpedia.org/ontology/deathDate> "2011-05-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #882  
+Manual Label: Correct
+<http://dbpedia.org/resource/Thanasis_Veggos> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Attica> .
+
+ID: #883  
+Manual Label: Correct
+<http://dbpedia.org/resource/Thanasis_Veggos> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #884  
+Manual Label: Correct
+<http://dbpedia.org/resource/Thanasis_Veggos> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Actor> .
+
+ID: #885  
+Manual Label: Correct
+<http://dbpedia.org/resource/Thanasis_Veggos> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Director> .
+
+ID: #886  
+Manual Label: Correct
+<http://dbpedia.org/resource/Thanasis_Veggos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Actor> .
+
+ID: #887  
+Manual Label: Correct
+<http://dbpedia.org/resource/Themistocles> <http://dbpedia.org/ontology/birthDate> "-0525"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #888  
+Manual Label: Correct
+<http://dbpedia.org/resource/Themistocles> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #889  
+Manual Label: Correct
+<http://dbpedia.org/resource/Themistocles> <http://dbpedia.org/ontology/deathDate> "-0460"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #890  
+Manual Label: Correct
+<http://dbpedia.org/resource/Themistocles> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Magnesia_on_the_Maeander> .
+
+ID: #891  
+Manual Label: Correct
+<http://dbpedia.org/resource/Themistocles> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Military_strategy> .
+
+ID: #892 
+Manual Label: Correct
+<http://dbpedia.org/resource/Themistocles> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Ancient_Greece> .
+
+ID: #893  
+Manual Label: Correct
+<http://dbpedia.org/resource/Themistocles> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/Battle_of_Marathon> .
+
+ID: #894  
+Manual Label: Correct
+<http://dbpedia.org/resource/Themistocles> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/Battle_of_Salamis> .
+
+ID: #895  
+Manual Label: Correct
+<http://dbpedia.org/resource/Themistocles> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/Battle_of_Thermopylae> .
+
+ID: #896  
+Manual Label: Correct
+<http://dbpedia.org/resource/Themistocles> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Politician> .
+
+ID: #897  
+Manual Label: Correct
+<http://dbpedia.org/resource/Themistocles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #898  
+Manual Label: Correct
+<http://dbpedia.org/resource/Theo_Angelopoulos> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Lifetime_Achievement_Award> .
+
+ID: #899  
+Manual Label: Correct
+<http://dbpedia.org/resource/Theo_Angelopoulos> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Palme_d'Or> .
+
+ID: #900
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Theo_Angelopoulos> <http://dbpedia.org/ontology/birthDate> "1935-04-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #901  
+Manual Label: Correct
+<http://dbpedia.org/resource/Theo_Angelopoulos> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #902  
+Manual Label: Correct
+<http://dbpedia.org/resource/Theo_Angelopoulos> <http://dbpedia.org/ontology/deathDate> "2012-01-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #903  
+Manual Label: Correct
+<http://dbpedia.org/resource/Theo_Angelopoulos> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Piraeus> .
+
+ID: #904  
+Manual Label: Correct
+<http://dbpedia.org/resource/Theo_Angelopoulos> <http://dbpedia.org/ontology/directorOf> <http://dbpedia.org/resource/Eternity_and_a_Day> .
+
+ID: #905  
+Manual Label: Correct
+<http://dbpedia.org/resource/Theo_Angelopoulos> <http://dbpedia.org/ontology/directorOf> <http://dbpedia.org/resource/The_Travelling_Players> .
+
+ID: #906
+Manual Label: Correct
+<http://dbpedia.org/resource/Theo_Angelopoulos> <http://dbpedia.org/ontology/hasAbstract> "Theodoros Angelopoulos was a Greek filmmaker, screenwriter, and film producer. He is widely regarded as one of the most influential and acclaimed filmmakers in the history of Greek cinema, known for his poetic and lyrical style and his exploration of Greek history and identity."@en .
+
+ID: #907  
+Manual Label: Correct
+<http://dbpedia.org/resource/Theo_Angelopoulos> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #908  
+Manual Label: Correct
+<http://dbpedia.org/resource/Theo_Angelopoulos> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Film_director> .
+
+ID: #909  
+Manual Label: Correct
+<http://dbpedia.org/resource/Theo_Angelopoulos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #909  
+Manual Label: Correct
+<http://dbpedia.org/resource/Theodoros_Angelopoulos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #910  
+Manual Label: Correct
+<http://dbpedia.org/resource/Theodoros_Kolokotronis> <http://dbpedia.org/ontology/birthDate> "1770-04-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #911 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Theodoros_Kolokotronis> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Rizomylos> .
+
+ID: #912  
+Manual Label: Correct
+<http://dbpedia.org/resource/Theodoros_Kolokotronis> <http://dbpedia.org/ontology/deathDate> "1843-02-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #913  
+Manual Label: Correct
+<http://dbpedia.org/resource/Theodoros_Kolokotronis> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #914  
+Manual Label: Correct
+<http://dbpedia.org/resource/Theodoros_Kolokotronis> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #915 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Theodoros_Kolokotronis> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/Orlov_Revolt> .
+
+ID: #916 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Theodoros_Kolokotronis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Farmer> .
+
+ID: #917  
+Manual Label: Correct
+<http://dbpedia.org/resource/Theodoros_Kolokotronis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Military_Commander> .
+
+ID: #918  
+Manual Label: Correct
+<http://dbpedia.org/resource/Theodoros_Kolokotronis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Politician> .
+
+ID: #919  
+Manual Label: Correct
+<http://dbpedia.org/resource/Theodoros_Kolokotronis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+
+ID: #920  
+Manual Label: Correct
+<http://dbpedia.org/resource/Theodoros_Zagorakis> <http://dbpedia.org/ontology/birthDate> "1971-10-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #921  
+Manual Label: Correct
+<http://dbpedia.org/resource/Theodoros_Zagorakis> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Kavala> .
+
+ID: #922  
+Manual Label: Correct
+<http://dbpedia.org/resource/Theodoros_Zagorakis> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/AEK_Athens_FC> .
+
+ID: #923  
+Manual Label: Correct
+<http://dbpedia.org/resource/Theodoros_Zagorakis> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Bologna_FC_1909> .
+
+ID: #924  
+Manual Label: Correct
+<http://dbpedia.org/resource/Theodoros_Zagorakis> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Greece_national_football_team> .
+
+ID: #925  
+Manual Label: Correct
+<http://dbpedia.org/resource/Theodoros_Zagorakis> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Leicester_City_FC> .
+
+ID: #926 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Theodoros_Zagorakis> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Olympiacos_FC> .
+
+ID: #927  
+Manual Label: Correct
+<http://dbpedia.org/resource/Theodoros_Zagorakis> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/PAOK_FC> .
+
+ID: #928  
+Manual Label: Correct
+<http://dbpedia.org/resource/Theodoros_Zagorakis> <http://dbpedia.org/ontology/club> <http://dbpedia.org/resource/AEK_Athens_FC> .
+
+ID: #929
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Theodoros_Zagorakis> <http://dbpedia.org/ontology/height> "1.81"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+ID: #930  
+Manual Label: Correct
+<http://dbpedia.org/resource/Theodoros_Zagorakis> <http://dbpedia.org/ontology/nationalTeam> <http://dbpedia.org/resource/Greece_national_football_team> .
+
+ID: #931  
+Manual Label: Correct
+<http://dbpedia.org/resource/Theodoros_Zagorakis> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Midfielder> .
+
+ID: #932  
+Manual Label: Correct
+<http://dbpedia.org/resource/Theodoros_Zagorakis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerPlayer> .
+
+ID: #933 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Thucydides> <http://dbpedia.org/ontology/birthDate> "-0465"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #934  
+Manual Label: Correct
+<http://dbpedia.org/resource/Thucydides> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Alimos> .
+
+ID: #935  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Thucydides> <http://dbpedia.org/ontology/deathDate> "-0395"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #936  
+Manual Label: Correct
+<http://dbpedia.org/resource/Thucydides> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #937  
+Manual Label: Correct
+<http://dbpedia.org/resource/Thucydides> <http://dbpedia.org/ontology/era> <http://dbpedia.org/resource/Classical_Greece> .
+
+ID: #938  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Thucydides> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Friedrich_Nietzsche> .
+
+ID: #939 
+Manual Label: Correct
+<http://dbpedia.org/resource/Thucydides> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Niccolò_Machiavelli> .
+
+ID: #940  
+Manual Label: Correct
+<http://dbpedia.org/resource/Thucydides> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Thomas_Hobbes> .
+
+ID: #941 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Thucydides> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Herodotus> .
+
+ID: #942  
+Manual Label: Correct
+<http://dbpedia.org/resource/Thucydides> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/History_of_the_Peloponnesian_War> .
+
+ID: #943  
+Manual Label: Correct
+<http://dbpedia.org/resource/Thucydides> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Ancient_Greece> .
+
+ID: #944  
+Manual Label: Correct
+<http://dbpedia.org/resource/Thucydides> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/History_of_the_Peloponnesian_War> .
+
+ID: #945  
+Manual Label: Correct
+<http://dbpedia.org/resource/Thucydides> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Historian> .
+
+ID: #946  
+Manual Label: Correct
+<http://dbpedia.org/resource/Thucydides> <http://dbpedia.org/ontology/subject> <http://dbpedia.org/resource/History_of_the_Peloponnesian_War> .
+
+ID: #947  
+Manual Label: Correct
+<http://dbpedia.org/resource/Thucydides> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+
+ID: #948
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Timocreon> <http://dbpedia.org/ontology/deathDate> "-460"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #949  
+Manual Label: Correct
+<http://dbpedia.org/resource/Timocreon> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Elegy> .
+
+ID: #950
+Manual Label: Correct
+<http://dbpedia.org/resource/Timocreon> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Epigram> .
+
+ID: #951
+Manual Label: Correct
+<http://dbpedia.org/resource/Timocreon> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Lyric_poetry> .
+
+ID: #952
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Timocreon> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Satyr_play> .
+
+ID: #953
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Timocreon> <http://dbpedia.org/ontology/hasInfluenced> <http://dbpedia.org/resource/Archilochus> .
+
+ID: #954  
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Timocreon> <http://dbpedia.org/ontology/hasInfluenced> <http://dbpedia.org/resource/Horace> .
+
+ID: #955  
+Manual Label: Correct
+<http://dbpedia.org/resource/Timocreon> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Ancient_Greece> .
+
+ID: #956 
+Manual Label: Correct
+<http://dbpedia.org/resource/Timocreon> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Poet> .
+
+ID: #957
+Manual Label: Correct
+<http://dbpedia.org/resource/Timocreon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+
+ID: #958 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Vangelis> <http://dbpedia.org/ontology/activeYearsStartYear> "1961"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #959 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Vangelis> <http://dbpedia.org/ontology/associatedBand> <http://dbpedia.org/resource/Jon_Anderson> .
+
+ID: #960  
+Manual Label: Correct
+<http://dbpedia.org/resource/Vangelis> <http://dbpedia.org/ontology/associatedBand> <http://dbpedia.org/resource/Yes_(band)> .
+
+ID: #961
+Manual Label: Correct
+<http://dbpedia.org/resource/Vangelis> <http://dbpedia.org/ontology/birthDate> "1943-03-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #962
+Manual Label: Correct
+<http://dbpedia.org/resource/Vangelis> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Volos> .
+
+ID: #963
+Manual Label: Correct
+<http://dbpedia.org/resource/Vangelis> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Electronic_music> .
+
+ID: #964
+Manual Label: Correct
+<http://dbpedia.org/resource/Vangelis> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/New-age_music> .
+
+ID: #965
+Manual Label: Correct
+<http://dbpedia.org/resource/Vangelis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Composer> .
+
+ID: #966
+Manual Label: Correct
+<http://dbpedia.org/resource/Vangelis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Musician> .
+
+ID: #967
+Manual Label: Correct
+<http://dbpedia.org/resource/Vangelis> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Decca_Records> .
+
+ID: #968
+Manual Label: Correct
+<http://dbpedia.org/resource/Vangelis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalArtist> .
+
+ID: #969
+Manual Label: Correct
+<http://dbpedia.org/resource/Vassilis_Tsitsanis> <http://dbpedia.org/ontology/birthDate> "1915-01-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #970
+Manual Label: Correct
+<http://dbpedia.org/resource/Vassilis_Tsitsanis> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Trikala> .
+
+ID: #971
+Manual Label: Correct
+<http://dbpedia.org/resource/Vassilis_Tsitsanis> <http://dbpedia.org/ontology/deathDate> "1984-01-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #972
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Vassilis_Tsitsanis> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Stuttgart> .
+
+ID: #973  
+Manual Label: Correct
+<http://dbpedia.org/resource/Vassilis_Tsitsanis> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Rebetiko> .
+
+ID: #974  
+Manual Label: Correct
+<http://dbpedia.org/resource/Vassilis_Tsitsanis> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #975  
+Manual Label: Correct
+<http://dbpedia.org/resource/Vassilis_Tsitsanis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Singer> .
+
+ID: #976
+Manual Label: Correct
+<http://dbpedia.org/resource/Vassilis_Tsitsanis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Songwriter> .
+
+ID: #977
+Manual Label: Correct
+<http://dbpedia.org/resource/Yannis_Makriyannis> <http://dbpedia.org/ontology/birthDate> "1797-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #978
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Yannis_Makriyannis> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Trikala> .
+
+ID: #979  
+Manual Label: Correct
+<http://dbpedia.org/resource/Yannis_Makriyannis> <http://dbpedia.org/ontology/deathDate> "1864-04-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #980
+Manual Label: Correct
+<http://dbpedia.org/resource/Yannis_Makriyannis> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Athens> .
+
+ID: #981
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Yannis_Makriyannis> <http://dbpedia.org/ontology/movement> <http://dbpedia.org/resource/Phanariotes> .
+
+ID: #982
+Manual Label: Correct
+<http://dbpedia.org/resource/Yannis_Makriyannis> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #983
+Manual Label: Correct
+<http://dbpedia.org/resource/Yannis_Makriyannis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Military_personnel> .
+
+ID: #984
+Manual Label: Correct
+<http://dbpedia.org/resource/Yannis_Makriyannis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Politician> .
+
+ID: #985  
+Manual Label: Correct
+<http://dbpedia.org/resource/Yannis_Makriyannis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Writer> .
+
+ID: #986
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Yannis_Makriyannis> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Penelope_Mouzaki> .
+
+ID: #987  
+Manual Label: Correct
+<http://dbpedia.org/resource/Yiannis_Ritsos> <http://dbpedia.org/ontology/abstract> "Giannis Ritsos was a Greek poet and writer. He was born on May 1, 1909, in Monemvasia, Greece, and died on November 11, 1990. He is considered one of the most important Greek poets of the 20th century."@en .
+
+ID: #988
+Manual Label: Correct
+<http://dbpedia.org/resource/Yiannis_Ritsos> <http://dbpedia.org/ontology/birthDate> "1909-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #989
+Manual Label: Correct
+<http://dbpedia.org/resource/Yiannis_Ritsos> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Monemvasia> .
+
+ID: #990
+Manual Label: Correct
+<http://dbpedia.org/resource/Yiannis_Ritsos> <http://dbpedia.org/ontology/deathDate> "1990-11-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #991 
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Yiannis_Ritsos> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Nikiforos_Vrettakos> .
+
+ID: #992
+Manual Label: Correct
+<http://dbpedia.org/resource/Yiannis_Ritsos> <http://dbpedia.org/ontology/movement> <http://dbpedia.org/resource/Modern_Greek_literature> .
+
+ID: #993
+Manual Label: Correct
+<http://dbpedia.org/resource/Yiannis_Ritsos> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Greece> .
+
+ID: #994  
+Manual Label: Correct
+<http://dbpedia.org/resource/Yiannis_Ritsos> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/Moonlight_Sonata_(poem)> .
+
+ID: #995  
+Manual Label: Correct
+<http://dbpedia.org/resource/Yiannis_Ritsos> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Poet> .
+
+ID: #996  
+Manual Label: Correct
+<http://dbpedia.org/resource/Constantin_Carathéodory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Scientist> .
+
+ID: #997  
+Manual Label: Correct
+<http://dbpedia.org/resource/Constantin_Carathéodory> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Berlin> .
+
+ID: #998
+Manual Label: Correct
+<http://dbpedia.org/resource/Constantin_Carathéodory> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Munich> .
+
+ID: #999
+Manual Label: Erroneous
+<http://dbpedia.org/resource/Constantin_Carathéodory> <http://dbpedia.org/ontology/birthDate> "1873-09-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #1000  
+Manual Label: Correct
+<http://dbpedia.org/resource/Constantin_Carathéodory> <http://dbpedia.org/ontology/deathDate> "1950-02-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+
