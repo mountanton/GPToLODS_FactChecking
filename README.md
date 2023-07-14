@@ -9,7 +9,7 @@ version, statistics
 See the PDF including the algorithms and an experimental evaluation 
 
 **B. Web App Code**
-The folder "webAppCode" provides the  code of the web application.
+The folder "WebApp" provides the  code of the web application.
 
 **C. Evaluation Benhcmark**
 
