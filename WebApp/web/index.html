@@ -1,0 +1,172 @@
+<html>
+    <head>
+        <title>Fact Checking</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="stylesheet" href="assets/css/main.css" />
+        <link rel="stylesheet" href="https://www.w3schools.com/lib/w3.css">
+        <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-black.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <meta name="Keywords" content="warehouse, linked data, semantic, sparql" />
+        <script src="js/functions.js" defer></script>
+    </head>
+    <body class="subpage">
+
+        <!-- Header -->
+        <header id="header">
+            <div class="logo"><a href="">GPT&#x2022;LODS<span></span></a></div>
+            <a href="#menu">Menu</a>
+        </header>
+
+
+
+       <nav id="menu">
+                   <ul class="links">
+
+                <li><a href="">Fact Checking and Triples Generation</a></li>
+                <li><a href="https://youtu.be/50EPpiWowx0">Tutorial Video - Fact Checking and Triples Generation</a></li>
+
+            </ul>
+        </nav>
+
+        
+        
+        <!-- One -->
+        <section id="One" class="wrapper style3">
+            <div class="inner">
+                <header class="align-center">
+                    <p style="font-size:1.3rem">LODsyndesis Services over ChatGPT<img src="images/gptlods_logo2.png" width="120" /></p>
+                    <h2>GPT&#x2022;LODS: Fact Checking and Triples Generation Service</h2>
+                </header>
+            </div>
+        </section>
+
+        <!-- Two -->
+        <section id="two" class="style2" >
+            <div class="inner">
+                <div id="main" class="box">
+                    <div class="content" >
+                        <div align="center">
+                            <h2> Retrieve Facts from ChatGPT</h2>        
+                            <textarea rows="3" cols="20" id="entity" style=" width: 60%; font-size: 20px;">Who was the scorer in UEFA Euro 2004 Final</textarea><BR>
+
+                            <b>Type of Facts:</b> 
+                              <input type="radio" onclick="defaultQuestion()" id="que" name="type" value="que" checked>
+                              <label for="que">For a Question/Relation</label>
+                              <input type="radio" onclick="defaultEntity()" id="ent" name="type" value="ent">
+                              <label for="ent">For an Entity</label>
+                            <input type="radio" onclick="defaultText()" id="txt" name="type" value="txt" >
+                              <label for="txt">For a Text</label> <br>
+ 
+                            <div id='number'>
+
+                                <b>Number of Facts for the Desired Entity:</b> 
+                                  <input type="radio"  id="three" name="num" value="3" checked>
+                                  <label for="three">3</label>
+                                  <input type="radio" id="five" name="num" value="5">
+                                  <label for="five">5</label>
+                                <input type="radio"  id="ten" name="num" value="10" >
+                                  <label for="ten">10</label> <br>
+
+                            </div>
+                           
+                            <b>Select ChatGPT Model:</b> 
+                            <input type="radio" id="turbo" name="model" value="turbo" checked>
+                              <label for="turbo">gpt-3.5-turbo-0301</label>  
+                            <input type="radio" id="DaVinci" name="model" value="DaVinci">
+                              <label for="DaVinci">text-davinci-003</label>
+                              
+                            <br>  
+                            
+                          <!--   <div id="prefetched">
+
+                                Retrieved cached ChatGPT facts for an entity (Optional):
+                                <select style=" width: 15%; font-size: 15px;" name="grentities" id="grentities"> 
+                                    <option value="None">Unselected</option>
+                                    <option value="Aristotle">Aristotle</option>
+                                    <option value="Socrates">Socrates</option>
+                                    <option value="Plato">Plato</option>
+                                </select> <br>
+                            </div> -->
+                            <!-- <div id="prefetched">
+ 
+                                 <i>Select Cached ChatGPT facts for Greek Persons and Places </i> 
+                                 <input type="checkbox" id="optional" name="optional" >
+                                 <label for="optional" onclick="showHideOptional()"></label> <br> <br>
+ 
+                             </div>  -->
+                            <Br>
+                            <button style="text-align: center;" class="button special" id="myBtn" onclick="getFactsFromGPT();">Get Facts from ChatGPT</button> 
+
+
+                        </div>
+
+                        <br>
+                        <br>
+                        <p style="text-align:center;">
+                            <!--<h3>User Prompt</h3></p>
+                            <div id="antext"> -->
+                        <div id="antext" style=" border-style: solid;
+                             border-radius: 6px;
+                             border-width: 2px;
+                             border-color: #000;">
+                            <!--<p  class="solid" align="justify"></p>-->
+                        </div>
+                        <br>
+                        <br> 
+
+                        <div class="subContent">
+                            <div id="facts" class="column" > 
+                                <div align="center">
+
+                                    <div class="loader" id="loader"></div>  
+                                    <div id="factsRetrieved" style='font-size:17px'></div>
+                                    <div id="choiceKG">
+                                        <b>Please select a Knowledge Graph (KG) for validation:</b>
+                                          <input type="radio" id="DBpedia" name="kg" value="DBpedia" checked >
+                                          <label for="DBpedia">DBpedia</label>
+                                          <input type="radio" id="LODsyndesis" name="kg" value="LODsyndesis" >
+                                          <label for="LODsyndesis">LODsyndesis</label>
+                                        <br>  
+                                        <div align="center">
+                                            <button style="text-align: center;font-size:20px" class="button special"  id="validButton" onclick="submit();">Validate All</button> 
+                                        </div>
+                                    </div>
+
+
+                                </div>
+                            </div>
+                        </div>
+                        <br>
+
+                        <br>
+                        <br> 
+                        <div id="antext2" style=" border-style: solid;
+                             border-radius: 6px;
+                             border-width: 2px;
+                             border-color: #000;">
+                            <!--<p  class="solid" align="justify"></p>-->
+                        </div>
+                        <br>
+                        <div class="subContent">
+                            <div id="message"  class="column" style="background-color:#ffffff;">
+                                <div align="center">
+                                    <div id="factsValidation" style='font-size:17px'></div>
+                                    <div class="loader" id="loader2"></div>  
+                                </div>
+                            </div>
+                        </div>
+                        </section>
+
+                        <!-- Footer -->
+
+                   
+                        <!-- Scripts -->
+                        <script src="assets/js/jquery.min.js"></script>
+                        <script src="assets/js/jquery.scrollex.min.js"></script>
+                        <script src="assets/js/skel.min.js"></script>
+                        <script src="assets/js/util.js"></script>
+                        <script src="assets/js/main.js"></script>
+
+                        </body>
+                        </html>
