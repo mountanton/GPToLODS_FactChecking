@@ -1,0 +1,1830 @@
+ID: #1	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Crete> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+
+ID: #2	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Crete> <http://dbpedia.org/ontology/date> "1941-05-20" .
+
+ID: #3	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Crete> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Crete> .
+
+ID: #4	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Crete> <http://dbpedia.org/ontology/combatant> <http://dbpedia.org/resource/Germany> .
+
+ID: #5	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Crete> <http://dbpedia.org/ontology/combatant> <http://dbpedia.org/resource/United_Kingdom> .
+
+ID: #6	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Crete> <http://dbpedia.org/ontology/combatant> <http://dbpedia.org/resource/New_Zealand> .
+
+ID: #7	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Crete> <http://dbpedia.org/ontology/combatant> <http://dbpedia.org/resource/Australia> .
+
+ID: #8	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Crete> <http://dbpedia.org/ontology/result> <http://dbpedia.org/resource/Axis_victory> .
+
+ID: #9	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Crete> <http://dbpedia.org/ontology/casualties> "15,000+" .
+
+ID: #10	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Crete> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Kurt_Student> .
+
+ID: #11	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Velestino> <http://dbpedia.org/ontology/abstract> "The Battle of Velestino was fought in August 1897 between the Ottoman Empire and Greece during the Greco-Turkish War of 1897. The battle took place near the town of Velestino in Thessaly, central Greece. It resulted in a decisive Ottoman victory."@en .
+
+ID: #12	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Velestino> <http://dbpedia.org/ontology/date> "1897-08-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #13	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Velestino> <http://dbpedia.org/ontology/result> <http://dbpedia.org/resource/Ottoman_Empire> .
+
+ID: #14	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Velestino> <http://dbpedia.org/ontology/result> <http://dbpedia.org/resource/Greece> .
+
+ID: #15	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Velestino> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Velestino> .
+
+ID: #16	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Velestino> <http://dbpedia.org/ontology/conflict> <http://dbpedia.org/resource/Greco-Turkish_War_(1897)> .
+
+ID: #17	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Velestino> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Evangelos_Florakis> .
+
+ID: #18	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Velestino> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Mehmet_Ali_Pasha> .
+
+ID: #19	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Velestino> <http://dbpedia.org/ontology/result> <http://dbpedia.org/resource/Ottoman_victory> .
+
+ID: #21	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Olympus_(1941)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Battle> .
+
+ID: #22	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Olympus_(1941)> <http://dbpedia.org/property/date> "1941-04-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #23	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Olympus_(1941)> <http://dbpedia.org/property/place> <http://dbpedia.org/resource/Mount_Olympus> .
+
+ID: #24	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Olympus_(1941)> <http://dbpedia.org/property/result> <http://dbpedia.org/resource/Greek_victory> .
+
+ID: #25	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Olympus_(1941)> <http://dbpedia.org/property/commander> <http://dbpedia.org/resource/Alexandros_Papagos> .
+
+ID: #26	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Olympus_(1941)> <http://dbpedia.org/property/commander> <http://dbpedia.org/resource/Albert_Kesselring> .
+
+ID: #27	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Olympus_(1941)> <http://dbpedia.org/property/casualties> "Unknown" .
+
+ID: #28	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Olympus_(1941)> <http://dbpedia.org/property/belligerents> <http://dbpedia.org/resource/Greece> .
+
+ID: #29	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Olympus_(1941)> <http://dbpedia.org/property/belligerents> <http://dbpedia.org/resource/Axis_powers> .
+
+ID: #30	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Olympus_(1941)> <http://dbpedia.org/property/belligerents> <http://dbpedia.org/resource/United_Kingdom> .
+
+ID: #31	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Domokos> <http://dbpedia.org/ontology/abstract> "The Battle of Domokos was a military engagement that took place during the Greek War of Independence on 19 July 1822 near the town of Domokos, Greece."@en .
+
+ID: #32	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Domokos> <http://dbpedia.org/ontology/date> "1822-07-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #33	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Domokos> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Domokos> .
+
+ID: #34	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Domokos> <http://dbpedia.org/ontology/partOf> <http://dbpedia.org/resource/Greek_War_of_Independence> .
+
+ID: #35	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Domokos> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Theodoros_Kolokotronis> .
+
+ID: #36	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Domokos> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Odysseas_Androutsos> .
+
+ID: #37	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Domokos> <http://dbpedia.org/ontology/result> <http://dbpedia.org/resource/Greek_Victory> .
+
+ID: #39	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Domokos> <http://dbpedia.org/ontology/belligerent> <http://dbpedia.org/resource/Ottoman_Empire> .
+
+ID: #40	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Domokos> <http://dbpedia.org/ontology/belligerent> <http://dbpedia.org/resource/Greek_Revolutionaries> .
+
+ID: #41	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Vasilika> <http://dbpedia.org/ontology/date> "1821-08-25" .
+
+ID: #42	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Vasilika> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Vasilika,_Serres> .
+
+ID: #43	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Vasilika> <http://dbpedia.org/ontology/result> <http://dbpedia.org/resource/Ottoman_Empire> .
+
+ID: #44	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Vasilika> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Alexander_Ypsilantis> .
+
+ID: #45	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Vasilika> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Omer_Vrioni> .
+
+ID: #46	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Vasilika> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Markos_Botsaris> .
+
+ID: #47	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Vasilika> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Abdullah_Pasha> .
+
+ID: #49	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Vasilika> <http://dbpedia.org/ontology/belligerent> <http://dbpedia.org/resource/Ottoman_Empire> .
+
+ID: #50	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Vasilika> <http://dbpedia.org/ontology/outcome> <http://dbpedia.org/resource/Greek_victory> .
+
+ID: #51	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Alamana> <http://dbpedia.org/ontology/abstract> "The Battle of Alamana was fought between the Greeks and the Ottoman Empire during the Greek War of Independence on April 22, 1821."@en .
+
+ID: #52	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Alamana> <http://dbpedia.org/ontology/date> "1821-04-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #54	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Alamana> <http://dbpedia.org/ontology/participants> <http://dbpedia.org/resource/Ottoman_Empire> .
+
+ID: #55	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Alamana> <http://dbpedia.org/ontology/participants> <http://dbpedia.org/resource/Greeks> .
+
+ID: #56	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Alamana> <http://dbpedia.org/ontology/result> <http://dbpedia.org/resource/Ottoman_victory> .
+
+ID: #57	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Alamana> <http://dbpedia.org/ontology/result> <http://dbpedia.org/resource/Greek_defeat> .
+
+ID: #58	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Alamana> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Omer_Vrioni> .
+
+ID: #59	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Alamana> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Alexander_Ypsilantis> .
+
+ID: #61	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Arachova> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Battle> .
+
+ID: #62	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Arachova> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Battles_involving_Greece> .
+
+ID: #63	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Arachova> <http://dbpedia.org/property/date> "1826-11-30" .
+
+ID: #64	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Arachova> <http://dbpedia.org/property/result> <http://dbpedia.org/resource/Greek_victory> .
+
+ID: #65	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Arachova> <http://dbpedia.org/property/commander> <http://dbpedia.org/resource/Markos_Botsaris> .
+
+ID: #66	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Arachova> <http://dbpedia.org/property/commander> <http://dbpedia.org/resource/Georgios_Karaiskakis> .
+
+ID: #67	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Arachova> <http://dbpedia.org/property/location> <http://dbpedia.org/resource/Arachova> .
+
+ID: #68	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Arachova> <http://dbpedia.org/property/partof> <http://dbpedia.org/resource/Greek_War_of_Independence> .
+
+ID: #69	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Arachova> <http://dbpedia.org/property/casualties> "Unknown" .
+
+ID: #70	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Arachova> <http://dbpedia.org/property/description> "The Battle of Arachova was fought on November 30, 1826, during the Greek War of Independence. It resulted in a Greek victory and was led by commanders Markos Botsaris and Georgios Karaiskakis." .
+
+ID: #71	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Thermopylae_(1941)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Battle> .
+
+ID: #72	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Thermopylae_(1941)> <http://dbpedia.org/ontology/date> "1941-04-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #73	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Thermopylae_(1941)> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Thermopylae> .
+
+ID: #74	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Thermopylae_(1941)> <http://dbpedia.org/ontology/result> <http://dbpedia.org/resource/Greek_victory> .
+
+ID: #76	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Thermopylae_(1941)> <http://dbpedia.org/ontology/combatant> <http://dbpedia.org/resource/Nazi_Germany> .
+
+ID: #77	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Thermopylae_(1941)> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Konstantinos_Davakis> .
+
+ID: #78	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Thermopylae_(1941)> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Maximilian_von_Schellendorf> .
+
+ID: #80	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Thermopylae_(1941)> <http://dbpedia.org/ontology/description> "The Battle of Thermopylae in 1941 was fought between Greece and Nazi Germany during World War II."@en .
+
+ID: #82	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Bizani> <http://dbpedia.org/ontology/date> "6–11 March 1913" .
+
+ID: #83	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Bizani> <http://dbpedia.org/ontology/result> <http://dbpedia.org/resource/Greek_victory> .
+
+ID: #84	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Bizani> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Bizani> .
+
+ID: #85	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Bizani> <http://dbpedia.org/ontology/combatant> <http://dbpedia.org/resource/Kingdom_of_Greece> .
+
+ID: #87	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Bizani> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Konstantinos_Davakis> .
+
+ID: #88	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Bizani> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Mehmet_Shefik> .
+
+ID: #90	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Bizani> <http://dbpedia.org/ontology/result> "Greek capture of Bizani fortress" .
+
+ID: #91	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Rhodes_(1943)> <http://dbpedia.org/ontology/abstract> "The Battle of Rhodes was fought in September 1943 between British and Italian forces for the control of the Greek island of Rhodes during World War II."@en .
+
+ID: #92	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Rhodes_(1943)> <http://dbpedia.org/ontology/date> "1943-09" .
+
+ID: #93	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Rhodes_(1943)> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Rhodes> .
+
+ID: #95	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Rhodes_(1943)> <http://dbpedia.org/ontology/participant> <http://dbpedia.org/resource/Italy> .
+
+ID: #96	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Rhodes_(1943)> <http://dbpedia.org/ontology/result> <http://dbpedia.org/resource/Allied_victory> .
+
+ID: #98	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Rhodes_(1943)> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Paolo_Giudici> .
+
+ID: #101	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Doiran_(1913)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Battle> .
+
+ID: #102	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Doiran_(1913)> <http://dbpedia.org/ontology/date> "1913-04-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #103	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Doiran_(1913)> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Doiran> .
+
+ID: #104	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Doiran_(1913)> <http://dbpedia.org/ontology/result> <http://dbpedia.org/resource/Greek_victory> .
+
+ID: #105	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Doiran_(1913)> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Konstantinos_Mazarakis_Ainian> .
+
+ID: #106	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Doiran_(1913)> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Georgios_Hatzopoulos> .
+
+ID: #107	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Doiran_(1913)> <http://dbpedia.org/ontology/partOf> <http://dbpedia.org/resource/First_Balkan_War> .
+
+ID: #108	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Doiran_(1913)> <http://dbpedia.org/ontology/casualties> "Unknown" .
+
+ID: #109	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Doiran_(1913)> <http://dbpedia.org/ontology/combatant> <http://dbpedia.org/resource/Kingdom_of_Greece> .
+
+ID: #110	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Doiran_(1913)> <http://dbpedia.org/ontology/combatant> <http://dbpedia.org/resource/Ottoman_Empire> .
+
+ID: #111	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Florina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Battle> .
+
+ID: #112	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Florina> <http://dbpedia.org/ontology/date> "1941-04-09" .
+
+ID: #113	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Florina> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Florina> .
+
+ID: #114	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Florina> <http://dbpedia.org/ontology/result> <http://dbpedia.org/resource/Greek_victory> .
+
+ID: #115	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Florina> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Georgios_Tsolakoglou> .
+
+ID: #116	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Florina> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Karl_Schuster> .
+
+ID: #117	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Florina> <http://dbpedia.org/ontology/partOf> <http://dbpedia.org/resource/Greco-Italian_War> .
+
+ID: #118	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Gerontas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+
+ID: #119	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Gerontas> <http://dbpedia.org/ontology/date> "1824-05-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #120	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Gerontas> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Gerontas> .
+
+ID: #121	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Gerontas> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Theodoros_Kolokotronis> .
+
+ID: #122	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Gerontas> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Abdulaziz_Mehmet_Pasha> .
+
+ID: #123	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Gerontas> <http://dbpedia.org/ontology/result> <http://dbpedia.org/resource/Greek_victory> .
+
+ID: #124	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Gerontas> <http://dbpedia.org/ontology/casualties> "Unknown" .
+
+ID: #125	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Gerontas> <http://dbpedia.org/ontology/belligerent> <http://dbpedia.org/resource/Greek_Revolutionary_State> .
+
+ID: #126	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_the_Lerna_Mills> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Battle> .
+
+ID: #127	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_the_Lerna_Mills> <http://dbpedia.org/ontology/date> "August 2, 1826" .
+
+ID: #128	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_the_Lerna_Mills> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Lerna_Mills> .
+
+ID: #129	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_the_Lerna_Mills> <http://dbpedia.org/ontology/combatant> <http://dbpedia.org/resource/Ottoman_Empire> .
+
+ID: #130	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_the_Lerna_Mills> <http://dbpedia.org/ontology/combatant> <http://dbpedia.org/resource/Greek_Revolutionary_State> .
+
+ID: #131	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_the_Lerna_Mills> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Omer_Vrioni> .
+
+ID: #132	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_the_Lerna_Mills> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Alexandros_Mavrokordatos> .
+
+ID: #133	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_the_Lerna_Mills> <http://dbpedia.org/ontology/result> <http://dbpedia.org/resource/Greek_victory> .
+
+ID: #134	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Leros> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Leros> .
+
+ID: #135	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Leros> <http://dbpedia.org/ontology/date> "1943-11-12" .
+
+ID: #136	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Leros> <http://dbpedia.org/ontology/result> <http://dbpedia.org/resource/Axis_victory> .
+
+ID: #137	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Leros> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Bernard_Gerken> .
+
+ID: #138	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Battle_of_Leros> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Friedrich_Ruge> .
+
+ID: #139	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Leros> <http://dbpedia.org/ontology/belligerent> <http://dbpedia.org/resource/United_Kingdom> .
+
+ID: #140	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Leros> <http://dbpedia.org/ontology/belligerent> <http://dbpedia.org/resource/Italy> .
+
+ID: #141	
+Manual Label: Correct
+<http://dbpedia.org/resource/Battle_of_Leros> <http://dbpedia.org/ontology/belligerent> <http://dbpedia.org/resource/Germany> .
+
+ID: #143	
+Manual Label: Erroneous	<http://dbpedia.org/resource/First_siege_of_Missolonghi> <http://dbpedia.org/ontology/date> "1822-04-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #144	
+Manual Label: Erroneous	<http://dbpedia.org/resource/First_siege_of_Missolonghi> <http://dbpedia.org/ontology/date> "1823-04-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #145	
+Manual Label: Correct
+<http://dbpedia.org/resource/First_siege_of_Missolonghi> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Missolonghi> .
+
+ID: #146	
+Manual Label: Correct
+<http://dbpedia.org/resource/First_siege_of_Missolonghi> <http://dbpedia.org/ontology/attackers> <http://dbpedia.org/resource/Ottoman_Empire> .
+
+ID: #147	
+Manual Label: Correct
+<http://dbpedia.org/resource/First_siege_of_Missolonghi> <http://dbpedia.org/ontology/defenders> <http://dbpedia.org/resource/Greek_Revolutionary_State> .
+
+ID: #148	
+Manual Label: Correct
+<http://dbpedia.org/resource/First_siege_of_Missolonghi> <http://dbpedia.org/ontology/outcome> <http://dbpedia.org/resource/Ottoman_victory> .
+
+ID: #151	
+Manual Label: Correct
+<http://dbpedia.org/resource/First_siege_of_Missolonghi> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Omer_Vrioni> .
+
+ID: #152	
+Manual Label: Correct
+<http://dbpedia.org/resource/Second_siege_of_Missolonghi> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Sieges_in_Greece> .
+
+ID: #153	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Second_siege_of_Missolonghi> <http://dbpedia.org/ontology/date> "1825-1826" .
+
+ID: #155	
+Manual Label: Correct
+<http://dbpedia.org/resource/Second_siege_of_Missolonghi> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Missolonghi> .
+
+ID: #156	
+Manual Label: Erroneous	<http://dbpedia.org/resource/Second_siege_of_Missolonghi> <http://dbpedia.org/ontology/result> <http://dbpedia.org/resource/Ottoman_victory> .
+
+ID: #157	
+Manual Label: Correct
+<http://dbpedia.org/resource/Second_siege_of_Missolonghi> <http://dbpedia.org/ontology/participants> <http://dbpedia.org/resource/Greek_Revolutionary_Army> .
+
+ID: #158	
+Manual Label: Correct
+<http://dbpedia.org/resource/2015_Lefkada_earthquake> <http://dbpedia.org/ontology/date> "2015-11-17" .
+
+ID: #159	
+Manual Label: Correct
+<http://dbpedia.org/resource/2015_Lefkada_earthquake> <http://dbpedia.org/ontology/magnitude> "6.5"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+ID: #160	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2015_Lefkada_earthquake> <http://dbpedia.org/ontology/depth> "10"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+ID: #162	
+Manual Label: Correct
+<http://dbpedia.org/resource/2015_Lefkada_earthquake> <http://dbpedia.org/ontology/affectedArea> <http://dbpedia.org/resource/Greece> .
+
+ID: #163	
+Manual Label: Correct
+<http://dbpedia.org/resource/2015_Lefkada_earthquake> <http://dbpedia.org/ontology/casualties> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #165	
+Manual Label: Correct
+<http://dbpedia.org/resource/1999_Athens_earthquake> <http://dbpedia.org/ontology/date> "September 7, 1999" .
+
+ID: #166	
+Manual Label: Correct
+<http://dbpedia.org/resource/1999_Athens_earthquake> <http://dbpedia.org/ontology/magnitude> "6.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+ID: #167	
+Manual Label: Correct
+<http://dbpedia.org/resource/1999_Athens_earthquake> <http://dbpedia.org/ontology/depth> "10.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+ID: #169	
+Manual Label: Correct
+<http://dbpedia.org/resource/1999_Athens_earthquake> <http://dbpedia.org/ontology/casualties> "143"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #170	
+Manual Label: Correct
+<http://dbpedia.org/resource/1999_Athens_earthquake> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #171	
+Manual Label: Correct
+<http://dbpedia.org/resource/1999_Athens_earthquake> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Attica> .
+
+ID: #173	
+Manual Label: Correct
+<http://dbpedia.org/resource/1999_Athens_earthquake> <http://dbpedia.org/ontology/hasMagnitudeScale> <http://dbpedia.org/resource/Richter_magnitude_scale> .
+
+ID: #174	
+Manual Label: Correct
+<http://dbpedia.org/resource/1999_Athens_earthquake> <http://dbpedia.org/ontology/hasIntensityScale> <http://dbpedia.org/resource/Mercalli_intensity_scale> .
+
+ID: #175	
+Manual Label: Correct
+<http://dbpedia.org/resource/1995_Aigio_earthquake> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Earthquake> .
+
+ID: #176	
+Manual Label: Correct
+<http://dbpedia.org/resource/1995_Aigio_earthquake> <http://dbpedia.org/ontology/date> "1995-06-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #177	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1995_Aigio_earthquake> <http://dbpedia.org/ontology/magnitude> "6.2"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+ID: #178	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1995_Aigio_earthquake> <http://dbpedia.org/ontology/depth> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #180	
+Manual Label: Correct
+<http://dbpedia.org/resource/1995_Aigio_earthquake> <http://dbpedia.org/ontology/affectedArea> <http://dbpedia.org/resource/Greece> .
+
+ID: #181	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1995_Aigio_earthquake> <http://dbpedia.org/ontology/deaths> "20"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #184	
+Manual Label: Correct
+<http://dbpedia.org/resource/1995_Aigio_earthquake> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #185	
+Manual Label: Correct
+<http://dbpedia.org/resource/1986_Kalamata_earthquake> <http://dbpedia.org/ontology/date> "1986-09-13" .
+
+ID: #186	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1986_Kalamata_earthquake> <http://dbpedia.org/ontology/magnitude> "6.2" .
+
+ID: #187	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1986_Kalamata_earthquake> <http://dbpedia.org/ontology/depth> "10" .
+
+ID: #188	
+Manual Label: Correct
+<http://dbpedia.org/resource/1986_Kalamata_earthquake> <http://dbpedia.org/ontology/epicenter> "Kalamata, Greece" .
+
+ID: #189	
+Manual Label: Correct
+<http://dbpedia.org/resource/1986_Kalamata_earthquake> <http://dbpedia.org/ontology/casualties> "20" .
+
+ID: #190	
+Manual Label: Correct
+<http://dbpedia.org/resource/1986_Kalamata_earthquake> <http://dbpedia.org/ontology/affectedArea> "Peloponnese, Greece" .
+
+ID: #195	
+Manual Label: Correct
+<http://dbpedia.org/resource/1856_Heraklion_earthquake> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Earthquake> .
+
+ID: #196	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1856_Heraklion_earthquake> <http://dbpedia.org/ontology/date> "1856-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #197	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1856_Heraklion_earthquake> <http://dbpedia.org/ontology/magnitude> "7.5"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+ID: #198	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1856_Heraklion_earthquake> <http://dbpedia.org/ontology/depth> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #199	
+Manual Label: Correct
+<http://dbpedia.org/resource/1856_Heraklion_earthquake> <http://dbpedia.org/ontology/epicenter> <http://dbpedia.org/resource/Heraklion> .
+
+ID: #200	
+Manual Label: Correct
+<http://dbpedia.org/resource/1856_Heraklion_earthquake> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Ottoman_Empire> .
+
+ID: #201	
+Manual Label: Correct
+<http://dbpedia.org/resource/1856_Heraklion_earthquake> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Crete> .
+
+ID: #202	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1856_Heraklion_earthquake> <http://dbpedia.org/ontology/casualties> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #205	
+Manual Label: Correct
+<http://dbpedia.org/resource/2008_Peloponnese_earthquake> <http://dbpedia.org/ontology/date> "2008-06-08" .
+
+ID: #206	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2008_Peloponnese_earthquake> <http://dbpedia.org/ontology/magnitude> "6.5" .
+
+ID: #210	
+Manual Label: Correct
+<http://dbpedia.org/resource/2008_Peloponnese_earthquake> <http://dbpedia.org/ontology/intensity> "VIII" .
+
+ID: #211	
+Manual Label: Correct
+<http://dbpedia.org/resource/2008_Peloponnese_earthquake> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #212	
+Manual Label: Correct
+<http://dbpedia.org/resource/2008_Peloponnese_earthquake> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Peloponnese> .
+
+ID: #215	
+Manual Label: Correct
+<http://dbpedia.org/resource/2008_Dodecanese_earthquake> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Earthquake> .
+
+ID: #216	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2008_Dodecanese_earthquake> <http://dbpedia.org/ontology/date> "2008-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #217	
+Manual Label: Correct
+<http://dbpedia.org/resource/2008_Dodecanese_earthquake> <http://dbpedia.org/ontology/magnitude> "6.4"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+ID: #220	
+Manual Label: Correct
+<http://dbpedia.org/resource/2008_Dodecanese_earthquake> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #221	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2008_Dodecanese_earthquake> <http://dbpedia.org/ontology/casualties> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #222	
+Manual Label: Correct
+<http://dbpedia.org/resource/2008_Dodecanese_earthquake> <http://dbpedia.org/ontology/damage> "Severe" .
+
+ID: #225	
+Manual Label: Correct
+<http://dbpedia.org/resource/1956_Amorgos_earthquake> <http://dbpedia.org/ontology/date> "1956-07-09" .
+
+ID: #226	
+Manual Label: Correct
+<http://dbpedia.org/resource/1956_Amorgos_earthquake> <http://dbpedia.org/ontology/magnitude> "7.7" .
+
+ID: #227	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1956_Amorgos_earthquake> <http://dbpedia.org/ontology/depth> "25" .
+
+ID: #228	
+Manual Label: Correct
+<http://dbpedia.org/resource/1956_Amorgos_earthquake> <http://dbpedia.org/ontology/epicenter> <http://dbpedia.org/resource/Amorgos> .
+
+ID: #229	
+Manual Label: Correct
+<http://dbpedia.org/resource/1956_Amorgos_earthquake> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #230	
+Manual Label: Correct
+<http://dbpedia.org/resource/1956_Amorgos_earthquake> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Cyclades> .
+
+ID: #231	
+Manual Label: Correct
+<http://dbpedia.org/resource/1956_Amorgos_earthquake> <http://dbpedia.org/ontology/casualties> "53" .
+
+ID: #232	
+Manual Label: Correct
+<http://dbpedia.org/resource/1956_Amorgos_earthquake> <http://dbpedia.org/ontology/property> <http://dbpedia.org/resource/Seismic_intensity> .
+
+ID: #233	
+Manual Label: Correct
+<http://dbpedia.org/resource/1956_Amorgos_earthquake> <http://dbpedia.org/ontology/property> <http://dbpedia.org/resource/Tsunami> .
+
+ID: #234	
+Manual Label: Correct
+<http://dbpedia.org/resource/1956_Amorgos_earthquake> <http://dbpedia.org/ontology/property> <http://dbpedia.org/resource/Earthquake_damage> .
+
+ID: #235	
+Manual Label: Correct
+<http://dbpedia.org/resource/1953_Ionian_earthquake> <http://dbpedia.org/ontology/date> "1953-08-12" .
+
+ID: #236	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1953_Ionian_earthquake> <http://dbpedia.org/ontology/magnitude> "7.2" .
+
+ID: #237	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1953_Ionian_earthquake> <http://dbpedia.org/ontology/depth> "25" .
+
+ID: #238	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1953_Ionian_earthquake> <http://dbpedia.org/ontology/epicenter> "38.2 20.5" .
+
+ID: #239	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1953_Ionian_earthquake> <http://dbpedia.org/ontology/casualties> "455" .
+
+ID: #240	
+Manual Label: Correct
+<http://dbpedia.org/resource/1953_Ionian_earthquake> <http://dbpedia.org/ontology/affectedArea> <http://dbpedia.org/resource/Greece> .
+
+ID: #243	
+Manual Label: Correct
+<http://dbpedia.org/resource/1953_Ionian_earthquake> <http://dbpedia.org/ontology/foreshocks> "Yes" .
+
+ID: #244	
+Manual Label: Correct
+<http://dbpedia.org/resource/1953_Ionian_earthquake> <http://dbpedia.org/ontology/aftershocks> "Yes" .
+
+ID: #245	
+Manual Label: Correct
+<http://dbpedia.org/resource/2017_Lesbos_earthquake> <http://dbpedia.org/ontology/date> "2017-06-12" .
+
+ID: #246	
+Manual Label: Correct
+<http://dbpedia.org/resource/2017_Lesbos_earthquake> <http://dbpedia.org/ontology/magnitude> "6.3"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+ID: #247	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2017_Lesbos_earthquake> <http://dbpedia.org/ontology/depth> "10"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+ID: #248	
+Manual Label: Correct
+<http://dbpedia.org/resource/2017_Lesbos_earthquake> <http://dbpedia.org/ontology/affectedArea> <http://dbpedia.org/resource/Lesbos> .
+
+ID: #249	
+Manual Label: Correct
+<http://dbpedia.org/resource/2017_Lesbos_earthquake> <http://dbpedia.org/ontology/totalCasualties> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #250	
+Manual Label: Correct
+<http://dbpedia.org/resource/2017_Lesbos_earthquake> <http://dbpedia.org/ontology/hasMagnitudeScale> <http://dbpedia.org/resource/Richter_magnitude_scale> .
+
+ID: #251	
+Manual Label: Correct
+<http://dbpedia.org/resource/2017_Lesbos_earthquake> <http://dbpedia.org/ontology/hasEpicenter> <http://dbpedia.org/resource/Lesbos> .
+
+ID: #252	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2017_Lesbos_earthquake> <http://dbpedia.org/ontology/hasIntensity> "VIII" .
+
+ID: #255	
+Manual Label: Correct
+<http://dbpedia.org/resource/1978_Thessaloniki_earthquake> <http://dbpedia.org/ontology/date> "1978-06-20" .
+
+ID: #256	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1978_Thessaloniki_earthquake> <http://dbpedia.org/ontology/magnitude> "6.5" .
+
+ID: #257	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1978_Thessaloniki_earthquake> <http://dbpedia.org/ontology/depth> "10" .
+
+ID: #258	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1978_Thessaloniki_earthquake> <http://dbpedia.org/ontology/epicenter> "40.6,22.9" .
+
+ID: #259	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1978_Thessaloniki_earthquake> <http://dbpedia.org/ontology/casualties> "50" .
+
+ID: #261	
+Manual Label: Correct
+<http://dbpedia.org/resource/1978_Thessaloniki_earthquake> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #262	
+Manual Label: Correct
+<http://dbpedia.org/resource/1978_Thessaloniki_earthquake> <http://dbpedia.org/ontology/city> <http://dbpedia.org/resource/Thessaloniki> .
+
+ID: #263	
+Manual Label: Correct
+<http://dbpedia.org/resource/1978_Thessaloniki_earthquake> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Macedonia_(Greece)> .
+
+ID: #265	
+Manual Label: Correct
+<http://dbpedia.org/resource/2018_Ionian_Sea_earthquake> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Earthquake> .
+
+ID: #266	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2018_Ionian_Sea_earthquake> <http://dbpedia.org/ontology/date> "2018-11-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #267	
+Manual Label: Correct
+<http://dbpedia.org/resource/2018_Ionian_Sea_earthquake> <http://dbpedia.org/ontology/magnitude> "6.8"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+ID: #268	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2018_Ionian_Sea_earthquake> <http://dbpedia.org/ontology/depth> "16.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+ID: #269	
+Manual Label: Correct
+<http://dbpedia.org/resource/2018_Ionian_Sea_earthquake> <http://dbpedia.org/ontology/epicenter> <http://dbpedia.org/resource/Ionian_Sea> .
+
+ID: #270	
+Manual Label: Correct
+<http://dbpedia.org/resource/2018_Ionian_Sea_earthquake> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #271	
+Manual Label: Correct
+<http://dbpedia.org/resource/2018_Ionian_Sea_earthquake> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Ionian_Sea> .
+
+ID: #272	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2018_Ionian_Sea_earthquake> <http://dbpedia.org/ontology/casualties> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #273	
+Manual Label: Correct
+<http://dbpedia.org/resource/2018_Ionian_Sea_earthquake> <http://dbpedia.org/ontology/damage> <http://dbpedia.org/resource/Severe> .
+
+ID: #274	
+Manual Label: Correct
+<http://dbpedia.org/resource/2018_Ionian_Sea_earthquake> <http://dbpedia.org/ontology/intensity> "VII"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+ID: #275	
+Manual Label: Correct
+<http://dbpedia.org/resource/2017_Aegean_Sea_earthquake> <http://dbpedia.org/ontology/date> "2017-07-20" .
+
+ID: #276	
+Manual Label: Correct
+<http://dbpedia.org/resource/2017_Aegean_Sea_earthquake> <http://dbpedia.org/ontology/magnitude> "6.6" .
+
+ID: #277	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2017_Aegean_Sea_earthquake> <http://dbpedia.org/ontology/depth> "10" .
+
+ID: #279	
+Manual Label: Correct
+<http://dbpedia.org/resource/2017_Aegean_Sea_earthquake> <http://dbpedia.org/ontology/casualties> "2" .
+
+ID: #280	
+Manual Label: Correct
+<http://dbpedia.org/resource/2017_Aegean_Sea_earthquake> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #281	
+Manual Label: Correct
+<http://dbpedia.org/resource/2017_Aegean_Sea_earthquake> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Turkey> .
+
+ID: #282	
+Manual Label: Correct
+<http://dbpedia.org/resource/2017_Aegean_Sea_earthquake> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Aegean_Sea> .
+
+ID: #283	
+Manual Label: Correct
+<http://dbpedia.org/resource/2017_Aegean_Sea_earthquake> <http://dbpedia.org/ontology/hasMagnitudeScale> <http://dbpedia.org/resource/Richter_magnitude_scale> .
+
+ID: #285	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2021_Arkalochori_earthquake> <http://dbpedia.org/ontology/date> "2021-03-03" .
+
+ID: #286	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2021_Arkalochori_earthquake> <http://dbpedia.org/ontology/magnitude> "5.6" .
+
+ID: #287	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2021_Arkalochori_earthquake> <http://dbpedia.org/ontology/depth> "10" .
+
+ID: #288	
+Manual Label: Correct
+<http://dbpedia.org/resource/2021_Arkalochori_earthquake> <http://dbpedia.org/ontology/epicenter> "Arkalochori, Crete" .
+
+ID: #289	
+Manual Label: Correct
+<http://dbpedia.org/resource/2021_Arkalochori_earthquake> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #290	
+Manual Label: Correct
+<http://dbpedia.org/resource/2021_Arkalochori_earthquake> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Crete> .
+
+ID: #291	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2021_Arkalochori_earthquake> <http://dbpedia.org/ontology/damage> "Minor" .
+
+ID: #292	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2021_Arkalochori_earthquake> <http://dbpedia.org/ontology/casualties> "None" .
+
+ID: #295	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2019_Athens_earthquake> <http://dbpedia.org/ontology/date> "2019-07-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #296	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2019_Athens_earthquake> <http://dbpedia.org/ontology/magnitude> "5.1"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+ID: #297	
+Manual Label: Correct
+<http://dbpedia.org/resource/2019_Athens_earthquake> <http://dbpedia.org/ontology/depth> "10.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+ID: #299	
+Manual Label: Correct
+<http://dbpedia.org/resource/2019_Athens_earthquake> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #302	
+Manual Label: Correct
+<http://dbpedia.org/resource/2019_Athens_earthquake> <http://dbpedia.org/ontology/hasEpicentre> <http://dbpedia.org/resource/Attica> .
+
+ID: #303	
+Manual Label: Correct
+<http://dbpedia.org/resource/2019_Athens_earthquake> <http://dbpedia.org/ontology/hasCountry> <http://dbpedia.org/resource/Greece> .
+
+ID: #304	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2019_Athens_earthquake> <http://dbpedia.org/ontology/hasMagnitude> "5.1"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+ID: #305	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_Greek_legislative_election> <http://dbpedia.org/ontology/date> "2004-03-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #306	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_Greek_legislative_election> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #307	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_Greek_legislative_election> <http://dbpedia.org/ontology/numberOfSeats> "300"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #308	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2004_Greek_legislative_election> <http://dbpedia.org/ontology/turnout> "77.7"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+
+ID: #309	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_Greek_legislative_election> <http://dbpedia.org/ontology/nextElection> <http://dbpedia.org/resource/2007_Greek_legislative_election> .
+
+ID: #310	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_Greek_legislative_election> <http://dbpedia.org/ontology/previousElection> <http://dbpedia.org/resource/2000_Greek_legislative_election> .
+
+ID: #311	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_Greek_legislative_election> <http://dbpedia.org/ontology/leader> <http://dbpedia.org/resource/Kostas_Karamanlis> .
+
+ID: #312	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_Greek_legislative_election> <http://dbpedia.org/ontology/leader> <http://dbpedia.org/resource/George_Papandreou> .
+
+ID: #313	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2004_Greek_legislative_election> <http://dbpedia.org/ontology/seatChange> "22"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #314	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_Greek_legislative_election> <http://dbpedia.org/ontology/result> <http://dbpedia.org/resource/New_Democracy_(Greece)> .
+
+ID: #315	
+Manual Label: Correct
+<http://dbpedia.org/resource/1996_Greek_legislative_election> <http://dbpedia.org/ontology/date> "1996-09-22" .
+
+ID: #316	
+Manual Label: Correct
+<http://dbpedia.org/resource/1996_Greek_legislative_election> <http://dbpedia.org/ontology/numberOfSeats> "300" .
+
+ID: #317	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1996_Greek_legislative_election> <http://dbpedia.org/ontology/turnout> "76.00" .
+
+ID: #318	
+Manual Label: Correct
+<http://dbpedia.org/resource/1996_Greek_legislative_election> <http://dbpedia.org/ontology/constituency> <http://dbpedia.org/resource/Greece> .
+
+ID: #319	
+Manual Label: Correct
+<http://dbpedia.org/resource/1996_Greek_legislative_election> <http://dbpedia.org/ontology/hasWinner> <http://dbpedia.org/resource/Kostas_Simitis> .
+
+ID: #320	
+Manual Label: Correct
+<http://dbpedia.org/resource/1996_Greek_legislative_election> <http://dbpedia.org/ontology/hasOppositionLeader> <http://dbpedia.org/resource/Miltiadis_Evert> .
+
+ID: #321	
+Manual Label: Correct
+<http://dbpedia.org/resource/1996_Greek_legislative_election> <http://dbpedia.org/ontology/hasParty> <http://dbpedia.org/resource/Panhellenic_Socialist_Movement> .
+
+ID: #322	
+Manual Label: Correct
+<http://dbpedia.org/resource/1996_Greek_legislative_election> <http://dbpedia.org/ontology/hasParty> <http://dbpedia.org/resource/New_Democracy_(Greece)> .
+
+ID: #323	
+Manual Label: Correct
+<http://dbpedia.org/resource/1996_Greek_legislative_election> <http://dbpedia.org/ontology/hasParty> <http://dbpedia.org/resource/Communist_Party_of_Greece> .
+
+ID: #325	
+Manual Label: Correct
+<http://dbpedia.org/resource/2000_Greek_legislative_election> <http://dbpedia.org/ontology/date> "2000-04-09" .
+
+ID: #326	
+Manual Label: Correct
+<http://dbpedia.org/resource/2000_Greek_legislative_election> <http://dbpedia.org/ontology/numberOfSeats> "300" .
+
+ID: #327	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2000_Greek_legislative_election> <http://dbpedia.org/ontology/electionWinner> <http://dbpedia.org/resource/New_Democracy_(Greece)> .
+
+ID: #328	
+Manual Label: Correct
+<http://dbpedia.org/resource/2000_Greek_legislative_election> <http://dbpedia.org/ontology/electionWinner> <http://dbpedia.org/resource/Panhellenic_Socialist_Movement> .
+
+ID: #329	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2000_Greek_legislative_election> <http://dbpedia.org/ontology/electionWinner> <http://dbpedia.org/resource/Communist_Party_of_Greece> .
+
+ID: #330	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2000_Greek_legislative_election> <http://dbpedia.org/ontology/electionWinner> <http://dbpedia.org/resource/Coalition_of_the_Radical_Left> .
+
+ID: #331	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2000_Greek_legislative_election> <http://dbpedia.org/ontology/voterTurnout> "75.6" .
+
+ID: #332	
+Manual Label: Correct
+<http://dbpedia.org/resource/2000_Greek_legislative_election> <http://dbpedia.org/ontology/previousElection> <http://dbpedia.org/resource/1996_Greek_legislative_election> .
+
+ID: #333	
+Manual Label: Correct
+<http://dbpedia.org/resource/2000_Greek_legislative_election> <http://dbpedia.org/ontology/nextElection> <http://dbpedia.org/resource/2004_Greek_legislative_election> .
+
+ID: #334	
+Manual Label: Correct
+<http://dbpedia.org/resource/2000_Greek_legislative_election> <http://dbpedia.org/ontology/electionType> <http://dbpedia.org/resource/Parliamentary_election> .
+
+ID: #335	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_European_Parliament_election_in_Greece> <http://dbpedia.org/ontology/electionYear> "2004" .
+
+ID: #336	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_European_Parliament_election_in_Greece> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #337	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_European_Parliament_election_in_Greece> <http://dbpedia.org/ontology/legislature> <http://dbpedia.org/resource/European_Parliament> .
+
+ID: #338	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2004_European_Parliament_election_in_Greece> <http://dbpedia.org/ontology/turnout> "60.2" .
+
+ID: #339	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_European_Parliament_election_in_Greece> <http://dbpedia.org/ontology/totalSeats> "24" .
+
+ID: #340	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2004_European_Parliament_election_in_Greece> <http://dbpedia.org/ontology/validVotes> "4,825,502" .
+
+ID: #341	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2004_European_Parliament_election_in_Greece> <http://dbpedia.org/ontology/invalidVotes> "135,674" .
+
+ID: #342	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_European_Parliament_election_in_Greece> <http://dbpedia.org/ontology/leadingParty> <http://dbpedia.org/resource/New_Democracy_(Greece)> .
+
+ID: #343	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_European_Parliament_election_in_Greece> <http://dbpedia.org/ontology/secondParty> <http://dbpedia.org/resource/Panhellenic_Socialist_Movement> .
+
+ID: #344	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_European_Parliament_election_in_Greece> <http://dbpedia.org/ontology/thirdParty> <http://dbpedia.org/resource/Communist_Party_of_Greece> .
+
+ID: #345	
+Manual Label: Correct
+<http://dbpedia.org/resource/May_2012_Greek_legislative_election> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Election> .
+
+ID: #346	
+Manual Label: Correct
+<http://dbpedia.org/resource/May_2012_Greek_legislative_election> <http://dbpedia.org/ontology/date> "2012-05" .
+
+ID: #347	
+Manual Label: Correct
+<http://dbpedia.org/resource/May_2012_Greek_legislative_election> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #348	
+Manual Label: Correct
+<http://dbpedia.org/resource/May_2012_Greek_legislative_election> <http://dbpedia.org/ontology/numberOfSeats> "300" .
+
+ID: #349	
+Manual Label: Erroneous	<http://dbpedia.org/resource/May_2012_Greek_legislative_election> <http://dbpedia.org/ontology/totalVotes> "6,107,637" .
+
+ID: #350	
+Manual Label: Correct
+<http://dbpedia.org/resource/May_2012_Greek_legislative_election> <http://dbpedia.org/ontology/turnout> "65.1" .
+
+ID: #351	
+Manual Label: Correct
+<http://dbpedia.org/resource/May_2012_Greek_legislative_election> <http://dbpedia.org/ontology/winner> <http://dbpedia.org/resource/New_Democracy_(Greece)> .
+
+ID: #352	
+Manual Label: Correct
+<http://dbpedia.org/resource/May_2012_Greek_legislative_election> <http://dbpedia.org/ontology/runnerUp> <http://dbpedia.org/resource/SYRIZA> .
+
+ID: #355	
+Manual Label: Correct
+<http://dbpedia.org/resource/June_2012_Greek_legislative_election> <http://dbpedia.org/ontology/date> "2012-06" .
+
+ID: #356	
+Manual Label: Correct
+<http://dbpedia.org/resource/June_2012_Greek_legislative_election> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #357	
+Manual Label: Correct
+<http://dbpedia.org/resource/June_2012_Greek_legislative_election> <http://dbpedia.org/ontology/electionType> <http://dbpedia.org/resource/Legislative_election> .
+
+ID: #358	
+Manual Label: Correct
+<http://dbpedia.org/resource/June_2012_Greek_legislative_election> <http://dbpedia.org/ontology/legislature> <http://dbpedia.org/resource/Hellenic_Parliament> .
+
+ID: #359	
+Manual Label: Correct
+<http://dbpedia.org/resource/June_2012_Greek_legislative_election> <http://dbpedia.org/ontology/numberOfSeats> "300" .
+
+ID: #360	
+Manual Label: Erroneous	<http://dbpedia.org/resource/June_2012_Greek_legislative_election> <http://dbpedia.org/ontology/turnout> "62.5" .
+
+ID: #361	
+Manual Label: Correct
+<http://dbpedia.org/resource/June_2012_Greek_legislative_election> <http://dbpedia.org/ontology/previousElection> <http://dbpedia.org/resource/May_2012_Greek_legislative_election> .
+
+ID: #362	
+Manual Label: Correct
+<http://dbpedia.org/resource/June_2012_Greek_legislative_election> <http://dbpedia.org/ontology/nextElection> <http://dbpedia.org/resource/January_2015_Greek_legislative_election> .
+
+ID: #363	
+Manual Label: Correct
+<http://dbpedia.org/resource/June_2012_Greek_legislative_election> <http://dbpedia.org/ontology/leader> <http://dbpedia.org/resource/Alexis_Tsipras> .
+
+ID: #364	
+Manual Label: Correct
+<http://dbpedia.org/resource/June_2012_Greek_legislative_election> <http://dbpedia.org/ontology/leader> <http://dbpedia.org/resource/Antonis_Samaras> .
+
+ID: #365	
+Manual Label: Correct
+<http://dbpedia.org/resource/1981_Greek_legislative_election> <http://dbpedia.org/ontology/electionYear> "1981" .
+
+ID: #366	
+Manual Label: Correct
+<http://dbpedia.org/resource/1981_Greek_legislative_election> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Greece> .
+
+ID: #367	
+Manual Label: Correct
+<http://dbpedia.org/resource/1981_Greek_legislative_election> <http://dbpedia.org/ontology/electionType> <http://dbpedia.org/resource/Legislative_election> .
+
+ID: #368	
+Manual Label: Correct
+<http://dbpedia.org/resource/1981_Greek_legislative_election> <http://dbpedia.org/ontology/legislature> <http://dbpedia.org/resource/Hellenic_Parliament> .
+
+ID: #369	
+Manual Label: Correct
+<http://dbpedia.org/resource/1981_Greek_legislative_election> <http://dbpedia.org/ontology/numberOfSeats> "300" .
+
+ID: #370	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1981_Greek_legislative_election> <http://dbpedia.org/ontology/turnout> "82.0" .
+
+ID: #371	
+Manual Label: Correct
+<http://dbpedia.org/resource/1981_Greek_legislative_election> <http://dbpedia.org/ontology/previousElection> <http://dbpedia.org/resource/1977_Greek_legislative_election> .
+
+ID: #372	
+Manual Label: Correct
+<http://dbpedia.org/resource/1981_Greek_legislative_election> <http://dbpedia.org/ontology/nextElection> <http://dbpedia.org/resource/1985_Greek_legislative_election> .
+
+ID: #373	
+Manual Label: Correct
+<http://dbpedia.org/resource/1981_Greek_legislative_election> <http://dbpedia.org/ontology/winningParty> <http://dbpedia.org/resource/Panhellenic_Socialist_Movement> .
+
+ID: #375	
+Manual Label: Correct
+<http://dbpedia.org/resource/September_2015_Greek_legislative_election> <http://dbpedia.org/ontology/date> "2015-09" .
+
+ID: #376	
+Manual Label: Correct
+<http://dbpedia.org/resource/September_2015_Greek_legislative_election> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #377	
+Manual Label: Correct
+<http://dbpedia.org/resource/September_2015_Greek_legislative_election> <http://dbpedia.org/ontology/electionType> <http://dbpedia.org/resource/Legislative_election> .
+
+ID: #378	
+Manual Label: Correct
+<http://dbpedia.org/resource/September_2015_Greek_legislative_election> <http://dbpedia.org/ontology/numberOfSeats> "300" .
+
+ID: #379	
+Manual Label: Erroneous	<http://dbpedia.org/resource/September_2015_Greek_legislative_election> <http://dbpedia.org/ontology/turnout> "56.6" .
+
+ID: #380	
+Manual Label: Correct
+<http://dbpedia.org/resource/September_2015_Greek_legislative_election> <http://dbpedia.org/ontology/winningParty> <http://dbpedia.org/resource/SYRIZA> .
+
+ID: #381	
+Manual Label: Correct
+<http://dbpedia.org/resource/September_2015_Greek_legislative_election> <http://dbpedia.org/ontology/runnerUpParty> <http://dbpedia.org/resource/New_Democracy_(Greece)> .
+
+ID: #382	
+Manual Label: Erroneous	<http://dbpedia.org/resource/September_2015_Greek_legislative_election> <http://dbpedia.org/ontology/totalVotes> "5,989,074" .
+
+ID: #383	
+Manual Label: Erroneous	<http://dbpedia.org/resource/September_2015_Greek_legislative_election> <http://dbpedia.org/ontology/validVotes> "5,198,009" .
+
+ID: #384	
+Manual Label: Erroneous	<http://dbpedia.org/resource/September_2015_Greek_legislative_election> <http://dbpedia.org/ontology/invalidVotes> "791,065" .
+
+ID: #395	
+Manual Label: Correct
+<http://dbpedia.org/resource/2019_Greek_legislative_election> <http://dbpedia.org/ontology/date> "2019-07-07" .
+
+ID: #396	
+Manual Label: Correct
+<http://dbpedia.org/resource/2019_Greek_legislative_election> <http://dbpedia.org/ontology/constituency> <http://dbpedia.org/resource/Greece> .
+
+ID: #397	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2019_Greek_legislative_election> <http://dbpedia.org/ontology/turnout> "58.56" .
+
+ID: #398	
+Manual Label: Correct
+<http://dbpedia.org/resource/2019_Greek_legislative_election> <http://dbpedia.org/ontology/totalSeats> "300" .
+
+ID: #399	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2019_Greek_legislative_election> <http://dbpedia.org/ontology/leadingParty> <http://dbpedia.org/resource/SYRIZA> .
+
+ID: #400	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2019_Greek_legislative_election> <http://dbpedia.org/ontology/runnerUpParty> <http://dbpedia.org/resource/New_Democracy_(Greece)> .
+
+ID: #401	
+Manual Label: Correct
+<http://dbpedia.org/resource/2019_Greek_legislative_election> <http://dbpedia.org/ontology/coalition> <http://dbpedia.org/resource/Communist_Party_of_Greece> .
+
+ID: #404	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1993_Greek_legislative_election> <http://dbpedia.org/ontology/date> "1993-09-05" .
+
+ID: #405	
+Manual Label: Correct
+<http://dbpedia.org/resource/1993_Greek_legislative_election> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Greece> .
+
+ID: #406	
+Manual Label: Correct
+<http://dbpedia.org/resource/1993_Greek_legislative_election> <http://dbpedia.org/ontology/numberOfSeats> "300" .
+
+ID: #407	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1993_Greek_legislative_election> <http://dbpedia.org/ontology/turnout> "77.4" .
+
+ID: #408	
+Manual Label: Correct
+<http://dbpedia.org/resource/1993_Greek_legislative_election> <http://dbpedia.org/ontology/nextElection> <http://dbpedia.org/resource/1996_Greek_legislative_election> .
+
+ID: #409	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1993_Greek_legislative_election> <http://dbpedia.org/ontology/previousElection> <http://dbpedia.org/resource/1989_Greek_legislative_election> .
+
+ID: #410	
+Manual Label: Correct
+<http://dbpedia.org/resource/1993_Greek_legislative_election> <http://dbpedia.org/ontology/leader> <http://dbpedia.org/resource/Constantine_Mitsotakis> .
+
+ID: #411	
+Manual Label: Correct
+<http://dbpedia.org/resource/1993_Greek_legislative_election> <http://dbpedia.org/ontology/leader> <http://dbpedia.org/resource/Andreas_Papandreou> .
+
+ID: #412	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1993_Greek_legislative_election> <http://dbpedia.org/ontology/leader> <http://dbpedia.org/resource/Alekos_Papadopoulos> .
+
+ID: #413	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1993_Greek_legislative_election> <http://dbpedia.org/ontology/leader> <http://dbpedia.org/resource/Alekos_Alaras> .
+
+ID: #414	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/date> "2004-05-08" .
+
+ID: #415	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2004_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/venue> <http://dbpedia.org/resource/Kaftanzoglio_Stadium> .
+
+ID: #416	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2004_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/winner> <http://dbpedia.org/resource/Olympiacos_F.C.> .
+
+ID: #417	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2004_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/loser> <http://dbpedia.org/resource/Panathinaikos_F.C.> .
+
+ID: #418	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2004_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/referee> <http://dbpedia.org/resource/Kyros_Vassaras> .
+
+ID: #419	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2004_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/attendance> "28,000" .
+
+ID: #422	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2004_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/goalsHomeTeam> "2" .
+
+ID: #423	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2004_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/goalsAwayTeam> "0" .
+
+ID: #424	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2006_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/date> "2006-05-03" .
+
+ID: #425	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2006_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/venue> <http://dbpedia.org/resource/Olympic_Stadium_(Athens)> .
+
+ID: #426	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2006_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/attendance> "70,000" .
+
+ID: #427	
+Manual Label: Correct
+<http://dbpedia.org/resource/2006_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/winner> <http://dbpedia.org/resource/Olympiacos_F.C.> .
+
+ID: #428	
+Manual Label: Correct
+<http://dbpedia.org/resource/2006_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/runner-up> <http://dbpedia.org/resource/AEK_Athens_F.C.> .
+
+ID: #429	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2006_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/referee> <http://dbpedia.org/resource/Kyros_Vassaras> .
+
+ID: #432	
+Manual Label: Correct
+<http://dbpedia.org/resource/2006_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/goalsHomeTeam> "3" .
+
+ID: #433	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2006_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/goalsAwayTeam> "1" .
+
+ID: #434	
+Manual Label: Correct
+<http://dbpedia.org/resource/2018_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/date> "2018-05-12" .
+
+ID: #435	
+Manual Label: Correct
+<http://dbpedia.org/resource/2018_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/venue> <http://dbpedia.org/resource/Olympic_Stadium_(Athens)> .
+
+ID: #436	
+Manual Label: Correct
+<http://dbpedia.org/resource/2018_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/winner> <http://dbpedia.org/resource/PAOK_FC> .
+
+ID: #437	
+Manual Label: Correct
+<http://dbpedia.org/resource/2018_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/runnerUp> <http://dbpedia.org/resource/AEK_Athens_FC> .
+
+ID: #438	
+Manual Label: Correct
+<http://dbpedia.org/resource/2018_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/goals> "2-0" .
+
+ID: #439	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2018_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/attendance> "62,000" .
+
+ID: #440	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2018_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/referee> <http://dbpedia.org/resource/Anastasios_Sidiropoulos> .
+
+ID: #444	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2014_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/date> "2014-05-17" .
+
+ID: #445	
+Manual Label: Correct
+<http://dbpedia.org/resource/2014_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/venue> <http://dbpedia.org/resource/Olympic_Stadium_(Athens)> .
+
+ID: #448	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2014_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/winner> <http://dbpedia.org/resource/PAOK_FC> .
+
+ID: #449	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2014_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/loser> <http://dbpedia.org/resource/Panathinaikos_FC> .
+
+ID: #450	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2014_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/goalsHomeTeam> "2" .
+
+ID: #451	
+Manual Label: Correct
+<http://dbpedia.org/resource/2014_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/goalsAwayTeam> "1" .
+
+ID: #452	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2014_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/referee> <http://dbpedia.org/resource/Anastasios_Sidiropoulos> .
+
+ID: #453	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2014_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/attendance> "62,000" .
+
+ID: #454	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1991_Athens_Open> <http://dbpedia.org/ontology/date> "1991-09-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #455	
+Manual Label: Correct
+<http://dbpedia.org/resource/1991_Athens_Open> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Athens> .
+
+ID: #456	
+Manual Label: Correct
+<http://dbpedia.org/resource/1991_Athens_Open> <http://dbpedia.org/ontology/numberOfParticipants> "32"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #457	
+Manual Label: Correct
+<http://dbpedia.org/resource/1991_Athens_Open> <http://dbpedia.org/ontology/surface> <http://dbpedia.org/resource/Clay_court> .
+
+ID: #458	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1991_Athens_Open> <http://dbpedia.org/ontology/prizeMoney> "250000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #459	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1991_Athens_Open> <http://dbpedia.org/ontology/champion> <http://dbpedia.org/resource/Pete_Sampras> .
+
+ID: #460	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1991_Athens_Open> <http://dbpedia.org/ontology/runnerUp> <http://dbpedia.org/resource/Andrei_Cherkasov> .
+
+ID: #461	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1991_Athens_Open> <http://dbpedia.org/ontology/winnerPrizeMoney> "40000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #462	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1991_Athens_Open> <http://dbpedia.org/ontology/runnerUpPrizeMoney> "20000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #463	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1991_Athens_Open> <http://dbpedia.org/ontology/participant> <http://dbpedia.org/resource/Stefan_Edberg> .
+
+ID: #464	
+Manual Label: Correct
+<http://dbpedia.org/resource/2007_UEFA_Champions_League_Final> <http://dbpedia.org/ontology/date> "2007-05-23" .
+
+ID: #465	
+Manual Label: Correct
+<http://dbpedia.org/resource/2007_UEFA_Champions_League_Final> <http://dbpedia.org/ontology/venue> <http://dbpedia.org/resource/Olympic_Stadium_(Athens)> .
+
+ID: #466	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2007_UEFA_Champions_League_Final> <http://dbpedia.org/ontology/attendance> "74,000" .
+
+ID: #467	
+Manual Label: Correct
+<http://dbpedia.org/resource/2007_UEFA_Champions_League_Final> <http://dbpedia.org/ontology/winner> <http://dbpedia.org/resource/AC_Milan> .
+
+ID: #468	
+Manual Label: Correct
+<http://dbpedia.org/resource/2007_UEFA_Champions_League_Final> <http://dbpedia.org/ontology/runner> <http://dbpedia.org/resource/Liverpool_F.C.> .
+
+ID: #470	
+Manual Label: Correct
+<http://dbpedia.org/resource/2007_UEFA_Champions_League_Final> <http://dbpedia.org/ontology/goal> <http://dbpedia.org/resource/Filippo_Inzaghi> .
+
+ID: #471	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2007_UEFA_Champions_League_Final> <http://dbpedia.org/ontology/goal> <http://dbpedia.org/resource/Djibril_CissÃ©> .
+
+ID: #472	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2007_UEFA_Champions_League_Final> <http://dbpedia.org/ontology/goal> <http://dbpedia.org/resource/Andrea_Pirlo> .
+
+ID: #473	
+Manual Label: Correct
+<http://dbpedia.org/resource/2007_UEFA_Champions_League_Final> <http://dbpedia.org/ontology/goal> <http://dbpedia.org/resource/Dirk_Kuyt> .
+
+ID: #474	
+Manual Label: Correct
+<http://dbpedia.org/resource/1994_UEFA_Champions_League_Final> <http://dbpedia.org/ontology/date> "1994-05-18" .
+
+ID: #475	
+Manual Label: Correct
+<http://dbpedia.org/resource/1994_UEFA_Champions_League_Final> <http://dbpedia.org/ontology/venue> <http://dbpedia.org/resource/Olympic_Stadium_(Athens)> .
+
+ID: #476	
+Manual Label: Correct
+<http://dbpedia.org/resource/1994_UEFA_Champions_League_Final> <http://dbpedia.org/ontology/attendance> "70000" .
+
+ID: #477	
+Manual Label: Correct
+<http://dbpedia.org/resource/1994_UEFA_Champions_League_Final> <http://dbpedia.org/ontology/team1> <http://dbpedia.org/resource/AC_Milan> .
+
+ID: #478	
+Manual Label: Correct
+<http://dbpedia.org/resource/1994_UEFA_Champions_League_Final> <http://dbpedia.org/ontology/team2> <http://dbpedia.org/resource/FC_Barcelona> .
+
+ID: #479	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1994_UEFA_Champions_League_Final> <http://dbpedia.org/ontology/referee> <http://dbpedia.org/resource/Pierluigi_Pairetto> .
+
+ID: #480	
+Manual Label: Correct
+<http://dbpedia.org/resource/1994_UEFA_Champions_League_Final> <http://dbpedia.org/ontology/winner> <http://dbpedia.org/resource/AC_Milan> .
+
+ID: #481	
+Manual Label: Correct
+<http://dbpedia.org/resource/1994_UEFA_Champions_League_Final> <http://dbpedia.org/ontology/runner-up> <http://dbpedia.org/resource/FC_Barcelona> .
+
+ID: #482	
+Manual Label: Correct
+<http://dbpedia.org/resource/1994_UEFA_Champions_League_Final> <http://dbpedia.org/ontology/goals1> "4" .
+
+ID: #483	
+Manual Label: Correct
+<http://dbpedia.org/resource/1994_UEFA_Champions_League_Final> <http://dbpedia.org/ontology/goals2> "0" .
+
+ID: #484	
+Manual Label: Correct
+<http://dbpedia.org/resource/2019_Greek_Football_Cup_Final> <http://dbpedia.org/property/date> "2019-05-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #485	
+Manual Label: Correct
+<http://dbpedia.org/resource/2019_Greek_Football_Cup_Final> <http://dbpedia.org/property/team1> <http://dbpedia.org/resource/PAOK_FC> .
+
+ID: #486	
+Manual Label: Correct
+<http://dbpedia.org/resource/2019_Greek_Football_Cup_Final> <http://dbpedia.org/property/team2> <http://dbpedia.org/resource/AEÎš_Athens_FC> .
+
+ID: #487	
+Manual Label: Correct
+<http://dbpedia.org/resource/2019_Greek_Football_Cup_Final> <http://dbpedia.org/property/stadium> <http://dbpedia.org/resource/Olympic_Stadium_(Athens)> .
+
+ID: #488	
+Manual Label: Correct
+<http://dbpedia.org/resource/2019_Greek_Football_Cup_Final> <http://dbpedia.org/property/city> <http://dbpedia.org/resource/Athens> .
+
+ID: #489	
+Manual Label: Correct
+<http://dbpedia.org/resource/2019_Greek_Football_Cup_Final> <http://dbpedia.org/property/winner> <http://dbpedia.org/resource/PAOK_FC> .
+
+ID: #490	
+Manual Label: Correct
+<http://dbpedia.org/resource/2019_Greek_Football_Cup_Final> <http://dbpedia.org/property/loser> <http://dbpedia.org/resource/AEÎš_Athens_FC> .
+
+ID: #491	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2019_Greek_Football_Cup_Final> <http://dbpedia.org/property/score> "2-0" .
+
+ID: #492	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2019_Greek_Football_Cup_Final> <http://dbpedia.org/property/referee> <http://dbpedia.org/resource/Anastasios_Sidiropoulos> .
+
+ID: #493	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2019_Greek_Football_Cup_Final> <http://dbpedia.org/property/attendance> "63,090" .
+
+ID: #494	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_Summer_Olympics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/OlympicGames> .
+
+ID: #495	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_Summer_Olympics> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Athens> .
+
+ID: #496	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_Summer_Olympics> <http://dbpedia.org/ontology/date> "2004-08-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #497	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_Summer_Olympics> <http://dbpedia.org/ontology/numberOfParticipants> "10625"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #498	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_Summer_Olympics> <http://dbpedia.org/ontology/numberOfSports> "28"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #499	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_Summer_Olympics> <http://dbpedia.org/ontology/numberOfEvents> "301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #500	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_Summer_Olympics> <http://dbpedia.org/ontology/officialMotto> "Welcome Home" .
+
+ID: #501	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_Summer_Olympics> <http://dbpedia.org/ontology/officialLanguage> <http://dbpedia.org/resource/English_language> .
+
+ID: #502	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_Summer_Olympics> <http://dbpedia.org/ontology/officialWebsite> <http://www.athens2004.com> .
+
+ID: #503	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2004_Summer_Olympics> <http://dbpedia.org/ontology/flagBearer> <http://dbpedia.org/resource/Alexandra_Nikolayevna_Parsyak> .
+
+ID: #504	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_Summer_Paralympics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Olympics> .
+
+ID: #505	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_Summer_Paralympics> <http://dbpedia.org/ontology/year> "2004"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+
+ID: #506	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2004_Summer_Paralympics> <http://dbpedia.org/ontology/numberOfParticipants> "4000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #507	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_Summer_Paralympics> <http://dbpedia.org/ontology/numberOfNations> "136"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #508	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_Summer_Paralympics> <http://dbpedia.org/ontology/hostCity> <http://dbpedia.org/resource/Athens> .
+
+ID: #509	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_Summer_Paralympics> <http://dbpedia.org/ontology/previousEvent> <http://dbpedia.org/resource/2000_Summer_Paralympics> .
+
+ID: #510	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_Summer_Paralympics> <http://dbpedia.org/ontology/nextEvent> <http://dbpedia.org/resource/2008_Summer_Paralympics> .
+
+ID: #511	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_Summer_Paralympics> <http://dbpedia.org/ontology/officialWebsite> <http://www.paralympic.org/athens-2004> .
+
+ID: #512	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_Summer_Paralympics> <http://dbpedia.org/ontology/medal> <http://dbpedia.org/resource/China> .
+
+ID: #513	
+Manual Label: Correct
+<http://dbpedia.org/resource/2004_Summer_Paralympics> <http://dbpedia.org/ontology/medal> <http://dbpedia.org/resource/United_States> .
+
+ID: #514	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2011_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/date> "2011-05-07" .
+
+ID: #515	
+Manual Label: Correct
+<http://dbpedia.org/resource/2011_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/venue> <http://dbpedia.org/resource/Olympic_Stadium_(Athens)> .
+
+ID: #516	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2011_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/attendance> "69,618" .
+
+ID: #517	
+Manual Label: Correct
+<http://dbpedia.org/resource/2011_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/homeTeam> <http://dbpedia.org/resource/AEKAthensFC> .
+
+ID: #518	
+Manual Label: Correct
+<http://dbpedia.org/resource/2011_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/awayTeam> <http://dbpedia.org/resource/Atromitos_F.C.> .
+
+ID: #519	
+Manual Label: Correct
+<http://dbpedia.org/resource/2011_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/result> "AEK Athens FC 3-0 Atromitos F.C." .
+
+ID: #520	
+Manual Label: Correct
+<http://dbpedia.org/resource/2011_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/referee> <http://dbpedia.org/resource/Anastasios_Kakos> .
+
+ID: #521	
+Manual Label: Correct
+<http://dbpedia.org/resource/2011_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/competition> <http://dbpedia.org/resource/Greek_Football_Cup> .
+
+ID: #522	
+Manual Label: Correct
+<http://dbpedia.org/resource/2011_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/champion> <http://dbpedia.org/resource/AEKAthensFC> .
+
+ID: #523	
+Manual Label: Correct
+<http://dbpedia.org/resource/2011_Greek_Football_Cup_Final> <http://dbpedia.org/ontology/runnerUp> <http://dbpedia.org/resource/Atromitos_F.C.> .
+
+ID: #524	
+Manual Label: Correct
+<http://dbpedia.org/resource/1971_European_Cup_Final> <http://dbpedia.org/ontology/date> "2 June 1971" .
+
+ID: #525	
+Manual Label: Correct
+<http://dbpedia.org/resource/1971_European_Cup_Final> <http://dbpedia.org/ontology/venue> <http://dbpedia.org/resource/Wembley_Stadium> .
+
+ID: #526	
+Manual Label: Correct
+<http://dbpedia.org/resource/1971_European_Cup_Final> <http://dbpedia.org/ontology/attendance> "83,179" .
+
+ID: #527	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1971_European_Cup_Final> <http://dbpedia.org/ontology/referee> <http://dbpedia.org/resource/John_Gordon_(referee)> .
+
+ID: #528	
+Manual Label: Correct
+<http://dbpedia.org/resource/1971_European_Cup_Final> <http://dbpedia.org/ontology/winningTeam> <http://dbpedia.org/resource/Ajax_Amsterdam> .
+
+ID: #529	
+Manual Label: Correct
+<http://dbpedia.org/resource/1971_European_Cup_Final> <http://dbpedia.org/ontology/losingTeam> <http://dbpedia.org/resource/Panathinaikos_F.C.> .
+
+ID: #530	
+Manual Label: Correct
+<http://dbpedia.org/resource/1971_European_Cup_Final> <http://dbpedia.org/ontology/goalsScored> "2" .
+
+ID: #531	
+Manual Label: Correct
+<http://dbpedia.org/resource/1971_European_Cup_Final> <http://dbpedia.org/ontology/goalScorer> <http://dbpedia.org/resource/Dick_van_Dijk> .
+
+ID: #533	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1971_European_Cup_Final> <http://dbpedia.org/ontology/goalScorer> <http://dbpedia.org/resource/Alekos_Panagoulis> .
+
+ID: #534	
+Manual Label: Correct
+<http://dbpedia.org/resource/UEFA_Euro_2004_Final> <http://dbpedia.org/property/date> "4 July 2004" .
+
+ID: #535	
+Manual Label: Correct
+<http://dbpedia.org/resource/UEFA_Euro_2004_Final> <http://dbpedia.org/property/stadium> <http://dbpedia.org/resource/Estádio_da_Luz> .
+
+ID: #536	
+Manual Label: Correct
+<http://dbpedia.org/resource/UEFA_Euro_2004_Final> <http://dbpedia.org/property/attendance> "62,865" .
+
+ID: #537	
+Manual Label: Correct
+<http://dbpedia.org/resource/UEFA_Euro_2004_Final> <http://dbpedia.org/property/referee> <http://dbpedia.org/resource/Markus_Merk> .
+
+ID: #538	
+Manual Label: Correct
+<http://dbpedia.org/resource/UEFA_Euro_2004_Final> <http://dbpedia.org/property/winner> <http://dbpedia.org/resource/Greece_national_football_team> .
+
+ID: #539	
+Manual Label: Correct
+<http://dbpedia.org/resource/UEFA_Euro_2004_Final> <http://dbpedia.org/property/winningTeamScore> "1" .
+
+ID: #540	
+Manual Label: Correct
+<http://dbpedia.org/resource/UEFA_Euro_2004_Final> <http://dbpedia.org/property/runnerUp> <http://dbpedia.org/resource/Portugal_national_football_team> .
+
+ID: #541	
+Manual Label: Correct
+<http://dbpedia.org/resource/UEFA_Euro_2004_Final> <http://dbpedia.org/property/runnerUpScore> "0" .
+
+ID: #542	
+Manual Label: Erroneous	<http://dbpedia.org/resource/UEFA_Euro_2004_Final> <http://dbpedia.org/property/manOfTheMatch> <http://dbpedia.org/resource/Angelos_Basinas> .
+
+ID: #543	
+Manual Label: Correct
+<http://dbpedia.org/resource/UEFA_Euro_2004_Final> <http://dbpedia.org/property/commentary> "The UEFA Euro 2004 Final was the championship match of the 2004 UEFA European Football Championship, held in Portugal. Greece defeated Portugal 1-0 to win their first major international tournament." .
+
+ID: #544	
+Manual Label: Correct
+<http://dbpedia.org/resource/2007_Euroleague_Final_Four> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsEvent> .
+
+ID: #545	
+Manual Label: Correct
+<http://dbpedia.org/resource/2007_Euroleague_Final_Four> <http://dbpedia.org/ontology/date> "2007-05-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+ID: #546	
+Manual Label: Correct
+<http://dbpedia.org/resource/2007_Euroleague_Final_Four> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Athens> .
+
+ID: #547	
+Manual Label: Correct
+<http://dbpedia.org/resource/2007_Euroleague_Final_Four> <http://dbpedia.org/ontology/numberOfParticipants> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+ID: #548	
+Manual Label: Correct
+<http://dbpedia.org/resource/2007_Euroleague_Final_Four> <http://dbpedia.org/ontology/participant> <http://dbpedia.org/resource/Panathinaikos_BC> .
+
+ID: #549	
+Manual Label: Correct
+<http://dbpedia.org/resource/2007_Euroleague_Final_Four> <http://dbpedia.org/ontology/participant> <http://dbpedia.org/resource/CSKA_Moscow> .
+
+ID: #550	
+Manual Label: Correct
+<http://dbpedia.org/resource/2007_Euroleague_Final_Four> <http://dbpedia.org/ontology/participant> <http://dbpedia.org/resource/Unicaja_Málaga> .
+
+ID: #551	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2007_Euroleague_Final_Four> <http://dbpedia.org/ontology/participant> <http://dbpedia.org/resource/Olympiacos_BC> .
+
+ID: #552	
+Manual Label: Correct
+<http://dbpedia.org/resource/2007_Euroleague_Final_Four> <http://dbpedia.org/ontology/winner> <http://dbpedia.org/resource/Panathinaikos_BC> .
+
+ID: #553	
+Manual Label: Correct
+<http://dbpedia.org/resource/2007_Euroleague_Final_Four> <http://dbpedia.org/ontology/runnerUp> <http://dbpedia.org/resource/CSKA_Moscow> .
+
+ID: #554	
+Manual Label: Correct
+<http://dbpedia.org/resource/2010_Euroleague_Final_Four> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsEvent> .
+
+ID: #555	
+Manual Label: Correct
+<http://dbpedia.org/resource/2010_Euroleague_Final_Four> <http://dbpedia.org/ontology/date> "2010-05-07" .
+
+ID: #556	
+Manual Label: Correct
+<http://dbpedia.org/resource/2010_Euroleague_Final_Four> <http://dbpedia.org/ontology/numberOfParticipants> "4" .
+
+ID: #557	
+Manual Label: Correct
+<http://dbpedia.org/resource/2010_Euroleague_Final_Four> <http://dbpedia.org/ontology/venue> <http://dbpedia.org/resource/Palais_Omnisports_de_Paris-Bercy> .
+
+ID: #558	
+Manual Label: Correct
+<http://dbpedia.org/resource/2010_Euroleague_Final_Four> <http://dbpedia.org/ontology/champion> <http://dbpedia.org/resource/Regal_FC_Barcelona> .
+
+ID: #559	
+Manual Label: Correct
+<http://dbpedia.org/resource/2010_Euroleague_Final_Four> <http://dbpedia.org/ontology/runnerUp> <http://dbpedia.org/resource/Olympiacos_BC> .
+
+ID: #560	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2010_Euroleague_Final_Four> <http://dbpedia.org/ontology/semifinal1> <http://dbpedia.org/resource/Regal_FC_Barcelona_vs_Olympiacos_BC> .
+
+ID: #561	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2010_Euroleague_Final_Four> <http://dbpedia.org/ontology/semifinal2> <http://dbpedia.org/resource/CSKA_Moscow_vs_Partizan_Belgrade> .
+
+ID: #562	
+Manual Label: Correct
+<http://dbpedia.org/resource/2010_Euroleague_Final_Four> <http://dbpedia.org/ontology/mvp> <http://dbpedia.org/resource/Juan_Carlos_Navarro> .
+
+ID: #563	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2010_Euroleague_Final_Four> <http://dbpedia.org/ontology/website> <http://www.euroleague.net/final-four/paris-2010> .
+
+ID: #564	
+Manual Label: Correct
+<http://dbpedia.org/resource/2012_Euroleague_Final_Four> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsEvent> .
+
+ID: #565	
+Manual Label: Correct
+<http://dbpedia.org/resource/2012_Euroleague_Final_Four> <http://dbpedia.org/property/city> <http://dbpedia.org/resource/Istanbul> .
+
+ID: #566	
+Manual Label: Correct
+<http://dbpedia.org/resource/2012_Euroleague_Final_Four> <http://dbpedia.org/property/date> "2012-05-11" .
+
+ID: #567	
+Manual Label: Correct
+<http://dbpedia.org/resource/2012_Euroleague_Final_Four> <http://dbpedia.org/property/venue> <http://dbpedia.org/resource/Sinan_Erdem_Dome> .
+
+ID: #568	
+Manual Label: Correct
+<http://dbpedia.org/resource/2012_Euroleague_Final_Four> <http://dbpedia.org/property/champion> <http://dbpedia.org/resource/Olympiacos_BC> .
+
+ID: #569	
+Manual Label: Correct
+<http://dbpedia.org/resource/2012_Euroleague_Final_Four> <http://dbpedia.org/property/runnerup> <http://dbpedia.org/resource/CSKA_Moscow> .
+
+ID: #570	
+Manual Label: Correct
+<http://dbpedia.org/resource/2012_Euroleague_Final_Four> <http://dbpedia.org/property/thirdplace> <http://dbpedia.org/resource/FC_Barcelona_Basket> .
+
+ID: #571	
+Manual Label: Correct
+<http://dbpedia.org/resource/2012_Euroleague_Final_Four> <http://dbpedia.org/property/fourthplace> <http://dbpedia.org/resource/Panathinaikos_BC> .
+
+ID: #572	
+Manual Label: Correct
+<http://dbpedia.org/resource/2012_Euroleague_Final_Four> <http://dbpedia.org/property/mvp> <http://dbpedia.org/resource/Vassilis_Spanoulis> .
+
+ID: #573	
+Manual Label: Erroneous	<http://dbpedia.org/resource/2012_Euroleague_Final_Four> <http://dbpedia.org/property/attendance> "14,847" .
+
+ID: #574	
+Manual Label: Correct
+<http://dbpedia.org/resource/1996_FIBA_European_League_Final_Four> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> .
+
+ID: #575	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1996_FIBA_European_League_Final_Four> <http://dbpedia.org/ontology/date> "1996-04-19"^^<http://www.w3.org/2001/XMLSchema#gYearMonthDay> .
+
+ID: #576	
+Manual Label: Correct
+<http://dbpedia.org/resource/1996_FIBA_European_League_Final_Four> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Paris> .
+
+ID: #577	
+Manual Label: Correct
+<http://dbpedia.org/resource/1996_FIBA_European_League_Final_Four> <http://dbpedia.org/ontology/participant> <http://dbpedia.org/resource/Real_Madrid_Baloncesto> .
+
+ID: #578	
+Manual Label: Correct
+<http://dbpedia.org/resource/1996_FIBA_European_League_Final_Four> <http://dbpedia.org/ontology/participant> <http://dbpedia.org/resource/CSKA_Moscow> .
+
+ID: #579	
+Manual Label: Erroneous	<http://dbpedia.org/resource/1996_FIBA_European_League_Final_Four> <http://dbpedia.org/ontology/participant> <http://dbpedia.org/resource/Olimpia_Milano> .
+
+ID: #580	
+Manual Label: Correct
+<http://dbpedia.org/resource/1996_FIBA_European_League_Final_Four> <http://dbpedia.org/ontology/participant> <http://dbpedia.org/resource/FC_Barcelona_Bàsquet> .
+			
