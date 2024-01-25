@@ -15,8 +15,11 @@ We collected a list of famous Greek Persons, Places and Events . For the persons
 
 **C. Experimental Results and Statistics**
 
-The folder "Experimental Results and Evaluation" provides all the annotations, the experimental results and statistics. 
+The folder "Experimental Results and Evaluation" provides all the annotations, the experimental results and statistics for GPToLODS-Bench. 
 
 **D. Python Code**
 
 The folder "pythonCode" provides the python code which was used and the corresponding jupyter notebook.
+
+**E. Evaluation_over_Text2KGBench**
+The folder "Evaluation_over_Text2KGBench" provides  the annotations  for Evaluation_over_Text2KGBench for all the models.
